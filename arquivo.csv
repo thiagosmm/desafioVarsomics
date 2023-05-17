@@ -1,0 +1,1448 @@
+dataNotificacao,idade,codigoResultadoTeste,sintomas,codigoRecebeuVacina,estado,estadoNotificacao,evolucaoCaso,classificacaoFinal
+2023-05-16T03:00:00.000Z,43,,"Coriza, Tosse, Febre, Dor de Cabeça",1,Paraíba,Paraíba,,
+2023-03-30T03:00:01.891Z,10,2,"Coriza, Tosse, Febre, Dor de Cabeça",1,São Paulo,São Paulo,Cura,Descartado
+2023-04-20T03:00:00.000Z,25,2,"Dor de Cabeça, Febre, Dor de Garganta",1,São Paulo,São Paulo,Cura,Descartado
+2022-08-03T03:00:00.000Z,35,2,Assintomático,1,Pará,Pará,,
+2023-05-08T03:00:12.405Z,70,1,Assintomático,,Minas Gerais,Minas Gerais,,
+2023-05-08T03:00:12.405Z,70,2,Assintomático,,Minas Gerais,Minas Gerais,,
+2023-05-08T03:00:12.405Z,70,2,Assintomático,,Minas Gerais,Minas Gerais,,
+2023-05-17T03:00:49.814Z,1,,"Coriza, Tosse, Febre, Dor de Cabeça",2,Pernambuco,Pernambuco,,
+2022-01-04T03:00:55.527Z,51,,"Tosse, Febre, Dor de Cabeça",1,São Paulo,São Paulo,Cura,Síndrome Gripal Não Especificada
+2023-05-08T03:00:00.000Z,27,1,"Febre, Dor de Garganta",1,Ceará,Ceará,,
+2023-01-02T03:00:00.000Z,36,2,Assintomático,,Amazonas,Amazonas,Cura,Descartado
+2023-05-17T03:00:14.565Z,31,2,"Coriza, Febre, Dor de Garganta",1,Ceará,Rio de Janeiro,,
+2023-05-17T03:00:48.887Z,30,2,Tosse,1,Rio de Janeiro,Rio de Janeiro,Cura,Síndrome Gripal Não Especificada
+2022-06-01T03:00:05.806Z,55,1,"Dor de Garganta, Tosse",1,São Paulo,São Paulo,Cura,Confirmado Laboratorial
+2023-03-17T03:00:00.000Z,50,2,Assintomático,1,Rio de Janeiro,Rio de Janeiro,Cura,Descartado
+2022-07-25T03:00:00.000Z,50,2,Dor de Garganta,1,Minas Gerais,Minas Gerais,Cura,Confirmado Laboratorial
+2023-05-16T04:00:19.287Z,54,1,"Dor de Cabeça, Tosse, Febre",1,Rondônia,Rondônia,Em tratamento domiciliar,Confirmado Laboratorial
+2021-06-11T03:00:00.000Z,28,2,"Dor de Garganta, Coriza, Outros, Dor de Cabeça",,Goiás,Goiás,Cura,Síndrome Gripal Não Especificada
+2022-05-06T03:00:34.809Z,17,1,"Coriza, Dor de Cabeça, Dor de Garganta",2,São Paulo,São Paulo,Cura,Confirmado Laboratorial
+2023-02-25T03:00:00.000Z,33,1,"Coriza, Dor de Cabeça, Tosse, Febre, Dor de Garganta",1,Minas Gerais,Minas Gerais,,
+2023-03-16T03:00:42.893Z,27,2,"Dor de Cabeça, Tosse, Dispneia, Dor de Garganta, Outros, Coriza",,Ceará,Ceará,Cura,Descartado
+2023-05-17T03:00:49.285Z,5,2,Assintomático,2,Goiás,Goiás,,
+2023-03-20T03:00:00.000Z,25,2,"Coriza, Dor de Garganta, Dor de Cabeça",1,Minas Gerais,Minas Gerais,Cura,Síndrome Gripal Não Especificada
+2023-05-16T03:00:00.000Z,20,2,Assintomático,1,Goiás,Goiás,,
+2023-02-27T03:00:00.000Z,43,2,"Dor de Cabeça, Dor de Garganta",1,Rio de Janeiro,Rio de Janeiro,,
+2023-05-17T03:00:25.187Z,21,,Assintomático,2,Santa Catarina,Santa Catarina,,
+2022-05-05T03:00:00.000Z,21,,"Tosse, Febre, Outros",2,São Paulo,São Paulo,Cura,Síndrome Gripal Não Especificada
+2022-10-07T03:00:00.000Z,83,2,Assintomático,1,Pará,Pará,Cura,Descartado
+2023-05-17T03:00:58.829Z,19,2,"Coriza, Dor de Cabeça, Dor de Garganta",1,Rio Grande do Sul,Rio Grande do Sul,,
+2021-11-10T03:00:00.000Z,37,2,"Tosse, Outros",1,Minas Gerais,Minas Gerais,Cura,Confirmado Laboratorial
+2022-03-14T03:00:00.000Z,54,2,"Dor de Garganta, Outros",1,Pernambuco,Pernambuco,Cura,Descartado
+2021-03-04T03:00:04.278Z,40,1,"Dor de Cabeça, Tosse, Dor de Garganta, Distúrbios Gustativos, Distúrbios Olfativos, Outros",,Minas Gerais,Minas Gerais,Cura,Confirmado Laboratorial
+2023-05-17T03:00:40.079Z,32,2,Assintomático,1,Rio Grande do Sul,Rio Grande do Sul,,
+2022-06-27T03:00:00.000Z,63,2,Assintomático,1,Pernambuco,Pernambuco,,
+2023-05-17T03:00:41.866Z,16,1,"Coriza, Tosse, Dor de Garganta, Febre",1,Piauí,Piauí,,
+2023-04-27T03:00:54.723Z,2,1,Assintomático,,Pernambuco,Pernambuco,Cura,Confirmado Laboratorial
+2022-05-06T03:00:44.521Z,14,1,Coriza,1,São Paulo,São Paulo,Cura,Confirmado Laboratorial
+2023-05-13T03:00:00.000Z,2,,"Tosse, Dor de Garganta",,São Paulo,São Paulo,,
+2021-12-26T03:00:00.000Z,22,2,Assintomático,1,Rio Grande do Sul,Rio Grande do Sul,Cura,
+2023-05-17T03:00:57.769Z,46,2,"Dor de Cabeça, Tosse, Dor de Garganta, Coriza",1,Rio Grande do Sul,Rio Grande do Sul,,
+2020-10-10T02:45:25.829Z,78,2,Assintomático,,São Paulo,Paraná,Cura,Descartado
+2023-05-17T03:00:19.782Z,29,2,"Coriza, Dor de Cabeça",1,Ceará,Ceará,,
+2022-06-13T03:00:15.510Z,65,1,"Coriza, Tosse, Dispneia, Dor de Garganta, Outros",1,São Paulo,São Paulo,Cura,Confirmado Laboratorial
+2023-05-17T03:00:13.180Z,22,2,"Tosse, Dispneia, Coriza",,São Paulo,São Paulo,,
+2023-05-15T03:00:00.000Z,13,2,"Coriza, Tosse, Dor de Cabeça",1,São Paulo,São Paulo,,
+2023-03-30T03:00:05.045Z,10,2,"Tosse, Febre, Dor de Garganta",2,São Paulo,São Paulo,Cura,Descartado
+2023-03-24T03:00:00.000Z,44,1,"Coriza, Tosse, Febre, Dor de Garganta",1,São Paulo,São Paulo,Cura,Confirmado Laboratorial
+2022-06-04T03:00:49.459Z,66,2,"Coriza, Dor de Garganta, Outros",1,Rio de Janeiro,Rio de Janeiro,Ignorado,Síndrome Gripal Não Especificada
+2021-09-22T03:00:39.567Z,37,2,Assintomático,1,São Paulo,São Paulo,Cura,Descartado
+2020-05-13T03:00:00.000Z,42,1,"Febre, Dor de Cabeça",1,Rio Grande do Sul,Rio Grande do Sul,,
+2023-05-17T03:00:04.645Z,9,2,"Tosse, Febre",1,Rio Grande do Sul,Rio Grande do Sul,,
+2023-04-21T03:00:49.327Z,9,1,Febre,1,São Paulo,São Paulo,Cura,Confirmado Laboratorial
+2023-05-16T03:00:00.000Z,40,2,"Coriza, Tosse, Dispneia, Dor de Cabeça",1,Rio Grande do Sul,Rio Grande do Sul,,
+2023-05-17T03:00:39.045Z,41,2,"Coriza, Dor de Cabeça, Tosse, Febre, Dor de Garganta, Outros",1,Piauí,Piauí,,
+2023-05-12T03:00:00.000Z,34,2,Assintomático,1,Ceará,Ceará,,
+2023-05-16T04:00:00.000Z,30,2,"Coriza, Dor de Cabeça, Tosse, Febre, Dor de Garganta, Outros",,Mato Grosso do Sul,Mato Grosso do Sul,Cura,Descartado
+2023-05-15T04:00:00.000Z,76,2,"Tosse, Febre",1,Amazonas,Amazonas,,
+2023-03-17T03:00:00.000Z,47,2,Assintomático,1,Rio de Janeiro,Rio de Janeiro,Cura,Descartado
+2022-01-18T03:00:31.367Z,65,,"Dor de Cabeça, Dor de Garganta, Outros, Febre",1,São Paulo,São Paulo,Cura,Confirmado Laboratorial
+2022-01-18T03:00:31.367Z,65,1,"Dor de Cabeça, Dor de Garganta, Outros, Febre",1,São Paulo,São Paulo,Cura,Confirmado Laboratorial
+2022-01-18T03:00:31.367Z,65,1,"Dor de Cabeça, Dor de Garganta, Outros, Febre",1,São Paulo,São Paulo,Cura,Confirmado Laboratorial
+2023-05-16T03:00:00.000Z,54,2,"Coriza, Dor de Cabeça, Dor de Garganta, Outros",,Rio Grande do Sul,Rio Grande do Sul,,
+2022-01-25T03:00:00.000Z,47,2,"Tosse, Febre, Coriza",,São Paulo,São Paulo,Cura,Síndrome Gripal Não Especificada
+2022-12-02T03:00:35.999Z,39,2,Assintomático,1,Pará,Ceará,Cura,Descartado
+2023-05-17T03:00:32.280Z,37,2,Outros,1,São Paulo,São Paulo,,
+2022-07-11T03:00:53.600Z,21,1,"Dor de Garganta, Tosse",1,Piauí,Piauí,Cura,Confirmado Laboratorial
+2022-02-06T03:00:00.000Z,32,2,Assintomático,1,Pernambuco,Pernambuco,Cura,Descartado
+2022-06-01T03:00:19.362Z,3,2,"Tosse, Coriza",2,São Paulo,São Paulo,Cura,Descartado
+2022-10-24T03:00:00.000Z,1,2,Assintomático,2,Pará,Pará,Cura,Síndrome Gripal Não Especificada
+2023-05-08T03:00:00.000Z,27,1,"Dor de Garganta, Febre",1,Ceará,Ceará,,
+2022-06-25T03:00:42.666Z,29,1,Assintomático,1,Goiás,Goiás,Ignorado,Confirmado Laboratorial
+2023-05-17T03:00:10.095Z,23,1,"Coriza, Tosse, Febre, Dor de Garganta",1,Rio Grande do Sul,Rio Grande do Sul,,
+2022-05-07T03:00:00.000Z,54,1,"Coriza, Dor de Cabeça, Dor de Garganta",1,São Paulo,São Paulo,Cura,Confirmado Laboratorial
+2022-05-08T03:00:39.997Z,47,1,"Dor de Cabeça, Tosse, Febre",1,Santa Catarina,Santa Catarina,Cura,Confirmado Laboratorial
+2023-04-03T03:00:38.425Z,5,2,"Febre, Dispneia",,Minas Gerais,Minas Gerais,Cura,Síndrome Gripal Não Especificada
+2022-01-12T03:00:00.000Z,34,1,"Dor de Cabeça, Tosse",1,Minas Gerais,Rio de Janeiro,Cura,Confirmado Laboratorial
+2023-05-17T03:00:58.989Z,35,1,"Tosse, Febre, Dor de Garganta",1,Rio de Janeiro,Rio de Janeiro,,
+2023-05-09T03:00:00.000Z,5,2,"Tosse, Febre, Outros",,Amapá,Amapá,Ignorado,Descartado
+2023-05-17T03:00:41.864Z,41,2,"Dor de Cabeça, Dor de Garganta",,Rio Grande do Sul,Rio Grande do Sul,,
+2023-05-16T03:00:22.446Z,27,2,"Dor de Cabeça, Febre, Coriza",1,Minas Gerais,Minas Gerais,Cura,Descartado
+2023-04-10T03:00:00.000Z,49,1,"Coriza, Dor de Cabeça, Tosse, Distúrbios Olfativos",1,Pernambuco,Pernambuco,Cura,Confirmado Laboratorial
+2023-05-17T03:00:06.926Z,40,2,"Dor de Cabeça, Febre, Dor de Garganta, Dispneia",,Rio Grande do Sul,Rio Grande do Sul,,
+2022-06-25T03:00:07.181Z,33,1,Assintomático,1,Goiás,Goiás,Ignorado,Confirmado Laboratorial
+2023-05-16T03:00:52.029Z,0,,"Tosse, Dispneia, Coriza",2,Pernambuco,Pernambuco,Cura,Descartado
+2023-05-17T03:00:11.883Z,37,2,Outros,,Minas Gerais,Minas Gerais,,
+2023-04-18T03:00:00.000Z,33,2,"Dor de Cabeça, Dispneia, Coriza",1,Rio Grande do Sul,Rio Grande do Sul,,Síndrome Gripal Não Especificada
+2022-07-15T03:00:00.000Z,45,2,"Coriza, Tosse, Febre, Dor de Cabeça",,Pará,Pará,,
+2023-05-17T03:00:00.000Z,42,2,"Dor de Cabeça, Dor de Garganta, Outros",1,Pernambuco,Pernambuco,Cura,Descartado
+2023-05-17T03:00:00.000Z,42,1,"Dor de Cabeça, Dor de Garganta, Outros",1,Pernambuco,Pernambuco,Cura,Descartado
+2023-05-17T03:00:34.688Z,44,2,"Coriza, Dor de Cabeça, Tosse, Dor de Garganta",1,São Paulo,São Paulo,,
+2023-05-17T03:00:41.276Z,8,1,"Tosse, Febre, Outros",2,São Paulo,São Paulo,,
+2022-11-28T03:00:00.000Z,66,2,"Coriza, Tosse, Dor de Cabeça",1,Rio de Janeiro,Rio de Janeiro,,
+2023-04-10T03:00:28.624Z,33,2,Tosse,1,Bahia,Bahia,Cura,Descartado
+2020-11-21T03:27:45.890Z,60,2,Assintomático,,São Paulo,Paraná,Cura,Descartado
+2022-01-12T03:00:00.000Z,37,2,"Distúrbios Olfativos, Distúrbios Gustativos",1,Minas Gerais,Minas Gerais,Cura,Descartado
+2022-05-18T03:00:00.000Z,22,2,Assintomático,1,Rio Grande do Sul,Rio Grande do Sul,Cura,
+2022-12-02T03:00:00.000Z,34,2,"Tosse, Coriza",,Pará,Pará,Cura,Descartado
+2023-05-17T03:00:36.695Z,36,2,Assintomático,1,Goiás,Goiás,,
+2022-06-01T03:00:55.588Z,32,1,"Dor de Cabeça, Febre, Dor de Garganta, Tosse",1,São Paulo,São Paulo,Cura,Confirmado Laboratorial
+2023-05-17T03:00:04.258Z,73,2,Assintomático,,Paraíba,Paraíba,,
+2023-05-17T03:00:20.289Z,36,2,Assintomático,1,Rio Grande do Sul,Rio Grande do Sul,,
+2023-05-11T03:00:00.000Z,38,2,"Coriza, Dor de Cabeça",1,São Paulo,São Paulo,Cura,Descartado
+2023-05-17T03:00:07.697Z,34,2,Febre,1,Mato Grosso do Sul,Mato Grosso do Sul,,
+2023-05-17T03:00:33.357Z,45,2,Assintomático,1,Rio Grande do Sul,Rio Grande do Sul,,
+2023-04-18T03:00:00.000Z,70,2,Dispneia,1,Rio Grande do Sul,Rio Grande do Sul,,Síndrome Gripal Não Especificada
+2023-05-17T03:00:04.585Z,36,1,Assintomático,1,Rio de Janeiro,Rio de Janeiro,Em tratamento domiciliar,Confirmado Laboratorial
+2022-05-09T03:00:37.686Z,4,,"Coriza, Tosse, Febre, Dor de Garganta, Outros",2,São Paulo,São Paulo,Cura,Síndrome Gripal Não Especificada
+2023-05-14T03:00:00.000Z,1,2,Assintomático,1,Bahia,Bahia,,
+2023-05-15T03:00:00.000Z,48,2,"Coriza, Dor de Cabeça, Tosse, Febre, Dor de Garganta",1,Pará,Piauí,,
+2023-05-06T03:00:00.000Z,61,2,"Tosse, Febre, Dispneia, Dor de Garganta, Outros, Dor de Cabeça",,Distrito Federal,Distrito Federal,,
+2023-05-17T03:00:02.929Z,20,2,"Coriza, Febre, Dor de Garganta",1,Rio Grande do Norte,Rio Grande do Norte,,
+2023-05-17T03:00:00.000Z,25,1,"Dor de Cabeça, Tosse, Febre, Dor de Garganta, Coriza",1,Minas Gerais,Minas Gerais,Cura,Confirmado Laboratorial
+2023-05-17T03:00:16.341Z,93,2,"Outros, Tosse",1,Rio Grande do Sul,Rio Grande do Sul,,
+2023-05-11T03:00:00.000Z,43,2,Outros,1,Rio Grande do Sul,Rio Grande do Sul,,
+2023-03-04T03:00:00.000Z,43,2,Assintomático,,São Paulo,São Paulo,Ignorado,Síndrome Gripal Não Especificada
+2023-03-20T03:00:00.000Z,67,2,"Tosse, Dor de Garganta, Coriza",1,Minas Gerais,Minas Gerais,Cura,Síndrome Gripal Não Especificada
+2023-05-10T03:00:00.000Z,25,2,Assintomático,1,Maranhão,Maranhão,,
+2023-04-13T03:00:00.000Z,48,2,Assintomático,2,Pernambuco,Pernambuco,Cura,Descartado
+2023-02-25T03:00:00.000Z,29,2,"Coriza, Dor de Cabeça, Tosse, Febre, Dor de Garganta",1,Minas Gerais,Minas Gerais,,
+2023-04-17T03:00:00.000Z,44,,"Dor de Cabeça, Febre, Dor de Garganta, Tosse",1,São Paulo,São Paulo,Ignorado,Descartado
+2023-04-17T03:00:00.000Z,44,1,"Dor de Cabeça, Febre, Dor de Garganta, Tosse",1,São Paulo,São Paulo,Ignorado,Descartado
+2023-05-17T03:00:07.714Z,52,1,"Coriza, Distúrbios Olfativos, Distúrbios Gustativos, Dor de Cabeça, Tosse, Dispneia, Dor de Garganta, Outros",1,São Paulo,São Paulo,,
+2023-05-16T03:00:00.000Z,48,2,Tosse,1,Alagoas,Alagoas,,
+2023-05-16T04:00:00.000Z,0,,"Tosse, Dispneia",2,Amazonas,Amazonas,,
+2023-05-16T04:00:00.000Z,0,2,"Tosse, Dispneia",2,Amazonas,Amazonas,,
+2023-05-17T03:00:52.320Z,53,2,"Coriza, Febre, Dor de Garganta",1,Goiás,Goiás,,
+2023-05-12T03:00:00.000Z,14,1,"Coriza, Tosse, Febre, Dor de Garganta",1,Goiás,Goiás,,
+2023-05-17T03:00:03.316Z,64,2,"Dor de Cabeça, Febre, Tosse",1,Rio de Janeiro,Rio de Janeiro,,
+2023-05-03T03:00:00.000Z,35,,"Dor de Cabeça, Tosse, Dor de Garganta, Outros",,São Paulo,São Paulo,,
+2023-05-15T03:00:25.209Z,44,2,"Coriza, Dor de Cabeça, Tosse, Dor de Garganta",,São Paulo,São Paulo,,
+2023-04-10T03:00:10.864Z,43,1,"Coriza, Tosse, Outros, Dor de Garganta",,Pernambuco,Pernambuco,Cura,Confirmado Laboratorial
+2022-01-11T04:00:00.000Z,26,2,"Coriza, Tosse, Outros",1,Mato Grosso do Sul,Mato Grosso do Sul,Cura,Síndrome Gripal Não Especificada
+2023-05-17T03:00:06.707Z,54,2,"Coriza, Tosse, Dor de Garganta, Febre",1,São Paulo,São Paulo,,
+2023-05-17T03:00:56.342Z,49,2,"Tosse, Dor de Cabeça",1,Rio Grande do Sul,Rio Grande do Sul,,
+2023-03-15T03:00:00.000Z,62,2,Assintomático,1,São Paulo,São Paulo,Ignorado,Descartado
+2022-06-13T03:00:38.538Z,48,1,"Coriza, Tosse, Febre, Dor de Garganta, Distúrbios Olfativos",1,São Paulo,São Paulo,Cura,Confirmado Laboratorial
+2023-03-20T03:00:00.000Z,64,2,Coriza,1,Minas Gerais,Minas Gerais,Cura,Síndrome Gripal Não Especificada
+2023-05-17T03:00:17.759Z,52,2,"Distúrbios Olfativos, Dor de Cabeça, Tosse, Outros",1,Rio Grande do Sul,Rio Grande do Sul,,
+2023-05-17T03:00:13.564Z,2,1,"Tosse, Coriza",,São Paulo,São Paulo,Cura,Descartado
+2023-05-17T03:00:43.784Z,31,2,"Febre, Dor de Garganta",1,Rio de Janeiro,Rio de Janeiro,,
+2022-12-08T03:00:38.202Z,29,1,"Dor de Garganta, Tosse",1,Piauí,Piauí,Cura,Confirmado Laboratorial
+2023-02-19T03:00:00.000Z,5,2,Assintomático,2,Pará,Pará,Cura,Descartado
+2023-05-03T04:00:15.524Z,53,1,"Coriza, Dor de Cabeça",1,Rondônia,Rondônia,Cura,Confirmado Laboratorial
+2023-05-15T03:00:44.894Z,37,2,"Dor de Cabeça, Febre, Outros",,Rio Grande do Sul,Rio Grande do Sul,Ignorado,Síndrome Gripal Não Especificada
+2022-05-27T03:00:00.000Z,42,1,"Coriza, Tosse, Dor de Cabeça",,Rio de Janeiro,Rio de Janeiro,Ignorado,Confirmado Laboratorial
+2023-04-18T03:00:00.000Z,35,2,Febre,1,Rio Grande do Sul,Rio Grande do Sul,,Síndrome Gripal Não Especificada
+2023-04-16T03:00:00.000Z,43,,"Tosse, Dor de Garganta, Coriza",1,São Paulo,São Paulo,,Síndrome Gripal Não Especificada
+2022-04-06T03:00:00.000Z,18,2,Assintomático,1,Amapá,Amapá,Ignorado,Descartado
+2023-05-17T04:00:45.546Z,26,2,"Coriza, Dor de Cabeça",1,Mato Grosso do Sul,Mato Grosso do Sul,,
+2023-05-10T03:00:45.035Z,33,2,"Dor de Cabeça, Tosse, Outros",1,Minas Gerais,Minas Gerais,Cura,Síndrome Gripal Não Especificada
+2023-05-10T03:00:45.035Z,33,,"Dor de Cabeça, Tosse, Outros",1,Minas Gerais,Minas Gerais,Cura,Síndrome Gripal Não Especificada
+2022-06-25T03:00:14.954Z,15,1,Assintomático,1,Goiás,Goiás,Ignorado,Confirmado Laboratorial
+2023-05-03T03:00:00.000Z,42,2,"Tosse, Dor de Garganta",1,Rio Grande do Sul,Rio Grande do Sul,,
+2023-05-17T03:00:55.355Z,26,2,"Coriza, Tosse, Dor de Garganta",1,Rio de Janeiro,Rio de Janeiro,Ignorado,Síndrome Gripal Não Especificada
+2023-05-08T03:00:51.118Z,92,2,Outros,1,Pernambuco,Pernambuco,Cura,Descartado
+2022-01-12T03:00:00.000Z,33,1,"Dor de Cabeça, Febre, Outros",1,Minas Gerais,Minas Gerais,Cura,Confirmado Laboratorial
+2023-05-17T03:00:07.185Z,31,2,"Coriza, Tosse, Dor de Cabeça",1,Rio Grande do Sul,Rio Grande do Sul,,
+2023-05-14T05:00:00.000Z,52,2,"Dor de Cabeça, Tosse, Febre, Dor de Garganta",1,Acre,Acre,Cura,Síndrome Gripal Não Especificada
+2023-05-17T03:00:25.071Z,33,2,"Coriza, Dor de Cabeça",1,Santa Catarina,Santa Catarina,,
+2023-05-17T03:00:34.673Z,39,2,Assintomático,2,Goiás,Goiás,,
+2023-05-17T03:00:30.540Z,47,2,"Dor de Cabeça, Coriza",1,Rio de Janeiro,Rio de Janeiro,,
+2023-05-17T03:00:30.540Z,47,2,"Dor de Cabeça, Coriza",1,Rio de Janeiro,Rio de Janeiro,,
+2023-02-13T03:00:00.000Z,48,1,"Coriza, Dor de Cabeça, Tosse, Outros",1,São Paulo,São Paulo,Cura,Confirmado Laboratorial
+2023-05-17T03:00:46.572Z,50,2,"Coriza, Dor de Cabeça, Dor de Garganta",1,São Paulo,São Paulo,,
+2023-05-17T03:00:20.452Z,11,,"Coriza, Distúrbios Olfativos, Distúrbios Gustativos",1,Rio Grande do Sul,Rio Grande do Sul,,
+2023-02-25T03:00:00.000Z,49,2,"Coriza, Dor de Cabeça, Tosse, Febre, Dor de Garganta",1,Minas Gerais,Minas Gerais,,
+2023-05-17T03:00:15.897Z,33,2,"Dor de Garganta, Tosse",1,Mato Grosso do Sul,Mato Grosso do Sul,,
+2023-05-10T03:00:00.000Z,47,1,"Coriza, Tosse, Dor de Cabeça",1,Santa Catarina,Santa Catarina,,
+2023-05-17T03:00:08.249Z,64,1,"Dor de Cabeça, Tosse, Dor de Garganta",1,São Paulo,São Paulo,,
+2022-05-08T03:00:00.000Z,6,1,"Tosse, Febre, Dor de Garganta, Outros",2,Santa Catarina,Santa Catarina,Cura,Confirmado Laboratorial
+2022-06-25T03:00:08.121Z,11,1,Assintomático,1,Goiás,Goiás,Ignorado,Confirmado Laboratorial
+2022-08-15T03:00:36.855Z,39,1,"Febre, Tosse",1,São Paulo,São Paulo,Cura,Confirmado Laboratorial
+2023-05-17T03:00:19.965Z,62,2,"Tosse, Dispneia, Outros",1,São Paulo,São Paulo,,Descartado
+2023-03-20T03:00:01.222Z,63,2,"Dor de Garganta, Outros, Dor de Cabeça",1,Minas Gerais,Minas Gerais,Cura,Síndrome Gripal Não Especificada
+2022-11-17T03:00:00.000Z,32,2,"Dispneia, Tosse",,Pará,Pará,Cura,Descartado
+2022-12-25T03:00:00.000Z,24,2,"Distúrbios Gustativos, Dor de Cabeça, Dispneia, Dor de Garganta, Coriza",2,Minas Gerais,Minas Gerais,Cura,Descartado
+2022-01-10T03:00:00.000Z,41,,"Coriza, Distúrbios Olfativos, Distúrbios Gustativos, Dor de Cabeça, Dor de Garganta",1,Ceará,Ceará,Cura,Descartado
+2022-01-10T03:00:00.000Z,41,1,"Coriza, Distúrbios Olfativos, Distúrbios Gustativos, Dor de Cabeça, Dor de Garganta",1,Ceará,Ceará,Cura,Descartado
+2022-01-10T03:00:00.000Z,41,2,"Coriza, Distúrbios Olfativos, Distúrbios Gustativos, Dor de Cabeça, Dor de Garganta",1,Ceará,Ceará,Cura,Descartado
+2023-02-01T03:00:52.830Z,71,1,Dor de Cabeça,1,São Paulo,São Paulo,,
+2023-05-16T03:00:00.000Z,23,2,"Coriza, Dor de Cabeça, Tosse",1,São Paulo,São Paulo,,
+2023-04-08T03:00:00.000Z,19,2,"Dor de Cabeça, Febre, Dor de Garganta, Dispneia",1,Rio de Janeiro,Rio de Janeiro,Ignorado,Descartado
+2022-06-04T03:00:47.845Z,62,2,"Dor de Garganta, Coriza",1,Rio de Janeiro,Rio de Janeiro,Ignorado,Síndrome Gripal Não Especificada
+2023-02-25T03:00:00.000Z,49,2,"Coriza, Dor de Cabeça, Tosse, Febre, Dor de Garganta",1,Minas Gerais,Minas Gerais,Cancelado,
+2023-05-17T03:00:01.635Z,52,2,"Coriza, Dor de Cabeça, Dor de Garganta",1,São Paulo,São Paulo,Cura,Descartado
+2023-05-08T03:00:49.223Z,15,2,Outros,1,Pernambuco,Pernambuco,Cura,Descartado
+2023-05-17T03:00:50.459Z,52,2,"Febre, Dor de Cabeça",1,Pernambuco,Pernambuco,Cura,Descartado
+2023-03-15T03:00:00.000Z,39,1,"Coriza, Tosse, Dor de Garganta, Dor de Cabeça",1,São Paulo,São Paulo,Cura,Descartado
+2023-03-15T03:00:00.000Z,39,,"Coriza, Tosse, Dor de Garganta, Dor de Cabeça",1,São Paulo,São Paulo,Cura,Descartado
+2023-03-30T03:00:00.000Z,59,1,"Tosse, Febre, Dor de Garganta, Outros",,São Paulo,São Paulo,Cura,Confirmado Laboratorial
+2023-05-15T03:00:00.000Z,34,1,"Coriza, Dor de Cabeça, Tosse, Febre, Dor de Garganta",1,Tocantins,Tocantins,Cura,Confirmado Laboratorial
+2022-03-14T03:00:00.000Z,34,2,"Coriza, Dor de Garganta, Dor de Cabeça",1,Pernambuco,Pernambuco,Cura,Descartado
+2023-03-14T03:00:00.000Z,4,2,"Febre, Tosse, Dor de Garganta, Coriza, Outros",,Bahia,Bahia,Cura,Síndrome Gripal Não Especificada
+2022-06-25T03:00:12.476Z,47,1,Assintomático,1,Goiás,Goiás,Ignorado,Confirmado Laboratorial
+2023-05-17T03:00:21.616Z,77,2,"Coriza, Tosse",1,São Paulo,São Paulo,,
+2023-05-17T03:00:42.226Z,18,2,Tosse,1,Rio de Janeiro,Rio de Janeiro,,
+2023-05-17T03:00:21.941Z,28,2,Assintomático,1,São Paulo,São Paulo,Cura,Descartado
+2023-05-17T03:00:43.804Z,34,1,"Coriza, Febre, Tosse",,Santa Catarina,Santa Catarina,,
+2020-11-18T23:39:29.149Z,72,2,Assintomático,,São Paulo,Paraná,Cura,Descartado
+2022-04-08T03:00:23.992Z,64,2,Assintomático,1,Pernambuco,Pernambuco,Cura,Descartado
+2023-03-10T03:00:00.000Z,32,2,Assintomático,1,Rio de Janeiro,Rio de Janeiro,Cura,Descartado
+2023-05-12T03:00:00.000Z,69,2,Assintomático,1,São Paulo,São Paulo,,
+2022-01-11T04:00:00.000Z,41,2,Outros,1,Mato Grosso do Sul,Mato Grosso do Sul,Cura,Síndrome Gripal Não Especificada
+2023-05-06T03:00:00.000Z,19,1,"Coriza, Distúrbios Gustativos, Dor de Cabeça, Tosse, Dispneia, Dor de Garganta, Distúrbios Olfativos",1,Paraíba,Paraíba,,
+2022-05-08T03:00:02.241Z,43,1,"Coriza, Dor de Cabeça, Tosse, Dor de Garganta, Outros",1,Santa Catarina,Santa Catarina,Cura,Confirmado Laboratorial
+2023-05-03T03:00:00.000Z,12,2,Assintomático,1,São Paulo,São Paulo,Cura,Descartado
+2023-04-22T03:00:00.000Z,33,2,"Febre, Dor de Garganta, Tosse",1,Pará,Pará,Em tratamento domiciliar,Síndrome Gripal Não Especificada
+2023-03-22T03:00:00.000Z,42,2,"Dor de Cabeça, Tosse, Febre, Dor de Garganta, Coriza",1,Bahia,Bahia,Cura,Descartado
+2021-12-07T03:00:00.000Z,11,2,Assintomático,,Pernambuco,Pernambuco,Cura,Descartado
+2023-03-07T03:00:00.000Z,45,1,"Distúrbios Olfativos, Distúrbios Gustativos, Dor de Cabeça, Tosse, Febre, Dor de Garganta, Coriza",1,Tocantins,Tocantins,,
+2023-05-17T03:00:10.060Z,8,2,"Coriza, Tosse, Outros",1,Minas Gerais,Minas Gerais,,
+2020-11-16T13:41:01.169Z,72,2,"Febre,Dor de Cabeça",,São Paulo,Paraná,Cura,Descartado
+2023-03-25T03:00:26.545Z,67,1,"Tosse, Febre, Dor de Garganta, Coriza",,São Paulo,São Paulo,Cura,Descartado
+2023-05-16T03:00:00.000Z,23,2,Assintomático,,Rio de Janeiro,Rio de Janeiro,,
+2023-05-17T03:00:45.821Z,23,,Assintomático,1,Pernambuco,Pernambuco,,
+2023-05-17T03:00:31.388Z,2,2,"Coriza, Tosse",1,São Paulo,São Paulo,Cura,Descartado
+2023-05-17T03:00:41.143Z,15,2,Dor de Garganta,1,Rio Grande do Sul,Rio Grande do Sul,,
+2023-05-17T03:00:53.735Z,9,2,Assintomático,,São Paulo,São Paulo,Cancelado,
+2023-05-17T03:00:35.453Z,43,2,"Tosse, Dor de Garganta, Febre",1,Rio Grande do Sul,Rio Grande do Sul,,
+2023-04-11T03:00:00.000Z,23,2,"Coriza, Dor de Cabeça, Tosse, Febre, Dispneia, Outros",1,Sergipe,Sergipe,,
+2020-05-14T03:00:00.000Z,35,1,Febre,1,Rio Grande do Sul,Rio Grande do Sul,,
+2022-01-11T04:00:00.000Z,20,2,"Dor de Cabeça, Tosse, Dor de Garganta, Outros",1,Mato Grosso do Sul,Mato Grosso do Sul,Cura,Síndrome Gripal Não Especificada
+2022-10-20T03:00:00.000Z,55,2,Assintomático,1,Pará,Pará,Cura,Descartado
+2022-11-09T03:00:00.000Z,67,2,Assintomático,1,Pará,Pará,Cura,Descartado
+2023-04-18T03:00:00.000Z,28,2,"Dispneia, Outros",1,Rio de Janeiro,Rio de Janeiro,Cura,Confirmado Laboratorial
+2022-06-13T03:00:41.762Z,80,1,"Tosse, Dor de Garganta",1,São Paulo,São Paulo,Cura,Confirmado Laboratorial
+2020-09-15T03:00:54.466Z,42,2,Assintomático,,São Paulo,São Paulo,Cura,Síndrome Gripal Não Especificada
+2023-05-15T04:00:00.000Z,47,2,"Dor de Cabeça, Febre, Tosse",1,Amazonas,Amazonas,,
+2023-05-17T03:00:53.098Z,28,2,"Coriza, Tosse, Dor de Garganta, Febre",1,Rio Grande do Sul,Rio Grande do Sul,,
+2023-05-17T03:00:31.276Z,52,2,Assintomático,1,Rio de Janeiro,Rio de Janeiro,,
+2023-03-02T03:00:00.000Z,49,2,Assintomático,1,Rio de Janeiro,Rio de Janeiro,Ignorado,Descartado
+2022-01-11T04:00:00.000Z,35,2,"Coriza, Dor de Cabeça",1,Mato Grosso do Sul,Mato Grosso do Sul,Cura,Síndrome Gripal Não Especificada
+2023-05-17T03:00:11.401Z,38,2,Outros,,Minas Gerais,Minas Gerais,,
+2023-05-09T03:00:28.763Z,41,1,"Dor de Cabeça, Tosse, Febre",,Minas Gerais,Minas Gerais,Cura,Confirmado Laboratorial
+2023-05-09T03:00:28.763Z,41,,"Dor de Cabeça, Tosse, Febre",,Minas Gerais,Minas Gerais,Cura,Confirmado Laboratorial
+2022-06-25T03:00:46.506Z,34,2,"Coriza, Dor de Cabeça, Tosse",1,São Paulo,São Paulo,Cura,Descartado
+2023-03-30T03:00:00.000Z,51,2,"Dor de Cabeça, Dor de Garganta",,Rio Grande do Sul,Rio Grande do Sul,,
+2022-04-08T03:00:09.059Z,54,2,Assintomático,1,Pernambuco,Pernambuco,Cura,Descartado
+2023-05-17T03:00:14.989Z,37,2,"Coriza, Tosse",1,São Paulo,São Paulo,Cura,Descartado
+2023-05-04T02:00:00.000Z,0,2,"Tosse, Febre, Coriza",2,Maranhão,Maranhão,Cura,Descartado
+2023-05-17T03:00:40.975Z,17,,Assintomático,1,Santa Catarina,Santa Catarina,,
+2023-02-09T03:00:15.334Z,31,,Coriza,1,Bahia,São Paulo,Ignorado,Síndrome Gripal Não Especificada
+2023-05-11T04:00:00.000Z,14,2,"Coriza, Dor de Cabeça, Tosse, Febre, Dor de Garganta, Outros",,Mato Grosso do Sul,Mato Grosso do Sul,Cura,Descartado
+2023-05-17T03:00:49.632Z,36,2,Dor de Cabeça,1,Rio Grande do Sul,Rio Grande do Sul,,
+2022-09-16T03:00:00.000Z,38,2,Assintomático,,São Paulo,São Paulo,Cura,Descartado
+2023-05-17T03:00:57.214Z,79,2,Febre,1,São Paulo,São Paulo,,
+2023-03-25T03:00:00.000Z,27,2,Assintomático,1,Pernambuco,Pernambuco,Cura,Descartado
+2023-03-25T03:00:00.000Z,27,2,Assintomático,1,Pernambuco,Pernambuco,Cura,Descartado
+2023-03-25T03:00:00.000Z,27,2,Assintomático,1,Pernambuco,Pernambuco,Cura,Descartado
+2023-05-17T03:00:16.270Z,7,,"Dor de Cabeça, Tosse, Febre, Outros, Dor de Garganta",,Bahia,Bahia,,
+2023-04-12T03:00:00.000Z,66,1,"Coriza, Tosse, Dor de Garganta",1,Pernambuco,Pernambuco,Cura,Confirmado Laboratorial
+2023-04-12T03:00:00.000Z,66,1,"Coriza, Tosse, Dor de Garganta",1,Pernambuco,Pernambuco,Cura,Confirmado Laboratorial
+2023-03-26T03:00:48.456Z,35,2,"Coriza, Dor de Cabeça, Febre, Dor de Garganta, Outros",1,São Paulo,São Paulo,Cura,Descartado
+2021-03-20T03:00:00.000Z,37,1,Outros,,Piauí,Piauí,Cura,Confirmado Laboratorial
+2022-12-06T03:00:00.000Z,26,2,"Dor de Cabeça, Dispneia, Dor de Garganta",1,Rio de Janeiro,Rio de Janeiro,Cura,Síndrome Gripal Não Especificada
+2023-05-17T03:00:59.141Z,29,2,"Febre, Dor de Cabeça",1,Rio Grande do Sul,Rio Grande do Sul,,
+2022-06-29T03:00:00.000Z,48,2,"Tosse, Coriza",1,Pernambuco,Pernambuco,,
+2022-02-18T03:00:48.157Z,36,1,"Coriza, Dispneia, Dor de Garganta, Tosse",1,São Paulo,São Paulo,Cura,Confirmado Laboratorial
+2023-05-01T03:00:00.000Z,35,2,Dor de Cabeça,1,Minas Gerais,Minas Gerais,,
+2023-05-17T03:00:38.095Z,28,2,"Coriza, Dor de Cabeça, Tosse, Febre, Dor de Garganta",1,Tocantins,Tocantins,,
+2021-03-23T03:00:16.162Z,30,,"Dispneia, Outros",,Minas Gerais,Minas Gerais,Cancelado,
+2021-12-02T03:00:00.000Z,34,1,"Coriza, Tosse, Febre, Dispneia, Dor de Garganta",1,São Paulo,São Paulo,Cura,Confirmado Laboratorial
+2023-04-27T03:00:00.000Z,50,2,Assintomático,1,Goiás,Goiás,,
+2023-03-07T03:00:00.000Z,39,2,"Tosse, Febre, Dor de Garganta, Dor de Cabeça",,São Paulo,São Paulo,Cura,Síndrome Gripal Não Especificada
+2023-05-15T03:00:00.000Z,24,2,"Coriza, Dor de Cabeça, Febre, Dor de Garganta",1,Pará,Piauí,,
+2023-05-17T03:00:01.946Z,52,2,"Tosse, Febre, Dor de Garganta",1,São Paulo,São Paulo,,
+2023-05-17T03:00:15.676Z,37,,"Dor de Cabeça, Tosse, Febre, Coriza",1,Rio de Janeiro,Rio de Janeiro,,
+2022-07-19T03:00:00.000Z,13,2,"Dor de Cabeça, Febre, Dor de Garganta, Coriza",1,Minas Gerais,Minas Gerais,Cura,Confirmado Laboratorial
+2023-05-17T03:00:18.559Z,78,,Assintomático,,Pernambuco,Pernambuco,,
+2023-05-17T03:00:50.241Z,60,2,"Coriza, Dor de Cabeça",1,Rio de Janeiro,Rio de Janeiro,,
+2023-05-17T03:00:28.416Z,29,2,"Coriza, Dor de Cabeça, Dispneia, Dor de Garganta",1,São Paulo,São Paulo,Cura,Descartado
+2022-12-08T03:00:40.062Z,64,1,"Dor de Cabeça, Tosse, Dor de Garganta",1,Piauí,Piauí,Cura,Confirmado Laboratorial
+2022-06-03T03:00:00.000Z,20,2,"Dor de Garganta, Dor de Cabeça",1,Rio de Janeiro,Rio de Janeiro,Ignorado,Síndrome Gripal Não Especificada
+2023-03-30T03:00:16.822Z,39,2,"Coriza, Tosse, Febre, Dispneia, Dor de Garganta, Dor de Cabeça",1,São Paulo,São Paulo,Cura,Descartado
+2023-03-26T03:00:11.759Z,39,2,"Coriza, Dor de Cabeça, Tosse, Febre, Dispneia, Dor de Garganta",1,São Paulo,São Paulo,Cura,Descartado
+2022-06-01T03:00:45.551Z,34,2,Dor de Garganta,1,São Paulo,São Paulo,Cura,Descartado
+2023-03-30T03:00:18.088Z,36,2,"Tosse, Dor de Cabeça",,São Paulo,São Paulo,Cura,Descartado
+2023-05-05T03:00:00.000Z,23,2,Outros,1,Rio Grande do Sul,Rio Grande do Sul,,
+2023-05-17T03:00:12.032Z,41,1,"Dor de Cabeça, Tosse, Dor de Garganta, Outros",1,Rio Grande do Sul,Rio Grande do Sul,Em tratamento domiciliar,Confirmado Laboratorial
+2022-01-05T03:00:28.146Z,46,,"Tosse, Febre, Dor de Cabeça",,São Paulo,São Paulo,Cura,Confirmado Clínico-Epidemiológico
+2022-01-11T04:00:00.000Z,31,2,Assintomático,1,Mato Grosso do Sul,Mato Grosso do Sul,Cura,Síndrome Gripal Não Especificada
+2023-05-15T03:00:00.000Z,54,2,Assintomático,1,Goiás,Goiás,,
+2023-05-17T03:00:13.792Z,32,2,"Coriza, Tosse",1,São Paulo,São Paulo,,
+2023-05-17T03:00:41.320Z,68,2,"Distúrbios Olfativos, Dor de Cabeça",1,São Paulo,São Paulo,,
+2023-05-11T03:00:00.000Z,20,1,"Dor de Cabeça, Febre, Dor de Garganta",1,São Paulo,São Paulo,Cura,Confirmado Laboratorial
+2023-05-17T03:00:25.563Z,42,2,"Dor de Cabeça, Dor de Garganta, Tosse",1,Minas Gerais,Minas Gerais,,
+2022-05-07T03:00:40.119Z,58,1,"Coriza, Tosse, Outros",1,São Paulo,São Paulo,Cura,Confirmado Laboratorial
+2023-05-17T03:00:44.352Z,48,2,Assintomático,1,Pernambuco,Pernambuco,,
+2023-05-17T03:00:48.355Z,10,2,"Febre, Dor de Cabeça",1,Santa Catarina,Santa Catarina,,
+2023-05-17T03:00:14.276Z,39,2,"Coriza, Dor de Cabeça, Tosse, Dor de Garganta",,São Paulo,São Paulo,,
+2023-05-03T03:00:00.000Z,10,2,"Dor de Cabeça, Febre",1,Rio Grande do Sul,Rio Grande do Sul,,
+2023-05-17T04:00:14.884Z,38,1,Dor de Garganta,1,Mato Grosso,Mato Grosso,,
+2023-05-17T03:00:12.894Z,35,2,"Dor de Cabeça, Tosse, Febre",1,São Paulo,São Paulo,,
+2023-05-17T03:00:01.361Z,73,2,"Dor de Cabeça, Dor de Garganta, Tosse",1,São Paulo,São Paulo,,
+2023-05-17T03:00:01.361Z,73,2,"Dor de Cabeça, Dor de Garganta, Tosse",1,São Paulo,São Paulo,,
+2023-03-18T03:00:00.000Z,30,2,"Tosse, Dispneia, Coriza",1,Rio de Janeiro,Rio de Janeiro,Ignorado,Síndrome Gripal Não Especificada
+2022-11-15T03:00:00.000Z,80,2,Assintomático,1,Pará,Pará,Cura,Descartado
+2023-03-30T03:00:18.393Z,12,2,"Coriza, Tosse, Febre, Dor de Garganta",,São Paulo,São Paulo,Cura,Descartado
+2023-05-10T03:00:00.000Z,11,2,"Coriza, Tosse, Febre, Dor de Garganta",1,Sergipe,Sergipe,Cura,Descartado
+2023-05-15T04:00:02.377Z,35,1,Tosse,1,Rondônia,Rondônia,Em tratamento domiciliar,Confirmado Laboratorial
+2023-05-15T04:00:02.377Z,35,,Tosse,1,Rondônia,Rondônia,Em tratamento domiciliar,Confirmado Laboratorial
+2020-09-16T03:00:00.000Z,59,2,Assintomático,,São Paulo,São Paulo,Cura,Síndrome Gripal Não Especificada
+2023-05-17T03:00:05.281Z,34,1,"Coriza, Dor de Cabeça, Dor de Garganta, Outros, Tosse",,São Paulo,São Paulo,,
+2023-05-13T03:00:00.000Z,27,2,"Coriza, Tosse, Dor de Garganta",1,São Paulo,São Paulo,,
+2022-01-24T03:00:00.000Z,32,2,Assintomático,1,Rio de Janeiro,Rio de Janeiro,Ignorado,Síndrome Gripal Não Especificada
+2022-01-11T04:00:00.000Z,76,2,Tosse,1,Mato Grosso do Sul,Mato Grosso do Sul,Cura,Síndrome Gripal Não Especificada
+2023-05-17T03:00:54.132Z,12,2,"Dor de Cabeça, Coriza",2,Minas Gerais,Minas Gerais,,
+2023-05-17T03:00:34.012Z,41,1,"Dor de Cabeça, Tosse, Outros",1,Tocantins,Tocantins,,
+2023-05-11T03:00:00.000Z,49,2,"Dor de Cabeça, Dor de Garganta, Outros",1,São Paulo,São Paulo,Cura,Descartado
+2022-07-11T03:00:54.158Z,53,1,Dor de Cabeça,1,Piauí,Piauí,Cura,Confirmado Laboratorial
+2023-05-01T03:00:00.000Z,24,,Dor de Garganta,1,São Paulo,São Paulo,,
+2023-04-28T03:00:00.000Z,74,2,Assintomático,1,Pernambuco,Pernambuco,Cura,Descartado
+2023-05-13T03:00:00.000Z,73,1,"Dor de Cabeça, Outros",1,São Paulo,São Paulo,,
+2023-05-17T03:00:48.936Z,25,1,"Coriza, Dor de Cabeça",1,Sergipe,Sergipe,,
+2023-05-13T03:00:00.000Z,58,,"Tosse, Febre, Dor de Garganta",,São Paulo,São Paulo,,
+2023-05-17T03:00:22.845Z,22,1,"Distúrbios Olfativos, Dor de Cabeça, Febre, Dispneia, Tosse",1,Goiás,Goiás,,
+2023-05-17T03:00:47.593Z,13,2,"Dispneia, Febre",2,Alagoas,Alagoas,,
+2023-03-30T03:00:17.093Z,22,2,Dor de Cabeça,1,São Paulo,São Paulo,Cura,Descartado
+2023-04-17T03:00:00.000Z,29,,Dor de Cabeça,1,São Paulo,São Paulo,Ignorado,Descartado
+2023-04-17T03:00:00.000Z,29,2,Dor de Cabeça,1,São Paulo,São Paulo,Ignorado,Descartado
+2023-04-12T03:00:46.875Z,65,1,"Coriza, Tosse, Dor de Garganta, Dor de Cabeça",1,Pernambuco,Pernambuco,Cura,Confirmado Laboratorial
+2023-04-12T03:00:46.875Z,65,1,"Coriza, Tosse, Dor de Garganta, Dor de Cabeça",1,Pernambuco,Pernambuco,Cura,Confirmado Laboratorial
+2023-01-11T03:00:00.000Z,50,2,Dor de Cabeça,,Rio Grande do Sul,Rio Grande do Sul,,
+2023-05-17T03:00:31.076Z,37,2,Assintomático,2,São Paulo,São Paulo,,
+2023-05-17T03:00:17.494Z,35,2,"Coriza, Tosse, Febre, Dor de Cabeça",1,São Paulo,São Paulo,,
+2023-05-17T03:00:40.390Z,51,2,Coriza,1,São Paulo,São Paulo,Cura,Síndrome Gripal Não Especificada
+2022-06-25T03:00:28.008Z,45,1,Assintomático,1,Goiás,Goiás,Ignorado,Confirmado Laboratorial
+2023-01-12T03:00:00.000Z,26,2,Assintomático,1,Bahia,Pernambuco,Cura,Descartado
+2023-04-18T03:00:00.000Z,35,2,"Febre, Dor de Garganta, Tosse",1,Rio Grande do Sul,Rio Grande do Sul,,Síndrome Gripal Não Especificada
+2023-05-17T03:00:23.581Z,54,2,"Tosse, Dor de Garganta",1,Sergipe,Sergipe,,
+2023-05-16T03:00:56.610Z,41,1,"Tosse, Febre, Coriza",1,São Paulo,São Paulo,Cura,Confirmado Laboratorial
+2023-05-17T03:00:41.010Z,60,1,"Distúrbios Olfativos, Tosse, Febre, Coriza",1,Goiás,Goiás,,
+2023-05-17T03:00:50.754Z,55,1,"Coriza, Tosse, Febre, Dispneia, Dor de Garganta, Dor de Cabeça",1,Pernambuco,Pernambuco,,
+2023-03-30T03:00:20.383Z,74,2,Assintomático,1,São Paulo,São Paulo,Cura,Descartado
+2023-05-17T03:00:52.490Z,11,2,"Coriza, Dor de Cabeça, Tosse, Febre, Dor de Garganta",1,Rio Grande do Sul,Rio Grande do Sul,,
+2023-05-17T03:00:47.555Z,38,1,"Coriza, Dor de Cabeça, Febre, Tosse",1,Sergipe,Sergipe,,
+2022-12-02T03:00:00.000Z,55,2,Assintomático,1,Pará,Pará,Ignorado,Descartado
+2022-12-02T03:00:00.000Z,55,2,Assintomático,1,Pará,Pará,Ignorado,Descartado
+2023-05-15T04:00:00.000Z,28,2,Assintomático,1,Amazonas,Amazonas,Ignorado,Descartado
+2022-05-23T03:00:00.000Z,7,2,"Tosse, Dispneia",,Bahia,Bahia,Cura,Descartado
+2022-06-02T03:00:00.000Z,15,2,Assintomático,,Rio Grande do Sul,Rio Grande do Sul,,
+2023-05-17T03:00:02.835Z,18,2,"Coriza, Dor de Cabeça, Tosse, Outros, Febre",1,São Paulo,São Paulo,,
+2023-05-17T03:00:05.438Z,0,,Tosse,,São Paulo,São Paulo,,
+2023-04-27T03:00:00.000Z,32,2,"Coriza, Tosse, Febre, Dor de Garganta, Dor de Cabeça",1,Goiás,Goiás,,
+2023-03-30T03:00:22.737Z,1,2,"Coriza, Dor de Cabeça, Tosse",2,São Paulo,São Paulo,Cura,Descartado
+2023-05-17T03:00:41.800Z,2,2,"Tosse, Febre, Coriza",2,Rio de Janeiro,Rio de Janeiro,,
+2023-05-06T04:00:44.355Z,65,1,Assintomático,,Rondônia,Rondônia,Cura,Confirmado Laboratorial
+2023-05-13T03:00:00.000Z,35,2,"Dor de Cabeça, Dor de Garganta",1,São Paulo,São Paulo,,
+2023-04-20T03:00:00.000Z,42,2,Tosse,,Santa Catarina,Santa Catarina,Ignorado,Descartado
+2023-05-16T03:00:53.232Z,82,1,Tosse,1,São Paulo,São Paulo,Cura,Confirmado Laboratorial
+2022-12-03T03:00:54.549Z,50,1,"Tosse, Febre",1,Pará,Santa Catarina,Cura,Confirmado Laboratorial
+2022-07-01T03:00:00.000Z,18,1,"Febre, Dor de Garganta, Tosse",,Bahia,Bahia,Cura,Confirmado Laboratorial
+2023-04-12T03:00:00.000Z,50,2,"Coriza, Dor de Cabeça, Tosse, Febre, Distúrbios Gustativos",,Rio de Janeiro,Rio de Janeiro,,
+2023-04-27T03:00:00.000Z,30,1,"Dor de Cabeça, Tosse, Dor de Garganta, Coriza",1,Amazonas,Amazonas,Cura,Confirmado Laboratorial
+2022-06-01T03:00:00.000Z,23,,"Coriza, Dor de Cabeça, Tosse, Outros",2,São Paulo,São Paulo,Cura,Síndrome Gripal Não Especificada
+2023-05-17T03:00:08.087Z,13,2,"Dor de Cabeça, Tosse, Febre, Dor de Garganta",,Rio Grande do Sul,Rio Grande do Sul,,
+2023-05-13T03:00:00.000Z,77,2,Dispneia,1,São Paulo,São Paulo,,
+2023-02-14T03:00:44.503Z,16,,Assintomático,,Bahia,Pernambuco,Ignorado,Síndrome Gripal Não Especificada
+2022-01-11T04:00:00.000Z,51,2,"Tosse, Dor de Cabeça",1,Mato Grosso do Sul,Mato Grosso do Sul,Cura,Síndrome Gripal Não Especificada
+2023-05-17T03:00:26.753Z,17,2,"Coriza, Tosse, Febre, Dor de Garganta, Outros",1,Rio Grande do Sul,Rio Grande do Sul,,
+2022-12-26T03:00:48.438Z,71,2,"Dor de Cabeça, Tosse, Febre",1,Bahia,Bahia,Cura,Descartado
+2023-05-16T04:00:00.000Z,54,2,"Coriza, Dor de Cabeça, Tosse",1,Amazonas,Amazonas,Ignorado,Síndrome Gripal Não Especificada
+2023-05-17T03:00:14.972Z,17,2,"Dor de Cabeça, Outros",1,Bahia,Bahia,,
+2022-06-25T03:00:05.827Z,7,1,Assintomático,2,Goiás,Goiás,Ignorado,Confirmado Laboratorial
+2022-08-05T04:00:55.640Z,47,2,"Dor de Cabeça, Tosse",1,Amazonas,Amazonas,Ignorado,Descartado
+2022-11-28T03:00:00.000Z,23,2,"Coriza, Dor de Cabeça, Tosse, Febre, Dor de Garganta, Outros",1,Rio de Janeiro,Rio de Janeiro,,
+2023-03-26T03:00:40.897Z,35,2,"Coriza, Dor de Cabeça, Febre, Dor de Garganta",1,São Paulo,São Paulo,Cura,Descartado
+2023-05-17T03:00:29.322Z,55,2,Assintomático,1,São Paulo,São Paulo,,
+2023-04-24T03:00:34.349Z,19,1,"Febre, Tosse",1,Distrito Federal,Distrito Federal,Cura,Confirmado Laboratorial
+2023-03-18T03:00:00.000Z,28,2,Tosse,,Rio de Janeiro,Rio de Janeiro,Ignorado,Síndrome Gripal Não Especificada
+2023-05-17T03:00:05.487Z,22,1,Tosse,1,Rio de Janeiro,Rio de Janeiro,,
+2023-05-17T03:00:09.870Z,17,2,"Febre, Dor de Garganta, Outros",,São Paulo,São Paulo,,
+2023-05-17T03:00:07.173Z,54,2,"Coriza, Tosse, Febre",1,São Paulo,São Paulo,,
+2022-08-11T03:00:00.000Z,43,2,"Febre, Tosse, Coriza, Outros, Dor de Cabeça",,Bahia,Bahia,Cura,Síndrome Gripal Não Especificada
+2023-05-11T03:00:30.205Z,68,,Assintomático,1,São Paulo,São Paulo,Cancelado,
+2020-09-16T03:00:00.000Z,73,1,Assintomático,,São Paulo,São Paulo,Cura,Síndrome Gripal Não Especificada
+2022-09-16T03:00:00.000Z,85,2,Assintomático,,São Paulo,São Paulo,Cura,Descartado
+2023-04-22T03:00:11.941Z,7,2,"Coriza, Dor de Garganta, Tosse",,São Paulo,São Paulo,Cura,Descartado
+2023-02-22T03:00:00.000Z,73,2,Assintomático,1,São Paulo,São Paulo,,
+2023-05-17T03:00:38.670Z,42,2,Assintomático,,Alagoas,Alagoas,,
+2023-05-17T03:00:41.073Z,68,2,"Coriza, Tosse, Dor de Garganta",,São Paulo,São Paulo,,
+2023-03-30T03:00:00.000Z,64,2,"Dispneia, Outros",,Rio Grande do Sul,Rio Grande do Sul,,
+2023-05-17T03:00:25.803Z,30,1,Outros,1,Distrito Federal,Distrito Federal,,
+2022-02-16T03:00:27.192Z,5,1,"Coriza, Dor de Cabeça, Tosse, Febre, Dor de Garganta",2,Minas Gerais,Minas Gerais,Cura,Confirmado Laboratorial
+2023-05-17T03:00:50.657Z,14,2,"Tosse, Febre, Coriza",2,São Paulo,São Paulo,,
+2023-05-17T03:00:07.133Z,14,2,Assintomático,,Goiás,Goiás,,
+2023-05-16T03:00:51.753Z,35,1,"Coriza, Dor de Cabeça, Tosse, Outros",,São Paulo,São Paulo,Cura,Confirmado Laboratorial
+2023-05-16T03:00:05.440Z,43,2,"Tosse, Febre, Coriza",1,Rio Grande do Sul,Rio Grande do Sul,Ignorado,Síndrome Gripal Não Especificada
+2023-05-03T03:00:00.000Z,54,,"Dor de Cabeça, Tosse, Febre, Dor de Garganta, Coriza",,São Paulo,São Paulo,,
+2023-05-03T03:00:00.000Z,54,2,"Dor de Cabeça, Tosse, Febre, Dor de Garganta, Coriza",,São Paulo,São Paulo,,
+2023-05-17T03:00:48.235Z,36,2,"Coriza, Distúrbios Gustativos, Tosse, Febre, Dor de Garganta",1,Rio Grande do Sul,Rio Grande do Sul,,
+2023-03-26T03:00:11.619Z,27,2,Dor de Garganta,1,São Paulo,São Paulo,Cura,Descartado
+2023-05-08T03:00:46.445Z,53,2,Outros,1,Pernambuco,Pernambuco,Cura,Descartado
+2023-04-23T03:00:00.000Z,35,2,Assintomático,1,São Paulo,São Paulo,,
+2023-05-17T03:00:00.219Z,8,2,Tosse,1,Rio Grande do Sul,Rio Grande do Sul,,
+2023-05-17T03:00:14.992Z,30,2,"Dor de Garganta, Dispneia",2,Maranhão,Maranhão,,
+2023-05-10T03:00:00.000Z,30,2,"Tosse, Febre, Dispneia, Dor de Garganta, Outros",1,Bahia,Bahia,,
+2023-05-10T03:00:00.000Z,30,2,"Tosse, Febre, Dispneia, Dor de Garganta, Outros",1,Bahia,Bahia,,
+2023-02-23T03:00:42.090Z,39,2,"Febre, Dor de Garganta",1,Santa Catarina,Santa Catarina,Cura,Síndrome Gripal Não Especificada
+2022-05-08T03:00:07.715Z,15,1,"Coriza, Tosse, Febre, Dor de Garganta",1,São Paulo,São Paulo,Cura,Confirmado Laboratorial
+2023-03-09T03:00:00.000Z,57,,"Coriza, Dor de Cabeça, Tosse, Febre, Dor de Garganta",1,São Paulo,São Paulo,Cura,Descartado
+2023-03-09T03:00:00.000Z,57,,"Coriza, Dor de Cabeça, Tosse, Febre, Dor de Garganta",1,São Paulo,São Paulo,Cura,Descartado
+2023-05-15T03:00:00.000Z,61,2,Assintomático,1,Ceará,Ceará,Cura,Descartado
+2022-06-25T03:00:05.224Z,44,1,Assintomático,1,Goiás,Goiás,Ignorado,Confirmado Laboratorial
+2021-04-12T03:00:00.000Z,23,2,Assintomático,,Pará,Pará,Cura,Confirmado Laboratorial
+2023-05-17T03:00:35.919Z,31,2,Coriza,1,São Paulo,São Paulo,Cura,Descartado
+2023-05-16T04:00:00.000Z,69,2,"Coriza, Dor de Cabeça, Tosse",1,Amazonas,Amazonas,Ignorado,Síndrome Gripal Não Especificada
+2023-03-14T03:00:09.689Z,72,2,"Dor de Cabeça, Tosse",1,São Paulo,São Paulo,Cura,Síndrome Gripal Não Especificada
+2023-05-17T03:00:51.731Z,53,,Assintomático,,São Paulo,São Paulo,,
+2023-05-16T03:00:00.000Z,28,2,Assintomático,1,Paraíba,Paraíba,,
+2022-06-02T03:00:39.770Z,49,1,"Tosse, Dor de Cabeça",1,Santa Catarina,Santa Catarina,Cura,Confirmado Laboratorial
+2023-05-17T03:00:14.922Z,62,2,"Tosse, Febre, Outros",,Rio Grande do Sul,Rio Grande do Sul,,
+2023-05-17T03:00:03.115Z,9,2,Assintomático,,São Paulo,São Paulo,,
+2023-05-17T03:00:55.236Z,54,2,"Dor de Cabeça, Febre, Outros",1,São Paulo,São Paulo,Cura,Descartado
+2023-04-25T03:00:00.000Z,80,1,"Coriza, Tosse, Febre, Dor de Garganta, Outros",1,Rio de Janeiro,Rio de Janeiro,Cura,Confirmado Laboratorial
+2023-04-19T03:00:42.024Z,60,2,"Dor de Cabeça, Dor de Garganta, Coriza",1,Rio de Janeiro,Rio de Janeiro,Cura,Síndrome Gripal Não Especificada
+2023-04-26T03:00:00.000Z,55,2,"Tosse, Dor de Garganta",,Santa Catarina,Santa Catarina,,
+2023-05-16T03:00:41.945Z,19,2,"Coriza, Tosse, Febre, Dor de Garganta",1,São Paulo,São Paulo,Cura,Síndrome Gripal Não Especificada
+2023-05-17T03:00:26.624Z,38,2,"Tosse, Dor de Garganta",1,Rio Grande do Sul,Rio Grande do Sul,,
+2022-06-25T03:00:45.274Z,56,1,Assintomático,1,Goiás,Goiás,Ignorado,Confirmado Laboratorial
+2022-06-04T03:00:48.388Z,55,2,"Dor de Cabeça, Tosse",1,Rio de Janeiro,Rio de Janeiro,Ignorado,Síndrome Gripal Não Especificada
+2023-05-17T03:00:48.999Z,25,2,"Coriza, Tosse, Dor de Garganta",1,Santa Catarina,Santa Catarina,,
+2023-05-05T03:00:00.000Z,42,2,"Coriza, Tosse, Dor de Garganta",1,Pernambuco,Pernambuco,Cura,Descartado
+2023-04-18T03:00:00.000Z,25,2,"Distúrbios Gustativos, Tosse, Febre, Dispneia, Dor de Cabeça",2,Pernambuco,Pernambuco,,
+2023-05-17T03:00:27.318Z,25,2,"Tosse, Dor de Garganta, Febre",1,Rio Grande do Sul,Rio Grande do Sul,,
+2023-05-15T04:00:00.000Z,61,2,"Dor de Cabeça, Tosse, Febre, Dor de Garganta, Coriza",,Mato Grosso do Sul,Mato Grosso do Sul,Cura,Descartado
+2023-03-26T03:00:30.870Z,28,2,"Coriza, Dor de Cabeça, Febre",1,São Paulo,São Paulo,Cura,Descartado
+2023-05-17T03:00:11.778Z,24,2,"Coriza, Distúrbios Olfativos, Dor de Cabeça, Tosse, Febre, Dor de Garganta",1,São Paulo,São Paulo,,
+2023-05-17T03:00:11.778Z,24,,"Coriza, Distúrbios Olfativos, Dor de Cabeça, Tosse, Febre, Dor de Garganta",1,São Paulo,São Paulo,,
+2022-06-04T03:00:00.000Z,48,1,Assintomático,1,Pará,Pará,Cura,Confirmado Laboratorial
+2023-05-17T03:00:16.168Z,40,2,"Febre, Dor de Cabeça",1,Rio de Janeiro,Rio de Janeiro,,
+2023-05-09T03:00:00.000Z,13,2,"Dor de Cabeça, Tosse, Outros",1,São Paulo,São Paulo,,
+2023-03-30T03:00:26.970Z,70,2,"Coriza, Tosse",1,São Paulo,São Paulo,Cura,Descartado
+2023-04-27T03:00:00.000Z,42,2,"Febre, Dor de Cabeça",1,Goiás,Goiás,,
+2023-05-17T03:00:03.243Z,16,2,"Febre, Dor de Garganta, Dor de Cabeça",1,Rio Grande do Sul,Rio Grande do Sul,Cura,Síndrome Gripal Não Especificada
+2023-05-16T04:00:40.489Z,30,1,"Distúrbios Olfativos, Distúrbios Gustativos, Dor de Cabeça, Tosse, Febre, Dor de Garganta",1,Rondônia,Rondônia,Em tratamento domiciliar,Confirmado Laboratorial
+2022-07-26T03:00:00.000Z,56,2,Dor de Cabeça,1,Pará,Pará,Cura,Descartado
+2022-06-01T03:00:00.000Z,24,,"Tosse, Outros",2,São Paulo,São Paulo,Cura,Confirmado Laboratorial
+2023-04-27T03:00:00.000Z,39,2,Assintomático,1,Tocantins,Tocantins,,
+2023-01-11T03:00:00.000Z,1,2,"Febre, Outros",,Rio Grande do Sul,Rio Grande do Sul,,
+2023-05-17T03:00:19.586Z,7,2,Assintomático,1,Rio de Janeiro,Rio de Janeiro,,
+2023-05-17T03:00:46.128Z,76,2,"Coriza, Tosse, Dor de Garganta",1,São Paulo,São Paulo,,
+2023-05-17T03:00:56.578Z,21,2,"Dor de Cabeça, Febre, Dor de Garganta, Outros",1,São Paulo,São Paulo,Cura,Descartado
+2023-05-17T03:00:48.155Z,2,2,"Coriza, Dor de Cabeça, Tosse, Febre",2,Rio de Janeiro,Rio de Janeiro,,
+2023-05-17T03:00:02.012Z,61,2,"Dor de Cabeça, Tosse, Outros",1,Rio Grande do Sul,Rio Grande do Sul,,
+2023-05-17T03:00:48.545Z,59,2,"Tosse, Febre, Outros, Coriza",1,Minas Gerais,Minas Gerais,,Síndrome Gripal Não Especificada
+2023-05-17T03:00:48.694Z,20,2,"Tosse, Febre, Coriza",1,Bahia,Bahia,Cura,Descartado
+2023-05-15T03:00:00.000Z,74,2,"Coriza, Tosse, Febre, Dispneia",1,São Paulo,São Paulo,,
+2023-04-24T03:00:24.536Z,16,2,Assintomático,1,São Paulo,São Paulo,Cura,Descartado
+2023-02-16T03:00:00.000Z,51,2,"Coriza, Dor de Cabeça, Tosse, Outros",1,São Paulo,São Paulo,Cura,Síndrome Gripal Não Especificada
+2023-05-17T03:00:55.551Z,51,,Tosse,1,São Paulo,São Paulo,,
+2023-05-17T03:00:45.488Z,10,2,Assintomático,,São Paulo,São Paulo,Cura,Descartado
+2022-08-16T03:00:17.019Z,35,2,"Coriza, Tosse, Dor de Cabeça",1,São Paulo,São Paulo,Cura,Descartado
+2023-03-20T03:00:15.328Z,16,2,"Dor de Cabeça, Tosse, Febre, Dor de Garganta, Outros",1,Minas Gerais,Minas Gerais,Cura,Síndrome Gripal Não Especificada
+2023-05-15T03:00:55.186Z,46,2,"Coriza, Tosse, Dor de Garganta",1,São Paulo,São Paulo,Cura,Descartado
+2022-12-11T03:00:00.000Z,58,1,Outros,,São Paulo,São Paulo,,
+2022-01-11T04:00:00.000Z,52,2,"Dor de Cabeça, Dor de Garganta",,Mato Grosso do Sul,Mato Grosso do Sul,Cura,Síndrome Gripal Não Especificada
+2020-06-30T17:01:31.648Z,67,2,"Tosse, Dor de Garganta, Dispneia",,São Paulo,São Paulo,Cura,Descartado
+2023-05-17T03:00:35.600Z,22,2,Coriza,1,Tocantins,Tocantins,,
+2023-05-17T03:00:21.484Z,24,2,"Coriza, Tosse, Febre",2,Rio Grande do Sul,Rio Grande do Sul,,
+2022-05-08T03:00:25.034Z,14,1,"Dor de Garganta, Febre",1,São Paulo,São Paulo,Cura,Confirmado Laboratorial
+2023-05-17T03:00:10.451Z,66,2,"Coriza, Dor de Cabeça, Tosse",,Rio Grande do Sul,Rio Grande do Sul,,
+2022-12-27T03:00:58.489Z,65,2,"Dor de Garganta, Dor de Cabeça",1,São Paulo,São Paulo,Cura,Síndrome Gripal Não Especificada
+2022-12-27T03:00:58.489Z,65,2,"Dor de Garganta, Dor de Cabeça",1,São Paulo,São Paulo,Cura,Síndrome Gripal Não Especificada
+2022-06-02T03:00:24.903Z,24,1,Assintomático,,Santa Catarina,Santa Catarina,Cura,Confirmado Laboratorial
+2023-03-30T03:00:28.108Z,38,2,Assintomático,,São Paulo,São Paulo,Cura,Descartado
+2022-08-11T03:00:00.000Z,42,1,"Dor de Cabeça, Tosse, Dor de Garganta",1,Bahia,Bahia,Cura,Confirmado Laboratorial
+2023-05-17T03:00:03.126Z,31,2,"Coriza, Tosse, Dor de Cabeça",1,Rio Grande do Sul,Rio Grande do Sul,,
+2020-08-04T03:00:00.000Z,62,2,Outros,,São Paulo,São Paulo,Cura,Descartado
+2023-05-17T03:00:25.324Z,1,2,Assintomático,2,Rio de Janeiro,Rio de Janeiro,,
+2022-07-08T03:00:00.000Z,73,2,"Coriza, Dor de Cabeça, Tosse, Outros",1,Santa Catarina,Santa Catarina,Cura,Síndrome Gripal Não Especificada
+2023-05-17T03:00:48.247Z,68,2,Febre,1,São Paulo,São Paulo,,
+2023-05-17T03:00:03.339Z,46,2,"Coriza, Dor de Cabeça, Tosse, Febre, Dispneia, Outros",1,Rio Grande do Sul,Rio Grande do Sul,,
+2022-11-13T03:00:00.000Z,43,2,"Febre, Tosse",,Ceará,Ceará,Cura,Descartado
+2022-11-13T03:00:00.000Z,43,2,"Febre, Tosse",,Ceará,Ceará,Cura,Descartado
+2022-11-13T03:00:00.000Z,43,2,"Febre, Tosse",,Ceará,Ceará,Cura,Descartado
+2022-11-13T03:00:00.000Z,43,2,"Febre, Tosse",,Ceará,Ceará,Cura,Descartado
+2022-05-08T03:00:28.056Z,18,1,"Coriza, Tosse, Dor de Cabeça",1,São Paulo,São Paulo,Cura,Confirmado Laboratorial
+2023-05-08T03:00:00.000Z,66,2,Assintomático,1,Piauí,Piauí,Ignorado,Descartado
+2023-04-13T03:00:00.000Z,22,1,"Dor de Cabeça, Febre, Dor de Garganta, Dispneia",1,Pernambuco,Pernambuco,Cura,Confirmado Laboratorial
+2023-04-13T03:00:00.000Z,22,1,"Dor de Cabeça, Febre, Dor de Garganta, Dispneia",1,Pernambuco,Pernambuco,Cura,Confirmado Laboratorial
+2023-05-17T03:00:59.762Z,41,2,Outros,,Minas Gerais,Minas Gerais,,
+2023-05-09T03:00:00.000Z,20,2,"Tosse, Febre, Dor de Garganta, Dor de Cabeça",,Amapá,Amapá,,
+2022-06-01T03:00:00.000Z,10,,"Tosse, Outros",,São Paulo,São Paulo,Cura,Confirmado Laboratorial
+2023-05-17T03:00:13.547Z,26,2,"Coriza, Dor de Cabeça, Tosse, Febre, Outros",1,Rio Grande do Sul,Rio Grande do Sul,,
+2023-05-17T03:00:29.443Z,34,2,"Tosse, Febre, Dispneia, Outros",1,São Paulo,São Paulo,,
+2023-03-29T03:00:00.000Z,48,2,Assintomático,1,Amapá,Amapá,,
+2023-05-13T03:00:00.000Z,34,,"Tosse, Dispneia, Febre",,São Paulo,São Paulo,,
+2023-03-08T03:00:25.139Z,2,2,Febre,2,Pernambuco,Pernambuco,Cura,Descartado
+2023-05-17T03:00:59.324Z,18,2,"Coriza, Dor de Garganta",2,Pernambuco,Pernambuco,,
+2023-04-18T03:00:00.000Z,25,2,"Dor de Garganta, Dor de Cabeça",1,Rio Grande do Sul,Rio Grande do Sul,,Síndrome Gripal Não Especificada
+2022-12-08T03:00:40.904Z,18,1,"Dor de Cabeça, Tosse, Febre, Dor de Garganta, Coriza",1,Piauí,Piauí,Cura,Confirmado Laboratorial
+2023-05-16T04:00:27.896Z,56,1,"Distúrbios Gustativos, Tosse, Dor de Garganta, Distúrbios Olfativos",1,Rondônia,Rondônia,Em tratamento domiciliar,Confirmado Laboratorial
+2023-05-17T03:00:19.851Z,13,2,"Coriza, Dor de Cabeça, Tosse",,Santa Catarina,Santa Catarina,Cura,Descartado
+2023-05-16T03:00:00.000Z,39,2,Assintomático,1,Pernambuco,Pernambuco,,
+2023-05-17T03:00:09.662Z,40,2,"Coriza, Febre, Dor de Garganta",1,Bahia,Bahia,,
+2022-06-25T03:00:21.359Z,52,1,Assintomático,1,Goiás,Goiás,Ignorado,Confirmado Laboratorial
+2023-05-10T03:00:36.034Z,31,2,"Coriza, Tosse, Dor de Garganta",1,Minas Gerais,Minas Gerais,Cura,Síndrome Gripal Não Especificada
+2023-05-17T03:00:33.335Z,50,2,"Tosse, Febre, Dor de Garganta",1,Rio de Janeiro,Rio de Janeiro,,
+2023-05-17T03:00:15.764Z,43,2,Assintomático,1,Distrito Federal,Espírito Santo,,
+2023-05-11T03:00:00.000Z,29,2,"Coriza, Distúrbios Olfativos, Distúrbios Gustativos, Dor de Cabeça, Febre, Tosse",,São Paulo,São Paulo,Cura,Descartado
+2022-06-30T03:00:00.000Z,49,2,"Tosse, Dor de Cabeça",1,Minas Gerais,Minas Gerais,Cura,Descartado
+2023-03-30T03:00:29.497Z,41,2,Tosse,,São Paulo,São Paulo,Cura,Descartado
+2023-05-17T03:00:54.348Z,25,2,"Coriza, Tosse, Febre, Dor de Cabeça",1,São Paulo,São Paulo,,
+2022-11-22T03:00:00.000Z,11,2,"Distúrbios Gustativos, Coriza",2,Minas Gerais,Minas Gerais,Cura,Confirmado Laboratorial
+2022-03-12T03:00:00.000Z,16,2,Assintomático,1,Acre,Acre,,
+2022-06-14T03:00:27.533Z,34,1,"Coriza, Dor de Cabeça, Tosse, Febre, Dor de Garganta",1,São Paulo,São Paulo,Cura,Confirmado Laboratorial
+2022-11-16T03:00:43.068Z,42,2,"Coriza, Dor de Cabeça, Tosse, Dor de Garganta",1,São Paulo,São Paulo,Cura,Síndrome Gripal Não Especificada
+2022-11-16T03:00:43.068Z,42,2,"Coriza, Dor de Cabeça, Tosse, Dor de Garganta",1,São Paulo,São Paulo,Cura,Síndrome Gripal Não Especificada
+2023-03-25T03:00:32.283Z,29,2,Assintomático,1,São Paulo,São Paulo,Cura,Descartado
+2022-03-29T03:00:18.866Z,50,2,Assintomático,1,Pernambuco,Pernambuco,Cura,Descartado
+2023-02-24T04:00:35.291Z,57,1,"Distúrbios Olfativos, Distúrbios Gustativos, Dor de Cabeça, Tosse, Febre, Dispneia, Outros",2,Amazonas,Amazonas,Cura,Confirmado Laboratorial
+2020-09-12T03:00:47.018Z,63,2,"Tosse, Dor de Garganta, Dor de Cabeça",,São Paulo,São Paulo,Cura,Descartado
+2023-05-15T03:00:00.000Z,12,2,Assintomático,1,Ceará,Ceará,Ignorado,Descartado
+2023-05-17T03:00:25.486Z,18,2,"Coriza, Dor de Cabeça, Tosse",1,São Paulo,São Paulo,Cura,Descartado
+2023-04-23T03:00:00.000Z,22,2,Assintomático,1,São Paulo,São Paulo,,
+2023-05-17T03:00:32.627Z,38,2,"Dor de Garganta, Tosse",1,Rio Grande do Sul,Rio Grande do Sul,,
+2022-12-30T03:00:00.000Z,67,1,"Febre, Tosse",1,Ceará,Ceará,Cura,Confirmado Laboratorial
+2022-12-30T03:00:00.000Z,67,2,"Febre, Tosse",1,Ceará,Ceará,Cura,Confirmado Laboratorial
+2023-05-17T03:00:36.330Z,65,2,Assintomático,1,Rio de Janeiro,Rio de Janeiro,,
+2023-05-15T03:00:00.000Z,47,2,Assintomático,1,Maranhão,Piauí,,
+2023-05-08T03:00:40.521Z,35,2,"Distúrbios Olfativos, Dor de Cabeça, Tosse, Dor de Garganta, Distúrbios Gustativos",1,Pernambuco,Pernambuco,Cura,Descartado
+2023-05-12T03:00:00.000Z,3,,"Coriza, Febre, Tosse",2,Rio de Janeiro,Rio de Janeiro,,
+2023-05-17T03:00:30.591Z,23,2,"Febre, Outros, Dor de Cabeça",1,Minas Gerais,São Paulo,,
+2023-05-17T03:00:23.420Z,41,2,"Dor de Cabeça, Tosse",1,São Paulo,São Paulo,Cura,Descartado
+2023-04-10T03:00:10.567Z,46,2,Assintomático,1,Rio Grande do Sul,Rio Grande do Sul,,
+2022-03-29T03:00:43.603Z,24,2,Assintomático,1,Pernambuco,Pernambuco,Cura,Descartado
+2023-05-17T03:00:29.579Z,27,2,Dor de Garganta,1,São Paulo,São Paulo,Cura,Descartado
+2023-03-12T03:00:00.000Z,5,2,"Tosse, Dispneia",1,Bahia,Bahia,Cura,Descartado
+2023-05-17T03:00:35.729Z,27,2,"Dor de Cabeça, Febre, Dor de Garganta, Outros",1,São Paulo,São Paulo,,
+2023-05-17T03:00:10.851Z,25,2,"Tosse, Coriza",1,São Paulo,São Paulo,,
+2022-06-25T03:00:59.079Z,16,1,Assintomático,1,Goiás,Goiás,Ignorado,Confirmado Laboratorial
+2020-12-14T03:00:31.358Z,55,2,Assintomático,,São Paulo,São Paulo,Cura,Descartado
+2023-05-08T03:00:00.000Z,16,2,"Coriza, Dor de Cabeça, Tosse, Dor de Garganta",1,Goiás,Goiás,Ignorado,Síndrome Gripal Não Especificada
+2023-05-12T04:00:00.000Z,4,2,"Tosse, Febre, Coriza",,Amazonas,Amazonas,,
+2023-05-09T03:00:00.000Z,52,1,"Coriza, Distúrbios Gustativos, Dor de Cabeça, Tosse, Febre, Dor de Garganta, Outros",1,Rio de Janeiro,Rio de Janeiro,,
+2023-05-17T03:00:27.008Z,83,2,Dispneia,1,Rio Grande do Sul,Rio Grande do Sul,,
+2023-04-28T03:00:00.000Z,43,2,Assintomático,1,Pernambuco,Pernambuco,Cura,Descartado
+2023-05-17T04:00:03.684Z,44,2,Assintomático,1,Rondônia,Rondônia,,Síndrome Gripal Não Especificada
+2023-05-17T03:00:50.069Z,0,2,Assintomático,2,Goiás,Goiás,Cancelado,
+2023-03-03T03:00:00.000Z,64,2,"Dor de Cabeça, Dor de Garganta",1,São Paulo,São Paulo,Cura,Descartado
+2023-03-03T03:00:00.000Z,64,1,"Dor de Cabeça, Dor de Garganta",1,São Paulo,São Paulo,Cura,Descartado
+2023-03-03T03:00:00.000Z,64,2,"Dor de Cabeça, Dor de Garganta",1,São Paulo,São Paulo,Cura,Descartado
+2023-03-03T03:00:00.000Z,64,2,"Dor de Cabeça, Dor de Garganta",1,São Paulo,São Paulo,Cura,Descartado
+2023-03-03T03:00:00.000Z,64,2,"Dor de Cabeça, Dor de Garganta",1,São Paulo,São Paulo,Cura,Descartado
+2022-02-03T03:00:00.000Z,25,2,Assintomático,1,Pernambuco,Pernambuco,Cura,Descartado
+2023-05-17T03:00:19.952Z,54,2,"Coriza, Dor de Cabeça, Tosse, Febre, Dispneia, Outros",1,Rio Grande do Sul,Rio Grande do Sul,,
+2023-03-14T03:00:09.650Z,29,2,"Dor de Cabeça, Tosse, Dor de Garganta, Outros",1,São Paulo,São Paulo,Cura,Síndrome Gripal Não Especificada
+2022-08-05T04:00:08.933Z,51,2,Assintomático,1,Amazonas,Amazonas,Ignorado,Descartado
+2023-05-16T03:00:00.000Z,28,2,Assintomático,1,Goiás,Goiás,,
+2023-01-30T03:00:00.000Z,51,2,Assintomático,,Rio Grande do Sul,Rio Grande do Sul,,
+2023-05-12T03:00:36.886Z,0,2,"Coriza, Tosse, Febre",2,Rio Grande do Sul,Rio Grande do Sul,Cura,Síndrome Gripal Não Especificada
+2023-05-17T03:00:08.304Z,25,2,"Coriza, Dor de Garganta, Dor de Cabeça",1,São Paulo,São Paulo,,
+2022-06-02T03:00:00.000Z,16,1,"Dor de Cabeça, Febre, Dor de Garganta",1,Santa Catarina,Santa Catarina,Cura,Confirmado Laboratorial
+2023-05-06T04:00:00.000Z,37,2,"Coriza, Dor de Cabeça, Tosse, Dor de Garganta, Outros",,Amazonas,Amazonas,Cura,Descartado
+2023-05-17T03:00:47.873Z,61,2,"Dor de Cabeça, Dor de Garganta",1,Pernambuco,Pernambuco,Cura,Descartado
+2023-04-20T03:00:00.000Z,27,2,"Coriza, Tosse",1,Minas Gerais,Minas Gerais,,
+2023-04-28T03:00:00.000Z,38,1,Assintomático,1,Pernambuco,Pernambuco,Cura,Confirmado Laboratorial
+2023-05-17T03:00:00.956Z,33,2,Assintomático,1,Goiás,Goiás,,
+2023-05-17T03:00:22.343Z,61,2,"Tosse, Dor de Cabeça",1,Rio Grande do Sul,Rio Grande do Sul,,
+2023-05-17T03:00:29.873Z,74,1,Assintomático,1,Rio de Janeiro,Rio de Janeiro,,
+2023-05-17T03:00:22.801Z,53,1,Assintomático,1,Minas Gerais,Minas Gerais,,
+2023-05-17T03:00:09.468Z,43,2,Assintomático,1,São Paulo,São Paulo,,
+2023-05-15T03:00:30.648Z,3,,Tosse,1,São Paulo,São Paulo,Cura,Descartado
+2023-05-15T03:00:30.648Z,3,2,Tosse,1,São Paulo,São Paulo,Cura,Descartado
+2023-05-17T03:00:35.009Z,41,2,"Febre, Dor de Cabeça",1,Rio de Janeiro,Rio de Janeiro,,
+2022-11-14T03:00:00.000Z,48,2,Tosse,,Ceará,Ceará,Cura,Descartado
+2022-11-14T03:00:00.000Z,48,2,Tosse,,Ceará,Ceará,Cura,Descartado
+2023-03-21T03:00:00.000Z,42,2,Assintomático,1,Rio de Janeiro,Rio de Janeiro,Cura,Descartado
+2023-03-25T03:00:32.900Z,21,2,"Tosse, Febre, Dor de Garganta",,São Paulo,São Paulo,Cura,Descartado
+2023-05-05T03:00:00.000Z,40,2,"Dor de Cabeça, Tosse, Febre, Outros",1,Santa Catarina,Santa Catarina,,
+2022-06-02T03:00:40.005Z,34,1,"Tosse, Febre, Dor de Cabeça",2,Santa Catarina,Santa Catarina,Cura,Confirmado Laboratorial
+2023-01-22T03:00:16.095Z,82,2,Assintomático,1,São Paulo,São Paulo,Cura,Descartado
+2023-03-03T03:00:00.000Z,55,2,Tosse,,Pernambuco,Pernambuco,,
+2023-05-17T03:00:00.821Z,16,1,"Tosse, Dor de Garganta, Febre",1,Tocantins,Tocantins,,
+2022-11-17T03:00:00.000Z,10,2,"Febre, Dor de Garganta",1,Minas Gerais,Minas Gerais,Cura,Síndrome Gripal Não Especificada
+2023-05-17T03:00:15.106Z,13,2,"Coriza, Tosse, Dor de Garganta",,São Paulo,São Paulo,,
+2023-05-15T03:00:00.000Z,4,,"Tosse, Coriza",1,São Paulo,São Paulo,,
+2023-03-04T03:00:01.094Z,53,2,Assintomático,,São Paulo,São Paulo,Ignorado,Síndrome Gripal Não Especificada
+2023-05-17T03:00:04.880Z,15,2,Dor de Garganta,1,São Paulo,São Paulo,,
+2023-04-18T03:00:00.000Z,35,2,"Dor de Cabeça, Tosse, Dor de Garganta, Coriza",1,Pernambuco,Pernambuco,,
+2021-04-05T03:00:00.000Z,45,2,"Coriza, Dor de Cabeça, Tosse, Febre, Outros",,São Paulo,São Paulo,Cura,Descartado
+2023-04-13T03:00:00.000Z,60,1,Assintomático,1,Pernambuco,Pernambuco,Cura,Confirmado Laboratorial
+2023-04-13T03:00:00.000Z,60,1,Assintomático,1,Pernambuco,Pernambuco,Cura,Confirmado Laboratorial
+2023-05-15T03:00:36.459Z,23,2,"Coriza, Dor de Cabeça, Tosse, Outros",1,São Paulo,Mato Grosso do Sul,,
+2023-04-15T03:00:00.000Z,29,1,"Coriza, Dor de Cabeça, Dispneia",,Rio Grande do Sul,Rio Grande do Sul,Cura,Confirmado Laboratorial
+2023-05-15T03:00:00.000Z,32,2,"Dor de Garganta, Febre",1,Rio Grande do Sul,Rio Grande do Sul,Cura,
+2023-02-27T03:00:00.000Z,28,1,"Coriza, Dor de Cabeça, Tosse, Dor de Garganta, Febre",1,Santa Catarina,Santa Catarina,Cura,Confirmado Laboratorial
+2023-05-17T03:00:57.154Z,0,2,"Dispneia, Outros",,Pernambuco,Pernambuco,,
+2023-04-16T03:00:58.438Z,24,2,"Coriza, Dor de Cabeça, Tosse, Febre",1,Bahia,Bahia,Cura,Descartado
+2023-05-17T03:00:37.356Z,53,2,Assintomático,1,Rio Grande do Sul,Rio Grande do Sul,,
+2023-05-17T03:00:29.718Z,15,2,Dispneia,1,São Paulo,São Paulo,,
+2023-05-17T04:00:57.122Z,80,,"Tosse, Febre",1,Mato Grosso do Sul,Mato Grosso do Sul,,
+2022-12-08T03:00:42.080Z,33,1,"Coriza, Dor de Cabeça, Tosse, Febre, Dispneia, Dor de Garganta",1,Piauí,Piauí,Cura,Confirmado Laboratorial
+2022-02-06T03:00:00.000Z,19,2,Assintomático,1,Pernambuco,Pernambuco,Cura,Descartado
+2023-02-23T03:00:00.000Z,46,1,"Coriza, Febre",1,São Paulo,São Paulo,,
+2023-05-17T03:00:08.313Z,63,2,"Coriza, Tosse, Dor de Garganta, Dor de Cabeça",1,Rio de Janeiro,Rio de Janeiro,,
+2021-09-09T03:00:10.062Z,70,2,"Dor de Cabeça, Febre, Outros",1,Amapá,Amapá,Ignorado,Síndrome Gripal Não Especificada
+2021-12-28T03:00:00.000Z,53,2,"Dor de Cabeça, Tosse, Febre, Dor de Garganta, Coriza",1,Maranhão,Maranhão,Cura,Descartado
+2021-12-28T03:00:00.000Z,53,1,"Dor de Cabeça, Tosse, Febre, Dor de Garganta, Coriza",1,Maranhão,Maranhão,Cura,Descartado
+2021-12-28T03:00:00.000Z,53,,"Dor de Cabeça, Tosse, Febre, Dor de Garganta, Coriza",1,Maranhão,Maranhão,Cura,Descartado
+2021-12-28T03:00:00.000Z,53,2,"Dor de Cabeça, Tosse, Febre, Dor de Garganta, Coriza",1,Maranhão,Maranhão,Cura,Descartado
+2023-04-27T03:00:15.266Z,49,2,"Dor de Cabeça, Tosse, Febre",1,Sergipe,Sergipe,Cura,Síndrome Gripal Não Especificada
+2023-05-08T03:00:39.661Z,0,2,Outros,2,Pernambuco,Pernambuco,Cura,Descartado
+2023-05-17T03:00:14.781Z,6,2,Assintomático,1,Rio de Janeiro,Rio de Janeiro,,
+2022-01-07T03:00:54.784Z,37,1,"Coriza, Tosse",1,São Paulo,São Paulo,Cura,Confirmado Laboratorial
+2022-01-07T03:00:54.784Z,37,,"Coriza, Tosse",1,São Paulo,São Paulo,Cura,Confirmado Laboratorial
+2022-01-07T03:00:54.784Z,37,1,"Coriza, Tosse",1,São Paulo,São Paulo,Cura,Confirmado Laboratorial
+2022-01-07T03:00:54.784Z,37,1,"Coriza, Tosse",1,São Paulo,São Paulo,Cura,Confirmado Laboratorial
+2023-03-14T03:00:00.000Z,8,2,Assintomático,1,Pará,Piauí,,
+2023-01-10T03:00:00.000Z,35,2,"Coriza, Dor de Cabeça, Dor de Garganta, Outros",1,Pernambuco,Pernambuco,Cura,Descartado
+2022-07-14T03:00:50.250Z,70,2,Assintomático,1,Rio Grande do Sul,Rio Grande do Sul,,
+2023-05-07T03:00:00.000Z,26,1,"Coriza, Tosse, Febre, Dor de Cabeça",1,São Paulo,São Paulo,Cura,Confirmado Laboratorial
+2021-03-11T03:00:39.451Z,54,2,"Dor de Cabeça, Dispneia, Tosse, Outros",,São Paulo,São Paulo,Cancelado,
+2023-05-17T03:00:37.176Z,75,1,Assintomático,1,Rio de Janeiro,Rio de Janeiro,,
+2023-05-01T03:00:00.000Z,14,2,"Febre, Dor de Cabeça",1,Minas Gerais,Minas Gerais,,
+2023-05-15T03:00:00.000Z,46,2,Assintomático,1,Ceará,Ceará,,
+2023-05-04T03:00:00.000Z,13,1,"Coriza, Dor de Cabeça, Tosse, Febre, Dor de Garganta",1,Goiás,Goiás,Cura,Confirmado Laboratorial
+2021-06-18T03:00:48.333Z,71,2,Tosse,,São Paulo,São Paulo,Cura,Descartado
+2022-06-02T03:00:59.239Z,27,1,"Tosse, Febre, Dor de Garganta, Dor de Cabeça",1,Santa Catarina,Santa Catarina,Cura,Confirmado Laboratorial
+2023-02-23T03:00:59.458Z,20,2,"Febre, Dor de Garganta",1,Santa Catarina,Santa Catarina,Cura,Síndrome Gripal Não Especificada
+2023-03-30T03:00:34.722Z,68,2,Assintomático,1,São Paulo,São Paulo,Cura,Descartado
+2022-11-21T03:00:00.000Z,33,1,"Tosse, Dor de Garganta, Coriza",,Ceará,Ceará,Cura,Descartado
+2022-11-21T03:00:00.000Z,33,2,"Tosse, Dor de Garganta, Coriza",,Ceará,Ceará,Cura,Descartado
+2022-06-07T03:00:25.618Z,28,2,"Outros, Febre",,Minas Gerais,Minas Gerais,Cura,Confirmado Clínico-Epidemiológico
+2023-04-15T03:00:17.622Z,47,1,"Dor de Cabeça, Outros",1,Rio Grande do Sul,Rio Grande do Sul,Cura,Confirmado Laboratorial
+2023-04-18T03:00:00.000Z,41,1,"Coriza, Dor de Cabeça, Tosse, Dispneia",1,Pernambuco,Pernambuco,,
+2023-02-23T03:00:00.000Z,55,1,"Coriza, Dor de Cabeça, Tosse",1,São Paulo,São Paulo,Cura,Síndrome Gripal Não Especificada
+2022-06-02T03:00:58.871Z,50,1,"Tosse, Outros",1,Santa Catarina,Santa Catarina,Cura,Confirmado Laboratorial
+2023-05-17T03:00:33.083Z,4,2,"Coriza, Dor de Cabeça, Tosse, Febre, Dispneia, Dor de Garganta, Outros",2,Ceará,Ceará,,
+2023-05-17T03:00:17.579Z,63,1,"Coriza, Tosse, Febre, Dor de Garganta, Dor de Cabeça",1,Rio Grande do Norte,Rio Grande do Norte,,
+2022-08-11T03:00:00.000Z,27,2,"Dor de Garganta, Coriza, Outros, Tosse",,Bahia,Bahia,Cura,Síndrome Gripal Não Especificada
+2021-11-12T03:00:35.667Z,26,2,"Tosse, Febre, Dor de Garganta, Coriza",1,Amapá,Amapá,Ignorado,Síndrome Gripal Não Especificada
+2023-05-17T03:00:50.306Z,38,2,Tosse,1,São Paulo,São Paulo,,
+2023-03-30T03:00:35.448Z,42,2,Outros,,São Paulo,São Paulo,Cura,Descartado
+2023-05-17T03:00:51.829Z,62,1,Assintomático,1,Goiás,Goiás,,
+2023-05-17T03:00:07.954Z,16,2,"Dor de Cabeça, Tosse, Dor de Garganta",1,Rio Grande do Sul,Rio Grande do Sul,,
+2023-05-17T03:00:19.392Z,6,2,Assintomático,2,Rio de Janeiro,Rio de Janeiro,,
+2023-05-17T03:00:11.418Z,21,1,"Coriza, Dor de Cabeça, Tosse, Febre",1,Santa Catarina,Santa Catarina,Cura,Confirmado Laboratorial
+2023-05-17T03:00:32.019Z,28,2,"Dor de Cabeça, Dispneia",,São Paulo,São Paulo,,
+2022-08-05T04:00:21.114Z,51,2,"Tosse, Febre, Dor de Cabeça",1,Amazonas,Amazonas,Ignorado,Descartado
+2023-05-16T03:00:00.000Z,31,2,"Dor de Cabeça, Tosse, Dor de Garganta, Outros",,Sergipe,Sergipe,,
+2023-04-19T03:00:00.000Z,46,2,"Coriza, Tosse, Febre, Outros",1,Rio de Janeiro,Rio de Janeiro,Ignorado,Descartado
+2022-01-21T03:00:00.000Z,48,1,"Coriza, Tosse, Dor de Cabeça",1,Pernambuco,Pernambuco,Cura,Confirmado Laboratorial
+2023-05-17T03:00:40.402Z,70,2,Assintomático,1,São Paulo,São Paulo,,
+2022-06-09T03:00:35.885Z,50,1,"Distúrbios Olfativos, Dor de Cabeça, Dor de Garganta, Coriza",1,São Paulo,São Paulo,Cura,Síndrome Gripal Não Especificada
+2022-06-09T03:00:35.885Z,50,1,"Distúrbios Olfativos, Dor de Cabeça, Dor de Garganta, Coriza",1,São Paulo,São Paulo,Cura,Síndrome Gripal Não Especificada
+2023-05-17T03:00:21.256Z,45,,"Coriza, Febre, Dispneia",1,Pernambuco,Pernambuco,,
+2023-04-15T03:00:26.019Z,48,1,Dor de Garganta,1,Rio Grande do Sul,Rio Grande do Sul,Cura,Confirmado Laboratorial
+2023-05-03T03:00:00.000Z,83,2,Assintomático,1,Pernambuco,Pernambuco,Cura,Descartado
+2023-04-04T03:00:24.633Z,29,2,Assintomático,1,Rio Grande do Sul,Rio Grande do Sul,,
+2023-05-17T03:00:33.290Z,15,2,"Coriza, Dor de Cabeça, Tosse, Febre, Dor de Garganta, Dispneia",1,São Paulo,São Paulo,,
+2020-11-19T03:46:00.832Z,24,2,Assintomático,,São Paulo,Paraná,Cura,Descartado
+2023-05-16T03:00:00.000Z,18,2,"Dor de Cabeça, Dispneia, Dor de Garganta, Outros",1,São Paulo,São Paulo,,
+2023-05-17T03:00:41.119Z,23,,"Dor de Garganta, Tosse",1,São Paulo,São Paulo,Ignorado,Confirmado Laboratorial
+2023-05-17T03:00:41.119Z,23,2,"Dor de Garganta, Tosse",1,São Paulo,São Paulo,Ignorado,Confirmado Laboratorial
+2023-05-12T03:00:55.384Z,13,,"Coriza, Dor de Cabeça, Febre, Outros",2,São Paulo,São Paulo,Cura,Descartado
+2023-05-17T03:00:29.956Z,36,2,"Coriza, Dor de Cabeça, Tosse, Febre, Dor de Garganta",1,São Paulo,São Paulo,Cura,Descartado
+2023-02-08T03:00:00.000Z,66,1,"Tosse, Dispneia",1,São Paulo,São Paulo,,
+2023-05-17T03:00:53.841Z,28,2,"Coriza, Dor de Cabeça, Tosse, Outros",,Rio Grande do Sul,Rio Grande do Sul,,Síndrome Gripal Não Especificada
+2023-05-17T03:00:14.292Z,30,2,"Tosse, Febre",1,São Paulo,São Paulo,,
+2023-05-08T03:00:00.000Z,26,2,"Coriza, Dor de Cabeça, Tosse, Dor de Garganta, Febre",1,Goiás,Goiás,Ignorado,Síndrome Gripal Não Especificada
+2022-11-18T03:00:00.000Z,53,2,Dor de Garganta,1,Ceará,Ceará,,
+2023-05-17T03:00:56.417Z,33,2,Assintomático,1,São Paulo,São Paulo,,
+2023-05-17T03:00:55.461Z,52,2,"Coriza, Febre, Dor de Cabeça",1,Minas Gerais,Minas Gerais,,
+2023-02-23T03:00:00.000Z,70,1,"Coriza, Tosse, Outros",1,São Paulo,São Paulo,Cura,Síndrome Gripal Não Especificada
+2021-05-24T03:00:05.873Z,33,2,"Dor de Garganta, Dispneia, Tosse, Coriza, Dor de Cabeça",,Goiás,Goiás,Cura,Síndrome Gripal Não Especificada
+2021-01-25T03:00:00.000Z,31,2,Outros,,Minas Gerais,Minas Gerais,,
+2021-01-25T03:00:00.000Z,31,2,Outros,,Minas Gerais,Minas Gerais,,
+2023-03-05T03:00:00.000Z,46,1,"Dor de Cabeça, Outros",1,São Paulo,São Paulo,Cura,Confirmado Laboratorial
+2023-05-17T03:00:09.500Z,36,2,"Coriza, Dor de Cabeça",1,São Paulo,São Paulo,,
+2023-03-10T03:00:00.000Z,50,2,Assintomático,1,Rio de Janeiro,Rio de Janeiro,Cura,Descartado
+2023-05-17T03:00:41.028Z,39,2,"Dor de Cabeça, Dor de Garganta, Outros",1,Rio Grande do Sul,Rio Grande do Sul,,
+2023-05-17T03:00:02.347Z,40,1,"Febre, Dor de Cabeça",1,Bahia,Rio Grande do Sul,,
+2023-05-17T03:00:18.709Z,61,2,"Coriza, Dor de Cabeça, Tosse, Febre, Outros",1,São Paulo,São Paulo,,
+2023-05-17T03:00:18.709Z,61,,"Coriza, Dor de Cabeça, Tosse, Febre, Outros",1,São Paulo,São Paulo,,
+2020-07-28T03:00:04.530Z,22,2,"Febre, Tosse, Outros",,São Paulo,São Paulo,Cura,Descartado
+2023-05-17T03:00:12.697Z,64,2,"Coriza, Dor de Cabeça, Dor de Garganta",1,São Paulo,São Paulo,Cura,Descartado
+2023-05-15T03:00:00.000Z,15,2,Dor de Garganta,1,São Paulo,São Paulo,Cura,Descartado
+2023-05-17T03:00:17.772Z,58,2,Assintomático,1,Pernambuco,Pernambuco,,
+2023-05-17T03:00:24.136Z,23,2,Tosse,1,Santa Catarina,Santa Catarina,,
+2022-06-14T03:00:20.253Z,25,1,"Febre, Dor de Cabeça",1,São Paulo,São Paulo,Cura,Confirmado Laboratorial
+2023-03-20T03:00:28.764Z,41,2,Assintomático,,São Paulo,São Paulo,Cura,Descartado
+2023-05-15T03:00:00.000Z,63,2,"Distúrbios Gustativos, Tosse, Coriza",1,São Paulo,São Paulo,Cura,Descartado
+2022-06-09T03:00:00.000Z,40,,"Tosse, Febre, Coriza",2,São Paulo,São Paulo,Cura,Síndrome Gripal Não Especificada
+2022-08-05T04:00:00.000Z,31,2,"Tosse, Febre, Dor de Cabeça",1,Amazonas,Amazonas,Ignorado,Descartado
+2023-05-17T03:00:45.442Z,21,2,"Dor de Cabeça, Outros",1,São Paulo,São Paulo,,Descartado
+2023-05-17T03:00:52.787Z,24,2,"Tosse, Dor de Garganta",,Rio Grande do Sul,Rio Grande do Sul,,
+2022-05-09T03:00:47.450Z,47,2,"Coriza, Tosse, Dor de Cabeça",1,Piauí,Piauí,Cura,Síndrome Gripal Não Especificada
+2023-05-17T03:00:44.214Z,67,2,Assintomático,,Rio de Janeiro,Rio de Janeiro,,
+2023-01-30T03:00:44.312Z,46,,Assintomático,1,Bahia,Pernambuco,Ignorado,Síndrome Gripal Não Especificada
+2023-05-17T03:00:39.362Z,0,2,Assintomático,2,Rio de Janeiro,Rio de Janeiro,,
+2022-06-29T03:00:20.274Z,57,1,"Dor de Cabeça, Dor de Garganta, Tosse",1,São Paulo,São Paulo,Cura,Síndrome Gripal Não Especificada
+2022-06-29T03:00:20.274Z,57,1,"Dor de Cabeça, Dor de Garganta, Tosse",1,São Paulo,São Paulo,Cura,Síndrome Gripal Não Especificada
+2021-03-12T03:00:00.000Z,43,2,Tosse,,Pará,Pará,Ignorado,Descartado
+2021-03-12T03:00:00.000Z,43,2,Tosse,,Pará,Pará,Ignorado,Descartado
+2023-05-17T03:00:32.547Z,23,2,"Dor de Cabeça, Outros",2,São Paulo,São Paulo,,
+2023-05-14T03:00:00.000Z,79,2,Assintomático,1,Bahia,Bahia,,
+2023-04-03T03:00:00.000Z,47,1,"Distúrbios Gustativos, Tosse, Outros",,São Paulo,São Paulo,Cura,Confirmado Laboratorial
+2023-05-17T03:00:34.016Z,40,1,"Febre, Tosse",1,Pernambuco,Paraíba,,
+2022-02-06T03:00:00.000Z,17,2,Assintomático,2,Pernambuco,Pernambuco,Cura,Descartado
+2023-05-17T03:00:08.850Z,17,2,"Dor de Cabeça, Dor de Garganta",1,Rio Grande do Sul,Rio Grande do Sul,,
+2023-05-13T03:00:00.000Z,53,2,"Dispneia, Tosse",1,São Paulo,São Paulo,,
+2023-03-20T03:00:00.000Z,23,2,Assintomático,2,Pará,Pará,,
+2023-03-03T03:00:00.000Z,37,1,"Coriza, Distúrbios Gustativos, Dor de Cabeça, Tosse, Febre, Dor de Garganta",1,São Paulo,São Paulo,Cura,Confirmado Laboratorial
+2023-03-26T04:00:00.000Z,64,3,Assintomático,,Amazonas,Amazonas,,
+2023-05-16T03:00:00.000Z,14,2,"Coriza, Dor de Cabeça, Tosse, Febre",1,Tocantins,Tocantins,,
+2023-04-27T03:00:23.100Z,25,1,"Coriza, Dor de Cabeça, Tosse",1,São Paulo,Mato Grosso do Sul,Cura,Confirmado Laboratorial
+2022-07-11T03:00:54.352Z,62,1,"Dor de Garganta, Coriza",1,Piauí,Piauí,Cura,Confirmado Laboratorial
+2023-05-12T03:00:12.475Z,9,2,"Coriza, Dor de Cabeça, Tosse",,Minas Gerais,Minas Gerais,Cura,Síndrome Gripal Não Especificada
+2022-01-11T04:00:00.000Z,30,2,"Dor de Cabeça, Outros",1,Mato Grosso do Sul,Mato Grosso do Sul,Cura,Síndrome Gripal Não Especificada
+2023-05-17T03:00:22.729Z,20,2,"Coriza, Tosse, Outros",,Sergipe,Sergipe,,
+2023-05-17T03:00:36.244Z,56,2,Assintomático,1,Pernambuco,Pernambuco,,
+2022-05-09T03:00:40.650Z,29,1,"Coriza, Tosse, Dor de Garganta",1,São Paulo,São Paulo,Cura,Confirmado Laboratorial
+2023-05-12T03:00:18.419Z,45,2,"Coriza, Tosse, Febre, Dor de Garganta, Outros",1,Rio Grande do Sul,Rio Grande do Sul,Cura,Síndrome Gripal Não Especificada
+2020-09-16T03:00:59.553Z,27,1,Distúrbios Gustativos,,São Paulo,São Paulo,Cura,Confirmado Laboratorial
+2023-05-17T03:00:08.299Z,29,2,"Tosse, Febre, Outros",1,São Paulo,São Paulo,,
+2023-05-17T03:00:59.560Z,9,2,"Coriza, Dor de Cabeça, Tosse",2,Minas Gerais,Minas Gerais,,
+2022-08-05T04:00:00.000Z,23,2,"Tosse, Febre, Dor de Garganta, Coriza",1,Amazonas,Amazonas,Ignorado,Descartado
+2022-06-20T03:00:00.000Z,26,1,"Tosse, Febre, Dor de Garganta, Outros, Dor de Cabeça",1,São Paulo,São Paulo,,
+2023-03-10T03:00:00.000Z,68,2,"Coriza, Tosse",1,Amapá,Amapá,Ignorado,Síndrome Gripal Não Especificada
+2023-05-17T03:00:28.355Z,40,2,"Coriza, Dor de Cabeça, Tosse, Dor de Garganta",,São Paulo,São Paulo,,
+2022-07-11T03:00:54.472Z,72,1,"Tosse, Febre",1,Piauí,Piauí,Cura,Confirmado Laboratorial
+2023-05-17T03:00:15.309Z,22,2,"Coriza, Dor de Cabeça, Tosse, Dor de Garganta, Outros",1,São Paulo,São Paulo,,
+2023-05-03T03:00:00.000Z,11,2,"Tosse, Dor de Cabeça",1,São Paulo,São Paulo,Cura,Descartado
+2023-05-17T03:00:27.099Z,40,2,"Coriza, Dor de Cabeça, Dor de Garganta",1,Rio Grande do Norte,Rio Grande do Norte,,
+2022-11-24T03:00:00.000Z,31,2,"Tosse, Dor de Cabeça",1,Ceará,Ceará,,
+2022-03-23T03:00:11.367Z,57,2,"Coriza, Dor de Cabeça, Tosse, Febre, Outros",1,Rio Grande do Sul,Rio Grande do Sul,Cura,Síndrome Gripal Não Especificada
+2020-08-03T03:00:18.400Z,23,2,"Tosse, Outros",,São Paulo,São Paulo,Cura,Descartado
+2023-05-17T04:00:36.071Z,5,2,"Coriza, Dor de Cabeça, Tosse, Febre",2,Mato Grosso,Mato Grosso,,
+2023-05-14T03:00:00.000Z,66,2,Assintomático,1,Ceará,Piauí,,
+2023-02-24T03:00:00.000Z,34,2,"Coriza, Outros, Dor de Garganta",1,São Paulo,São Paulo,Cura,Síndrome Gripal Não Especificada
+2023-04-28T03:00:32.322Z,37,2,"Coriza, Dor de Cabeça, Tosse, Dor de Garganta, Outros",,São Paulo,São Paulo,Cura,Descartado
+2023-04-28T03:00:32.322Z,37,,"Coriza, Dor de Cabeça, Tosse, Dor de Garganta, Outros",,São Paulo,São Paulo,Cura,Descartado
+2021-04-09T03:00:00.000Z,58,2,"Dor de Cabeça, Febre, Dispneia",1,Pará,Pará,Cura,Descartado
+2023-05-17T03:00:09.961Z,36,2,"Dor de Cabeça, Dor de Garganta, Outros",1,São Paulo,São Paulo,,
+2023-05-17T04:00:26.942Z,59,2,"Coriza, Dor de Cabeça, Tosse, Febre, Dor de Garganta",1,Rondônia,Rondônia,,
+2023-05-17T03:00:01.290Z,69,2,Assintomático,1,Distrito Federal,Espírito Santo,,
+2023-05-03T03:00:00.000Z,51,2,"Tosse, Febre, Coriza",1,Rio de Janeiro,Rio de Janeiro,,
+2022-11-30T03:00:14.121Z,66,2,Tosse,1,São Paulo,São Paulo,Em tratamento domiciliar,Síndrome Gripal Não Especificada
+2022-09-26T03:00:07.454Z,46,2,"Coriza, Dor de Cabeça, Tosse, Febre, Outros",1,São Paulo,São Paulo,Cura,Descartado
+2023-05-10T03:00:37.549Z,31,1,"Dor de Cabeça, Febre, Dor de Garganta",1,Goiás,Goiás,Cura,Confirmado Laboratorial
+2023-05-17T03:00:34.231Z,53,1,"Coriza, Distúrbios Olfativos, Dor de Cabeça, Tosse, Febre, Dor de Garganta",,São Paulo,São Paulo,Cura,Confirmado Laboratorial
+2023-04-04T03:00:00.000Z,38,1,"Coriza, Tosse, Febre, Dor de Garganta, Outros",1,Rio de Janeiro,Rio de Janeiro,Ignorado,Confirmado Laboratorial
+2023-03-27T03:00:00.000Z,37,2,"Coriza, Tosse, Febre",1,Bahia,São Paulo,,
+2023-05-17T03:00:34.073Z,34,2,"Tosse, Febre, Outros",1,Rio Grande do Sul,Rio Grande do Sul,,
+2023-05-15T03:00:00.000Z,24,2,Dor de Garganta,1,São Paulo,São Paulo,,
+2023-03-09T03:00:00.000Z,25,2,Assintomático,,Pará,Pará,Cura,Descartado
+2023-05-17T03:00:25.079Z,14,,"Dor de Cabeça, Tosse, Dor de Garganta",1,São Paulo,São Paulo,,
+2023-05-17T04:00:13.502Z,11,2,"Coriza, Dor de Cabeça, Tosse, Febre",1,Mato Grosso,Mato Grosso,,
+2022-04-08T03:00:00.000Z,60,2,Assintomático,1,Pernambuco,Pernambuco,Cura,Descartado
+2022-05-09T03:00:48.365Z,54,2,Assintomático,1,Piauí,Maranhão,Cura,Síndrome Gripal Não Especificada
+2022-06-29T03:00:00.000Z,56,2,"Dor de Garganta, Coriza",1,Pernambuco,Pernambuco,,
+2022-12-08T03:00:42.600Z,58,1,"Coriza, Distúrbios Olfativos, Distúrbios Gustativos",1,Piauí,Piauí,Cura,Confirmado Laboratorial
+2022-05-09T03:00:37.479Z,32,1,Coriza,1,São Paulo,São Paulo,Cura,Confirmado Laboratorial
+2022-07-31T03:00:00.664Z,37,1,"Coriza, Tosse",1,Rio Grande do Sul,Rio Grande do Sul,Em tratamento domiciliar,Confirmado Laboratorial
+2020-12-04T13:40:20.898Z,21,2,Assintomático,,São Paulo,Paraná,Cura,Descartado
+2023-05-17T03:00:01.352Z,16,2,Assintomático,1,Rio de Janeiro,Rio de Janeiro,,
+2023-05-17T03:00:22.373Z,75,2,"Coriza, Tosse, Dispneia, Dor de Garganta",1,São Paulo,São Paulo,Cura,Descartado
+2022-03-29T03:00:00.000Z,4,2,"Dor de Cabeça, Febre, Dispneia",,Pernambuco,Pernambuco,Cura,Descartado
+2023-05-16T03:00:00.000Z,64,2,"Dor de Garganta, Tosse",1,São Paulo,São Paulo,,
+2023-05-17T04:00:17.992Z,16,2,Assintomático,1,Amazonas,Amazonas,,
+2022-01-11T04:00:00.000Z,47,2,"Coriza, Distúrbios Olfativos, Distúrbios Gustativos, Dor de Cabeça, Tosse, Dor de Garganta, Outros",1,Mato Grosso do Sul,Mato Grosso do Sul,Cura,Síndrome Gripal Não Especificada
+2023-05-17T03:00:30.873Z,39,2,"Coriza, Dor de Cabeça, Tosse",1,São Paulo,São Paulo,,
+2022-06-17T03:00:01.460Z,46,2,Assintomático,1,São Paulo,São Paulo,Cura,Descartado
+2023-05-15T03:00:00.000Z,35,2,"Dor de Cabeça, Dispneia, Tosse",,Rio Grande do Sul,Rio Grande do Sul,,
+2023-04-15T03:00:59.455Z,38,1,"Dor de Cabeça, Tosse, Febre, Coriza",1,Rio Grande do Sul,Rio Grande do Sul,Cura,Confirmado Laboratorial
+2022-02-04T03:00:00.000Z,32,2,"Coriza, Tosse, Febre, Dor de Cabeça",1,Pará,Pará,,
+2022-11-11T03:00:00.000Z,40,2,Assintomático,1,Minas Gerais,Minas Gerais,Cura,Confirmado Laboratorial
+2023-05-17T03:00:33.147Z,35,2,"Febre, Dor de Cabeça",,Rio de Janeiro,Rio de Janeiro,,
+2023-05-17T03:00:59.910Z,25,2,"Febre, Dor de Garganta, Outros",1,Distrito Federal,Distrito Federal,Ignorado,Confirmado Laboratorial
+2023-05-12T03:00:13.092Z,30,2,"Coriza, Dor de Cabeça",1,Minas Gerais,Minas Gerais,Cura,Síndrome Gripal Não Especificada
+2023-05-13T03:00:37.539Z,54,2,"Dor de Cabeça, Outros",1,São Paulo,São Paulo,Cura,Descartado
+2023-05-17T03:00:10.534Z,54,1,"Dor de Cabeça, Tosse",1,São Paulo,São Paulo,,
+2023-05-17T03:00:42.901Z,22,2,"Coriza, Dor de Cabeça, Tosse, Febre",1,São Paulo,São Paulo,,
+2023-05-17T03:00:25.872Z,59,1,"Tosse, Febre, Dor de Garganta, Coriza",1,Bahia,Bahia,,
+2023-04-18T03:00:00.000Z,24,1,"Distúrbios Gustativos, Dor de Cabeça, Tosse, Febre, Dor de Garganta",1,Pernambuco,Pernambuco,,
+2023-05-17T04:00:17.484Z,43,2,"Coriza, Dor de Cabeça, Tosse, Febre, Dor de Garganta",1,Mato Grosso do Sul,Mato Grosso do Sul,Cura,Descartado
+2023-05-08T03:00:35.680Z,63,2,Outros,1,Pernambuco,Pernambuco,Cura,Descartado
+2023-05-17T03:00:52.051Z,14,,"Febre, Dor de Garganta, Outros",1,Bahia,Bahia,,
+2023-05-09T03:00:00.000Z,57,1,Tosse,1,São Paulo,São Paulo,Cura,Confirmado Laboratorial
+2023-05-08T03:00:00.000Z,29,2,"Coriza, Dor de Cabeça, Tosse, Febre, Dor de Garganta",1,São Paulo,São Paulo,Cura,Síndrome Gripal Não Especificada
+2022-12-05T03:00:00.000Z,22,2,Assintomático,1,Pará,Rio de Janeiro,Cura,Descartado
+2023-05-17T03:00:58.736Z,7,2,"Tosse, Outros",1,São Paulo,São Paulo,Em tratamento domiciliar,Síndrome Gripal Não Especificada
+2022-12-15T03:00:00.000Z,39,2,"Coriza, Tosse, Febre, Dor de Garganta, Dor de Cabeça",1,Bahia,Bahia,Cura,Descartado
+2023-05-17T03:00:34.595Z,28,1,"Coriza, Dor de Cabeça, Tosse, Dor de Garganta, Outros",1,Mato Grosso do Sul,Mato Grosso do Sul,Em tratamento domiciliar,Confirmado Laboratorial
+2022-11-24T03:00:00.000Z,48,1,"Dor de Cabeça, Dor de Garganta, Outros",1,Santa Catarina,Santa Catarina,Cura,Confirmado Laboratorial
+2023-03-04T03:00:12.008Z,49,2,"Coriza, Tosse, Dor de Garganta",1,São Paulo,São Paulo,Ignorado,Síndrome Gripal Não Especificada
+2023-03-04T03:00:12.008Z,49,,"Coriza, Tosse, Dor de Garganta",1,São Paulo,São Paulo,Ignorado,Síndrome Gripal Não Especificada
+2023-05-17T03:00:59.279Z,66,2,"Tosse, Dispneia, Outros",1,Santa Catarina,Santa Catarina,,
+2023-04-12T03:00:00.000Z,25,2,Assintomático,2,Rio de Janeiro,Rio de Janeiro,,
+2023-05-17T03:00:22.648Z,19,,"Febre, Dor de Garganta, Tosse",2,Rio de Janeiro,Rio de Janeiro,,
+2022-01-12T03:00:00.000Z,45,1,"Febre, Dor de Garganta",3,São Paulo,São Paulo,Cura,Confirmado Laboratorial
+2022-01-12T03:00:00.000Z,45,2,"Febre, Dor de Garganta",3,São Paulo,São Paulo,Cura,Confirmado Laboratorial
+2022-01-12T03:00:00.000Z,45,2,"Febre, Dor de Garganta",3,São Paulo,São Paulo,Cura,Confirmado Laboratorial
+2022-12-19T03:00:00.000Z,59,1,"Tosse, Dor de Cabeça",1,Rio de Janeiro,Rio de Janeiro,,
+2023-04-14T03:00:17.633Z,62,2,"Dor de Cabeça, Tosse, Febre, Outros, Distúrbios Gustativos",,Bahia,Bahia,Cura,Síndrome Gripal Não Especificada
+2023-03-30T03:00:38.808Z,72,2,"Coriza, Dor de Cabeça, Tosse, Dor de Garganta",,São Paulo,São Paulo,Cura,Descartado
+2023-05-16T03:00:00.000Z,5,2,"Coriza, Tosse",,Santa Catarina,Santa Catarina,,
+2023-05-17T03:00:15.447Z,58,,"Coriza, Dor de Cabeça, Tosse",1,Rio Grande do Sul,Rio Grande do Sul,,
+2022-06-14T03:00:15.853Z,47,1,"Coriza, Tosse, Febre, Dor de Garganta, Outros",1,São Paulo,São Paulo,Cura,Confirmado Laboratorial
+2023-05-17T03:00:47.971Z,68,2,"Febre, Dor de Cabeça",1,Santa Catarina,Santa Catarina,,
+2023-05-17T03:00:06.806Z,56,2,"Febre, Dispneia, Outros, Tosse",1,São Paulo,São Paulo,Cura,Descartado
+2023-05-15T03:00:00.000Z,14,2,"Dor de Cabeça, Tosse, Coriza",1,Goiás,Goiás,Em tratamento domiciliar,Síndrome Gripal Não Especificada
+2022-11-19T03:00:00.000Z,48,1,"Coriza, Dor de Garganta, Tosse",1,Rio de Janeiro,Rio de Janeiro,Em tratamento domiciliar,Confirmado Laboratorial
+2022-12-01T03:00:46.746Z,43,2,Outros,1,São Paulo,São Paulo,Em tratamento domiciliar,Síndrome Gripal Não Especificada
+2023-05-17T03:00:28.216Z,53,2,"Tosse, Outros, Dispneia",1,Rio Grande do Sul,Rio Grande do Sul,,
+2023-05-17T03:00:44.513Z,46,2,"Tosse, Coriza",1,Rio de Janeiro,Rio de Janeiro,,
+2022-03-28T03:00:00.000Z,47,2,Assintomático,1,Pernambuco,Pernambuco,Cura,Descartado
+2023-05-17T03:00:34.714Z,12,2,"Coriza, Tosse, Dor de Garganta",2,São Paulo,São Paulo,,
+2023-03-30T03:00:41.738Z,7,2,"Dor de Cabeça, Tosse, Dor de Garganta",,São Paulo,São Paulo,Cura,Descartado
+2023-05-17T03:00:00.000Z,28,2,"Tosse, Febre, Dor de Garganta, Coriza",1,Goiás,Goiás,Cura,Síndrome Gripal Não Especificada
+2023-05-04T03:00:53.385Z,54,2,"Coriza, Tosse",1,Rio de Janeiro,Rio de Janeiro,Cura,Síndrome Gripal Não Especificada
+2022-01-10T03:00:08.189Z,35,1,"Coriza, Dor de Cabeça, Tosse",,São Paulo,São Paulo,Cura,Confirmado por Critério Clínico
+2022-01-10T03:00:08.189Z,35,,"Coriza, Dor de Cabeça, Tosse",,São Paulo,São Paulo,Cura,Confirmado por Critério Clínico
+2022-01-10T03:00:08.189Z,35,1,"Coriza, Dor de Cabeça, Tosse",,São Paulo,São Paulo,Cura,Confirmado por Critério Clínico
+2022-01-10T03:00:08.189Z,35,1,"Coriza, Dor de Cabeça, Tosse",,São Paulo,São Paulo,Cura,Confirmado por Critério Clínico
+2023-03-10T03:00:00.000Z,57,2,"Coriza, Tosse, Febre, Dor de Garganta, Dor de Cabeça",1,Amapá,Amapá,,
+2023-04-22T03:00:00.000Z,62,2,"Tosse, Febre, Dor de Garganta, Outros",1,Rio de Janeiro,Rio de Janeiro,Ignorado,Descartado
+2023-04-11T03:00:00.000Z,33,2,"Coriza, Distúrbios Olfativos, Distúrbios Gustativos, Dor de Cabeça, Febre, Dispneia, Dor de Garganta, Tosse",,Goiás,Goiás,Cura,Descartado
+2023-02-06T03:00:00.000Z,64,1,"Coriza, Dor de Cabeça, Tosse, Febre, Dor de Garganta",1,Pará,Pará,Em tratamento domiciliar,Confirmado Laboratorial
+2023-03-30T03:00:41.837Z,8,2,"Dor de Cabeça, Tosse, Dispneia",,São Paulo,São Paulo,Cura,Descartado
+2022-12-08T03:00:42.644Z,58,1,Tosse,1,Piauí,Piauí,Cura,Confirmado Laboratorial
+2022-02-06T03:00:00.000Z,60,2,Assintomático,1,Pernambuco,Pernambuco,Cura,Descartado
+2023-05-16T03:00:00.000Z,18,2,Assintomático,1,Paraíba,Paraíba,,
+2022-05-09T03:00:52.050Z,39,1,"Dor de Cabeça, Tosse, Outros",1,São Paulo,São Paulo,Cura,Confirmado Laboratorial
+2023-05-16T03:00:00.000Z,51,2,"Coriza, Tosse, Dor de Cabeça",1,São Paulo,São Paulo,Cura,Descartado
+2023-05-14T03:00:00.000Z,41,2,Assintomático,1,Bahia,Bahia,,
+2023-05-17T03:00:08.421Z,31,2,"Tosse, Febre, Dor de Cabeça",1,Santa Catarina,Santa Catarina,,
+2023-05-17T03:00:38.319Z,66,,Coriza,,São Paulo,São Paulo,,
+2022-12-02T03:00:00.000Z,51,2,"Coriza, Dor de Cabeça, Tosse, Febre, Dispneia",,Santa Catarina,Santa Catarina,,
+2022-02-06T03:00:00.000Z,42,2,Dor de Cabeça,1,Pernambuco,Pernambuco,Cura,Descartado
+2022-02-20T03:00:00.000Z,42,2,"Dor de Cabeça, Tosse, Dor de Garganta, Outros",1,Pernambuco,Pernambuco,Cura,Descartado
+2023-05-09T03:00:00.000Z,11,2,"Tosse, Dor de Garganta",1,São Paulo,São Paulo,Cura,Confirmado Laboratorial
+2023-03-30T03:00:38.855Z,43,2,Assintomático,1,São Paulo,São Paulo,Cura,Descartado
+2022-07-06T03:00:40.248Z,28,1,"Febre, Dor de Garganta, Tosse",1,Bahia,Bahia,Cura,Descartado
+2022-07-06T03:00:40.248Z,28,2,"Febre, Dor de Garganta, Tosse",1,Bahia,Bahia,Cura,Descartado
+2022-07-06T03:00:40.248Z,28,2,"Febre, Dor de Garganta, Tosse",1,Bahia,Bahia,Cura,Descartado
+2022-09-26T03:00:29.073Z,22,2,"Febre, Outros",1,São Paulo,São Paulo,Cura,Descartado
+2023-05-17T03:00:50.945Z,29,,"Coriza, Tosse",1,São Paulo,São Paulo,,
+2023-05-17T03:00:50.945Z,29,1,"Coriza, Tosse",1,São Paulo,São Paulo,,
+2023-02-23T04:00:00.000Z,48,1,"Coriza, Dor de Cabeça, Tosse",,Amazonas,Amazonas,,
+2022-05-09T03:00:48.461Z,35,1,"Dor de Garganta, Tosse",1,São Paulo,São Paulo,Cura,Confirmado Laboratorial
+2023-05-17T03:00:11.936Z,31,2,"Dor de Garganta, Outros",1,São Paulo,São Paulo,Cura,Descartado
+2021-08-05T03:00:49.455Z,46,1,"Dor de Cabeça, Dor de Garganta, Tosse",,São Paulo,São Paulo,Cura,Confirmado Laboratorial
+2022-06-14T03:00:18.330Z,12,1,"Dor de Cabeça, Febre",2,São Paulo,São Paulo,Cura,Confirmado Laboratorial
+2022-07-11T03:00:00.000Z,52,2,Dor de Cabeça,1,Minas Gerais,Minas Gerais,Cura,Síndrome Gripal Não Especificada
+2023-01-17T04:00:00.000Z,44,1,"Dor de Cabeça, Dor de Garganta, Coriza",,Mato Grosso,Mato Grosso,Cura,Confirmado Laboratorial
+2023-05-04T03:00:22.294Z,66,2,"Coriza, Tosse, Febre, Dor de Cabeça",1,Rio de Janeiro,Rio de Janeiro,Cura,Síndrome Gripal Não Especificada
+2023-01-18T03:00:00.000Z,91,2,Assintomático,1,Rio Grande do Sul,Rio Grande do Sul,,
+2023-05-17T03:00:24.556Z,32,2,Dor de Cabeça,,São Paulo,São Paulo,Cura,Descartado
+2021-04-12T03:00:00.000Z,22,2,Assintomático,,Pará,Pará,Cura,Descartado
+2021-06-02T03:00:00.000Z,38,1,"Dor de Cabeça, Dispneia",,Goiás,Goiás,Cura,Confirmado Laboratorial
+2023-05-17T03:00:37.576Z,35,2,"Febre, Dor de Garganta",1,Santa Catarina,Santa Catarina,,
+2022-01-21T03:00:00.000Z,52,2,"Coriza, Tosse, Dor de Garganta, Dor de Cabeça",1,Minas Gerais,Minas Gerais,Cura,Confirmado Laboratorial
+2021-01-25T03:00:00.000Z,48,2,Outros,,Minas Gerais,Minas Gerais,,
+2021-01-25T03:00:00.000Z,48,2,Outros,,Minas Gerais,Minas Gerais,,
+2023-05-17T03:00:01.803Z,51,2,"Tosse, Dispneia, Febre",1,São Paulo,São Paulo,Cura,Descartado
+2023-05-08T03:00:34.479Z,74,2,Outros,1,Pernambuco,Pernambuco,Cura,Descartado
+2022-04-08T03:00:17.443Z,35,2,Assintomático,1,Pernambuco,Pernambuco,Cura,Descartado
+2023-05-17T03:00:14.958Z,82,2,Tosse,1,Pernambuco,Pernambuco,,
+2023-05-17T03:00:04.949Z,52,2,"Coriza, Dor de Cabeça, Tosse",1,Rio de Janeiro,Rio de Janeiro,,
+2023-02-02T03:00:00.000Z,43,2,"Coriza, Tosse",1,São Paulo,São Paulo,Cura,Descartado
+2023-05-17T03:00:58.934Z,2,2,"Tosse, Febre",2,São Paulo,São Paulo,,
+2022-03-29T03:00:07.490Z,31,2,Assintomático,2,Pernambuco,Pernambuco,Cura,Descartado
+2023-05-17T03:00:56.361Z,38,2,"Coriza, Febre, Tosse",1,São Paulo,São Paulo,Cura,Descartado
+2023-05-17T03:00:32.114Z,60,2,"Coriza, Tosse",1,São Paulo,São Paulo,,
+2023-05-16T03:00:00.000Z,48,2,Tosse,1,São Paulo,São Paulo,Cura,Descartado
+2022-06-14T03:00:14.846Z,43,1,"Tosse, Outros",1,São Paulo,São Paulo,Cura,Confirmado Laboratorial
+2023-05-17T03:00:10.766Z,32,2,"Coriza, Tosse, Febre, Dor de Garganta",1,Rio Grande do Sul,Rio Grande do Sul,,
+2023-05-17T03:00:00.000Z,36,2,"Coriza, Tosse, Febre, Dor de Garganta, Outros",,São Paulo,São Paulo,Cura,Descartado
+2022-06-28T03:00:00.000Z,68,1,"Coriza, Tosse",1,Bahia,Bahia,Cura,Confirmado Laboratorial
+2022-07-07T03:00:00.000Z,48,1,Assintomático,1,Minas Gerais,Minas Gerais,Cura,Confirmado Laboratorial
+2022-02-06T03:00:00.000Z,33,2,"Coriza, Tosse",1,Pernambuco,Pernambuco,Cura,Descartado
+2023-05-16T03:00:00.000Z,25,1,"Febre, Outros, Dor de Garganta",,Tocantins,Tocantins,,
+2022-07-15T03:00:00.000Z,38,2,Dor de Cabeça,,Pará,Pará,,
+2023-05-17T03:00:02.897Z,17,,"Coriza, Tosse, Dor de Garganta",1,São Paulo,São Paulo,,
+2023-05-17T03:00:43.514Z,60,2,"Coriza, Tosse",1,São Paulo,São Paulo,Cura,Descartado
+2022-05-09T03:00:53.162Z,47,1,"Coriza, Dor de Garganta",1,São Paulo,São Paulo,Cura,Confirmado Laboratorial
+2023-05-17T03:00:51.652Z,37,2,Assintomático,1,Pernambuco,Pernambuco,,
+2023-05-15T03:00:00.000Z,19,2,"Coriza, Febre, Dor de Garganta, Tosse",1,Santa Catarina,Santa Catarina,,Descartado
+2023-04-30T03:00:20.586Z,74,1,"Dor de Cabeça, Tosse, Febre",1,São Paulo,São Paulo,Cura,Confirmado Laboratorial
+2020-08-17T03:00:32.690Z,20,2,"Outros, Dor de Garganta",,São Paulo,São Paulo,Cura,Descartado
+2023-04-16T03:00:11.691Z,63,1,"Coriza, Tosse",1,Pernambuco,Pernambuco,Cura,Confirmado Laboratorial
+2023-04-16T03:00:11.691Z,63,1,"Coriza, Tosse",1,Pernambuco,Pernambuco,Cura,Confirmado Laboratorial
+2023-05-17T03:00:46.903Z,27,2,Assintomático,,São Paulo,São Paulo,Cura,Descartado
+2023-05-17T03:00:32.364Z,56,2,"Dor de Cabeça, Tosse, Febre, Outros",1,São Paulo,São Paulo,,
+2022-03-29T03:00:43.783Z,38,2,Assintomático,1,Pernambuco,Pernambuco,Cura,Descartado
+2022-05-09T03:00:53.206Z,16,1,"Dor de Cabeça, Dor de Garganta",1,São Paulo,São Paulo,Cura,Confirmado Laboratorial
+2023-05-17T03:00:23.630Z,55,1,Assintomático,1,Rio de Janeiro,Rio de Janeiro,,
+2023-05-17T03:00:17.083Z,91,2,Assintomático,1,Paraná,São Paulo,,
+2022-12-15T03:00:00.000Z,33,2,"Dor de Cabeça, Febre, Dor de Garganta, Tosse",1,Bahia,Bahia,Cura,Descartado
+2023-05-17T03:00:09.966Z,57,2,"Tosse, Dor de Cabeça",1,Rio Grande do Sul,Rio Grande do Sul,,
+2023-05-17T03:00:23.491Z,26,2,Assintomático,1,Ceará,Ceará,Cura,Descartado
+2023-03-30T03:00:43.526Z,31,2,"Dor de Cabeça, Tosse, Dor de Garganta",,São Paulo,São Paulo,Cura,Descartado
+2023-05-15T04:00:00.000Z,11,2,"Dor de Cabeça, Febre",,Roraima,Roraima,Ignorado,Descartado
+2023-05-08T03:00:00.000Z,9,2,"Dor de Cabeça, Febre, Tosse",1,Rio Grande do Sul,Rio Grande do Sul,,
+2023-05-17T03:00:10.716Z,33,2,"Coriza, Dor de Cabeça, Dor de Garganta",,Santa Catarina,Santa Catarina,,
+2022-11-28T03:00:00.000Z,50,2,Coriza,1,Rio de Janeiro,Rio de Janeiro,,
+2022-02-16T03:00:00.000Z,51,2,Assintomático,1,Amapá,Pará,Ignorado,Descartado
+2023-05-16T03:00:54.860Z,17,2,"Coriza, Tosse, Dor de Garganta",1,São Paulo,São Paulo,Cura,Descartado
+2023-04-16T03:00:44.289Z,55,1,"Coriza, Dor de Cabeça, Tosse",1,Pernambuco,Pernambuco,Cura,Confirmado Laboratorial
+2023-04-16T03:00:44.289Z,55,1,"Coriza, Dor de Cabeça, Tosse",1,Pernambuco,Pernambuco,Cura,Confirmado Laboratorial
+2023-05-17T03:00:55.215Z,26,2,"Coriza, Febre",1,Acre,São Paulo,,
+2022-05-09T03:00:59.347Z,53,1,"Coriza, Febre, Dor de Garganta",1,São Paulo,São Paulo,Cura,Confirmado Laboratorial
+2022-06-10T03:00:10.928Z,77,2,"Coriza, Dor de Cabeça, Febre, Dor de Garganta, Outros",1,São Paulo,São Paulo,Cura,Síndrome Gripal Não Especificada
+2022-06-10T03:00:10.928Z,77,2,"Coriza, Dor de Cabeça, Febre, Dor de Garganta, Outros",1,São Paulo,São Paulo,Cura,Síndrome Gripal Não Especificada
+2022-03-29T03:00:40.409Z,25,2,Assintomático,1,Pernambuco,Pernambuco,Cura,Descartado
+2022-07-06T03:00:40.374Z,30,2,"Tosse, Outros, Coriza",1,Bahia,Bahia,Cura,Descartado
+2023-02-08T03:00:00.000Z,46,1,"Coriza, Tosse, Febre, Dor de Cabeça",1,Pará,Pará,Em tratamento domiciliar,Confirmado Laboratorial
+2023-03-20T03:00:00.000Z,36,2,Assintomático,1,Pará,Pará,,
+2023-05-17T03:00:30.127Z,65,2,"Coriza, Dor de Cabeça, Dor de Garganta, Distúrbios Gustativos",1,Rio de Janeiro,Rio de Janeiro,Ignorado,Confirmado Laboratorial
+2023-05-17T03:00:53.243Z,41,2,"Dor de Cabeça, Febre, Dispneia, Outros",1,Rio Grande do Sul,Rio Grande do Sul,,
+2023-05-10T03:00:00.000Z,53,2,Assintomático,1,Pará,Pará,,
+2023-05-10T03:00:00.000Z,53,2,Assintomático,1,Pará,Pará,,
+2023-05-10T03:00:00.000Z,53,2,Assintomático,1,Pará,Pará,,
+2023-05-10T03:00:00.000Z,53,2,Assintomático,1,Pará,Pará,,
+2023-05-10T03:00:00.000Z,53,2,Assintomático,1,Pará,Pará,,
+2022-06-14T03:00:14.766Z,0,1,"Coriza, Dor de Cabeça, Tosse",1,São Paulo,São Paulo,Cura,Confirmado Laboratorial
+2022-06-13T03:00:13.250Z,41,2,"Coriza, Tosse, Febre, Dor de Garganta",1,São Paulo,São Paulo,Cura,Síndrome Gripal Não Especificada
+2023-05-17T03:00:00.229Z,15,2,"Dor de Cabeça, Tosse",1,São Paulo,São Paulo,,
+2023-05-17T03:00:05.738Z,49,,Tosse,1,Distrito Federal,Distrito Federal,Cura,Confirmado Laboratorial
+2023-05-17T03:00:26.901Z,41,1,"Coriza, Distúrbios Olfativos",1,Rio Grande do Sul,Rio Grande do Sul,Cura,Confirmado Laboratorial
+2023-05-17T03:00:12.166Z,14,2,"Febre, Dor de Garganta",,Rio Grande do Sul,Rio Grande do Sul,Cura,
+2020-11-23T18:26:42.476Z,27,2,Assintomático,,São Paulo,Paraná,Cura,Descartado
+2023-05-03T03:00:00.000Z,29,2,Assintomático,2,Pernambuco,Pernambuco,Cura,Descartado
+2023-05-03T03:00:00.000Z,18,2,"Coriza, Dor de Cabeça, Tosse, Febre, Outros",1,Rio Grande do Sul,Rio Grande do Sul,,Síndrome Gripal Não Especificada
+2022-04-09T03:00:29.646Z,36,2,"Coriza, Tosse, Dor de Garganta",1,Pernambuco,Pernambuco,Cura,Descartado
+2023-05-17T03:00:13.085Z,53,2,Assintomático,1,Pernambuco,Pernambuco,Cura,Descartado
+2023-05-17T03:00:27.492Z,34,2,Tosse,1,Rio de Janeiro,Rio de Janeiro,,
+2023-03-30T03:00:44.312Z,33,2,"Febre, Dor de Cabeça",1,São Paulo,São Paulo,Cura,Descartado
+2022-03-29T03:00:00.972Z,39,2,Assintomático,1,Pernambuco,Pernambuco,Cura,Descartado
+2023-05-17T03:00:20.736Z,28,2,"Tosse, Febre, Dispneia",1,Santa Catarina,Santa Catarina,Ignorado,Descartado
+2023-05-13T03:00:00.000Z,57,1,"Coriza, Febre, Dor de Garganta, Tosse",1,Rio de Janeiro,Rio de Janeiro,,
+2023-05-17T03:00:59.517Z,15,2,"Coriza, Dor de Cabeça, Tosse, Dor de Garganta",1,São Paulo,São Paulo,Cura,Descartado
+2023-05-17T03:00:08.282Z,23,2,"Coriza, Tosse",1,São Paulo,São Paulo,Cura,Descartado
+2023-05-12T03:00:24.920Z,20,2,"Coriza, Dor de Cabeça, Tosse, Febre, Outros",1,Rio Grande do Sul,Rio Grande do Sul,Cura,Síndrome Gripal Não Especificada
+2023-05-17T03:00:25.911Z,46,1,"Coriza, Distúrbios Gustativos, Tosse, Dor de Garganta, Dor de Cabeça",1,São Paulo,São Paulo,,
+2022-06-28T03:00:26.108Z,33,2,"Coriza, Tosse, Dor de Garganta, Febre",1,São Paulo,São Paulo,Cura,Descartado
+2022-05-10T03:00:05.333Z,18,1,"Tosse, Febre, Dor de Garganta, Outros",1,São Paulo,São Paulo,Cura,Confirmado Laboratorial
+2022-02-04T03:00:00.000Z,25,2,Assintomático,1,Pernambuco,Pernambuco,Cura,Descartado
+2023-03-14T03:00:00.000Z,10,2,"Coriza, Febre, Dor de Cabeça",1,Pará,Piauí,,
+2023-04-26T03:00:00.000Z,37,2,"Tosse, Outros",,Rio de Janeiro,Rio de Janeiro,,
+2022-10-05T03:00:41.190Z,65,1,"Coriza, Tosse, Dor de Garganta",1,São Paulo,São Paulo,,
+2023-05-17T03:00:00.796Z,46,,"Coriza, Dor de Cabeça, Febre, Outros, Tosse",1,São Paulo,Mato Grosso do Sul,,
+2023-05-08T03:00:31.246Z,16,2,Outros,,Pernambuco,Pernambuco,Cura,Descartado
+2023-03-10T03:00:00.000Z,19,2,"Coriza, Dor de Cabeça, Febre, Tosse",1,Amapá,Amapá,,
+2022-12-16T03:00:08.894Z,71,2,Dispneia,2,São Paulo,São Paulo,Cura,Síndrome Gripal Não Especificada
+2023-02-22T03:00:00.000Z,29,2,"Coriza, Outros",1,Rio de Janeiro,Rio de Janeiro,Cura,Descartado
+2022-12-07T03:00:00.000Z,28,1,"Coriza, Distúrbios Olfativos, Dor de Cabeça, Tosse, Febre, Dor de Garganta",1,Pernambuco,Pernambuco,Cura,Confirmado Laboratorial
+2022-01-11T04:00:00.000Z,29,2,Dor de Garganta,1,Mato Grosso do Sul,Mato Grosso do Sul,Cura,Síndrome Gripal Não Especificada
+2023-05-17T03:00:42.827Z,30,2,"Coriza, Dor de Cabeça, Dor de Garganta, Tosse",,Santa Catarina,Santa Catarina,,
+2022-06-21T03:00:43.197Z,48,2,"Distúrbios Olfativos, Distúrbios Gustativos, Dor de Cabeça, Tosse, Dor de Garganta, Outros, Coriza",1,São Paulo,São Paulo,Cura,Síndrome Gripal Não Especificada
+2022-06-21T03:00:43.197Z,48,2,"Distúrbios Olfativos, Distúrbios Gustativos, Dor de Cabeça, Tosse, Dor de Garganta, Outros, Coriza",1,São Paulo,São Paulo,Cura,Síndrome Gripal Não Especificada
+2023-05-09T03:00:00.000Z,13,2,"Tosse, Dispneia, Outros",1,São Paulo,São Paulo,,
+2022-12-15T03:00:14.775Z,20,2,"Coriza, Dor de Cabeça, Tosse, Dor de Garganta",,Bahia,Bahia,Cura,Descartado
+2023-05-17T03:00:48.878Z,14,2,"Febre, Dor de Garganta, Outros",,São Paulo,São Paulo,,
+2021-05-26T03:00:48.508Z,107,2,"Dispneia, Outros",,Minas Gerais,Minas Gerais,Cura,Síndrome Gripal Não Especificada
+2023-03-09T03:00:00.000Z,48,2,"Tosse, Dor de Garganta, Dor de Cabeça",1,Rio Grande do Sul,Rio Grande do Sul,,
+2022-12-12T03:00:00.000Z,43,1,"Dor de Cabeça, Coriza",1,Rio de Janeiro,Rio de Janeiro,,
+2023-05-17T03:00:52.090Z,38,2,Assintomático,1,Maranhão,Maranhão,,
+2022-06-07T03:00:10.432Z,22,2,Assintomático,1,Pará,Rio de Janeiro,Cura,Descartado
+2022-09-05T03:00:00.000Z,21,1,"Febre, Dor de Garganta",1,Rio Grande do Sul,Rio Grande do Sul,,Confirmado Laboratorial
+2023-05-17T03:00:16.904Z,67,2,Assintomático,1,São Paulo,São Paulo,,
+2023-05-17T03:00:36.654Z,55,2,"Dor de Cabeça, Febre, Dor de Garganta, Outros",1,Rondônia,São Paulo,,
+2023-05-17T03:00:32.016Z,23,2,Assintomático,1,Ceará,Ceará,Cura,Descartado
+2023-05-17T03:00:35.275Z,16,,"Coriza, Distúrbios Olfativos, Dor de Cabeça",1,Rio Grande do Sul,Rio Grande do Sul,,
+2023-03-30T03:00:44.950Z,10,2,"Coriza, Febre",1,São Paulo,São Paulo,Cura,Descartado
+2023-05-17T03:00:12.463Z,43,2,"Coriza, Tosse, Dor de Garganta",1,Rio de Janeiro,Rio de Janeiro,,
+2023-05-17T03:00:22.047Z,25,2,"Febre, Tosse",,São Paulo,São Paulo,Cura,Descartado
+2022-01-21T03:00:00.000Z,21,2,Dor de Cabeça,1,Minas Gerais,Minas Gerais,Cura,Confirmado Laboratorial
+2023-05-17T03:00:48.928Z,42,2,"Coriza, Tosse",1,São Paulo,São Paulo,,
+2023-05-17T03:00:48.928Z,42,,"Coriza, Tosse",1,São Paulo,São Paulo,,
+2023-03-30T03:00:45.497Z,28,2,"Tosse, Dor de Cabeça",1,São Paulo,São Paulo,Cura,Descartado
+2023-05-17T03:00:55.736Z,62,2,"Distúrbios Olfativos, Distúrbios Gustativos",1,São Paulo,São Paulo,,
+2023-05-15T03:00:00.000Z,41,2,"Coriza, Distúrbios Olfativos, Distúrbios Gustativos, Dor de Cabeça, Febre",1,São Paulo,São Paulo,Cura,Confirmado Laboratorial
+2023-03-03T03:00:00.000Z,16,1,"Dor de Cabeça, Dor de Garganta, Tosse",1,São Paulo,São Paulo,Cura,Descartado
+2023-03-03T03:00:00.000Z,16,2,"Dor de Cabeça, Dor de Garganta, Tosse",1,São Paulo,São Paulo,Cura,Descartado
+2023-05-17T03:00:38.639Z,35,2,"Distúrbios Olfativos, Distúrbios Gustativos, Tosse, Febre, Dor de Garganta, Dor de Cabeça",1,Minas Gerais,Minas Gerais,Cura,Síndrome Gripal Não Especificada
+2023-05-17T03:00:23.078Z,13,,"Dor de Cabeça, Tosse",1,São Paulo,São Paulo,Ignorado,Confirmado Laboratorial
+2023-05-17T03:00:23.078Z,13,2,"Dor de Cabeça, Tosse",1,São Paulo,São Paulo,Ignorado,Confirmado Laboratorial
+2023-05-08T03:00:28.557Z,28,2,Outros,1,Pernambuco,Pernambuco,Cura,Descartado
+2023-05-13T03:00:40.767Z,73,2,"Tosse, Dor de Cabeça",1,São Paulo,São Paulo,Cura,Descartado
+2023-05-06T04:00:00.000Z,41,2,"Tosse, Dor de Garganta, Dor de Cabeça",,Amazonas,Amazonas,Cura,Descartado
+2023-04-05T03:00:00.000Z,49,1,"Distúrbios Olfativos, Dor de Cabeça, Tosse, Febre, Dor de Garganta, Distúrbios Gustativos",1,Rio de Janeiro,Rio de Janeiro,Cura,Confirmado Laboratorial
+2023-05-17T03:00:06.389Z,27,2,Assintomático,1,Rio de Janeiro,Rio de Janeiro,,
+2023-05-17T03:00:45.711Z,31,2,"Coriza, Dor de Cabeça, Tosse, Febre, Dor de Garganta",1,Rio Grande do Sul,Rio Grande do Sul,,
+2023-05-17T03:00:10.518Z,39,2,"Coriza, Distúrbios Olfativos, Distúrbios Gustativos",1,Rio de Janeiro,Rio de Janeiro,,
+2023-03-05T03:00:00.000Z,24,2,"Tosse, Dor de Garganta, Outros",1,São Paulo,São Paulo,Cura,Confirmado Laboratorial
+2023-05-17T03:00:54.032Z,4,2,Assintomático,,São Paulo,São Paulo,,
+2023-05-12T03:00:01.665Z,62,2,"Coriza, Outros",1,Minas Gerais,Minas Gerais,Cura,Síndrome Gripal Não Especificada
+2023-03-21T03:00:31.008Z,18,1,Febre,1,São Paulo,São Paulo,Cura,Descartado
+2023-05-17T03:00:41.107Z,0,,Dispneia,,Santa Catarina,Santa Catarina,,
+2022-01-21T03:00:00.000Z,21,1,"Coriza, Tosse, Dor de Cabeça",1,Pernambuco,Pernambuco,Cura,Confirmado Laboratorial
+2020-08-11T03:00:27.330Z,25,2,"Febre, Tosse, Outros, Dor de Garganta",,São Paulo,São Paulo,Cura,Descartado
+2022-06-14T03:00:12.493Z,43,1,"Tosse, Dor de Garganta, Coriza",1,São Paulo,São Paulo,Cura,Confirmado Laboratorial
+2023-05-08T03:00:28.150Z,1,2,Outros,1,Pernambuco,Pernambuco,Cura,Descartado
+2023-04-14T03:00:19.155Z,22,,"Dor de Cabeça, Tosse, Dor de Garganta, Outros, Febre",,Bahia,Bahia,Cura,Síndrome Gripal Não Especificada
+2023-05-17T03:00:33.534Z,13,2,"Distúrbios Gustativos, Tosse",1,São Paulo,São Paulo,,
+2023-05-17T03:00:20.424Z,35,2,Outros,,Minas Gerais,Minas Gerais,,
+2023-05-16T03:00:00.914Z,52,2,"Coriza, Dor de Cabeça, Tosse",1,São Paulo,São Paulo,,
+2023-05-16T03:00:00.914Z,52,,"Coriza, Dor de Cabeça, Tosse",1,São Paulo,São Paulo,,
+2023-05-16T03:00:00.914Z,52,1,"Coriza, Dor de Cabeça, Tosse",1,São Paulo,São Paulo,,
+2021-03-29T03:00:00.000Z,54,2,"Febre, Dor de Garganta, Tosse, Coriza, Dor de Cabeça, Distúrbios Gustativos, Outros",,Pará,Pará,Cura,Confirmado Laboratorial
+2023-01-09T03:00:48.285Z,26,1,"Dor de Cabeça, Tosse, Outros",,São Paulo,São Paulo,Cura,Confirmado Laboratorial
+2023-02-09T03:00:00.000Z,14,1,"Distúrbios Gustativos, Dor de Cabeça, Tosse, Febre, Dor de Garganta, Outros",1,Santa Catarina,Santa Catarina,Cura,Confirmado Laboratorial
+2023-05-17T03:00:00.363Z,29,2,Assintomático,1,Rio Grande do Norte,Rio Grande do Norte,,
+2023-04-02T03:00:28.085Z,33,2,Assintomático,1,São Paulo,São Paulo,Cura,Descartado
+2023-05-17T03:00:25.167Z,0,,"Coriza, Tosse, Febre, Dispneia",2,São Paulo,São Paulo,,
+2023-05-17T03:00:38.314Z,24,,"Coriza, Tosse",1,São Paulo,São Paulo,,
+2022-06-30T03:00:44.018Z,58,2,"Dor de Cabeça, Tosse, Outros",1,São Paulo,São Paulo,Cura,Síndrome Gripal Não Especificada
+2022-06-30T03:00:44.018Z,58,2,"Dor de Cabeça, Tosse, Outros",1,São Paulo,São Paulo,Cura,Síndrome Gripal Não Especificada
+2023-05-17T03:00:13.925Z,64,2,Outros,1,Santa Catarina,Santa Catarina,,
+2023-05-15T03:00:00.000Z,32,2,"Coriza, Distúrbios Olfativos, Distúrbios Gustativos, Tosse, Febre, Dor de Garganta",1,São Paulo,São Paulo,Cura,Confirmado Laboratorial
+2022-03-11T03:00:00.000Z,24,2,Assintomático,1,Pernambuco,Pernambuco,Cura,Descartado
+2023-05-15T03:00:00.000Z,46,2,Assintomático,1,Bahia,Bahia,,
+2022-07-25T03:00:00.000Z,43,2,"Coriza, Tosse, Febre",1,Rio de Janeiro,Rio de Janeiro,Ignorado,Síndrome Gripal Não Especificada
+2023-05-08T03:00:00.000Z,4,2,"Dor de Cabeça, Febre, Tosse",2,Rio Grande do Sul,Rio Grande do Sul,,
+2023-03-04T03:00:16.635Z,68,2,Assintomático,1,São Paulo,São Paulo,Ignorado,Síndrome Gripal Não Especificada
+2021-11-19T03:00:49.334Z,50,2,"Coriza, Dor de Cabeça, Febre, Outros",1,Minas Gerais,Minas Gerais,Cura,Descartado
+2023-04-10T03:00:00.000Z,48,2,"Dor de Cabeça, Febre, Outros",1,Pernambuco,Pernambuco,,
+2022-02-23T03:00:00.000Z,56,1,"Coriza, Distúrbios Olfativos, Distúrbios Gustativos, Dor de Cabeça, Tosse, Febre, Dor de Garganta, Outros",1,Minas Gerais,Minas Gerais,Cura,Confirmado Laboratorial
+2022-02-23T03:00:00.000Z,56,2,"Coriza, Distúrbios Olfativos, Distúrbios Gustativos, Dor de Cabeça, Tosse, Febre, Dor de Garganta, Outros",1,Minas Gerais,Minas Gerais,Cura,Confirmado Laboratorial
+2023-05-17T03:00:59.123Z,5,2,"Coriza, Distúrbios Olfativos, Distúrbios Gustativos",2,Minas Gerais,Minas Gerais,,
+2023-05-04T03:00:00.000Z,47,2,"Coriza, Febre, Dor de Garganta",1,Paraíba,Paraíba,,Descartado
+2023-05-17T03:00:39.002Z,49,2,"Coriza, Tosse, Dor de Cabeça",,Rio Grande do Sul,Rio Grande do Sul,Cura,
+2023-03-04T03:00:20.958Z,45,2,"Dor de Garganta, Dor de Cabeça",1,São Paulo,São Paulo,Ignorado,Síndrome Gripal Não Especificada
+2023-04-26T03:00:00.000Z,52,2,"Coriza, Dor de Cabeça, Tosse",,Santa Catarina,Santa Catarina,,
+2023-05-17T03:00:57.830Z,25,2,Dor de Cabeça,1,Pernambuco,Pernambuco,Cura,Descartado
+2022-06-14T03:00:13.609Z,22,1,"Dor de Cabeça, Tosse, Dor de Garganta",1,São Paulo,São Paulo,Cura,Confirmado Laboratorial
+2023-05-16T03:00:33.586Z,28,,"Coriza, Dor de Cabeça, Tosse, Febre, Dor de Garganta",1,São Paulo,São Paulo,Cancelado,
+2023-05-17T03:00:41.709Z,67,1,"Coriza, Dor de Cabeça, Febre",1,São Paulo,São Paulo,,
+2022-12-08T03:00:00.000Z,54,2,Assintomático,1,Rio de Janeiro,Rio de Janeiro,Ignorado,Descartado
+2023-05-02T03:00:00.000Z,29,2,"Dor de Cabeça, Febre, Dor de Garganta, Dispneia",1,São Paulo,São Paulo,Cura,Descartado
+2023-05-17T03:00:36.430Z,2,,"Tosse, Febre, Coriza",1,São Paulo,São Paulo,Ignorado,Confirmado Laboratorial
+2023-05-17T03:00:36.430Z,2,2,"Tosse, Febre, Coriza",1,São Paulo,São Paulo,Ignorado,Confirmado Laboratorial
+2022-02-03T03:00:00.000Z,15,2,Assintomático,2,Pernambuco,Pernambuco,Cura,Descartado
+2020-06-13T09:36:00.208Z,31,2,"Tosse, Outros",,São Paulo,São Paulo,Cura,Descartado
+2023-02-25T03:00:00.000Z,4,2,"Dor de Cabeça, Tosse, Febre, Dor de Garganta",1,Minas Gerais,Minas Gerais,,
+2023-04-18T03:00:13.509Z,65,1,"Tosse, Dor de Garganta, Distúrbios Gustativos",1,Pernambuco,Pernambuco,Cura,Confirmado Laboratorial
+2023-04-18T03:00:13.509Z,65,1,"Tosse, Dor de Garganta, Distúrbios Gustativos",1,Pernambuco,Pernambuco,Cura,Confirmado Laboratorial
+2020-06-26T16:11:37.678Z,23,2,Outros,,São Paulo,São Paulo,Cura,Descartado
+2023-03-04T03:00:28.668Z,37,2,"Coriza, Dor de Cabeça, Outros",1,São Paulo,São Paulo,Ignorado,Síndrome Gripal Não Especificada
+2023-03-14T03:00:00.000Z,42,2,"Coriza, Dor de Cabeça, Tosse, Febre, Dor de Garganta",1,Pará,Piauí,,
+2023-05-16T03:00:00.000Z,16,2,"Coriza, Febre, Dor de Cabeça",1,Santa Catarina,Santa Catarina,,Descartado
+2021-09-30T03:00:16.363Z,48,2,"Coriza, Tosse, Dor de Garganta",1,Rio de Janeiro,Rio de Janeiro,Ignorado,Síndrome Gripal Não Especificada
+2023-03-04T03:00:29.970Z,31,2,"Coriza, Tosse, Outros",1,São Paulo,São Paulo,Ignorado,Síndrome Gripal Não Especificada
+2023-05-17T03:00:10.935Z,9,2,"Dor de Cabeça, Tosse, Febre, Dor de Garganta",1,Rio Grande do Sul,Rio Grande do Sul,Cura,
+2023-05-17T03:00:05.855Z,23,2,"Coriza, Distúrbios Gustativos, Dor de Cabeça, Tosse, Febre",,São Paulo,São Paulo,,
+2023-05-17T03:00:45.048Z,3,,"Febre, Tosse",,Bahia,Bahia,,
+2023-05-16T03:00:00.000Z,36,2,"Coriza, Febre, Tosse",1,Santa Catarina,Santa Catarina,,Descartado
+2023-05-17T03:00:23.005Z,30,,Assintomático,1,Pernambuco,Pernambuco,,
+2022-05-10T03:00:00.000Z,63,2,Assintomático,,Piauí,Piauí,Cura,Síndrome Gripal Não Especificada
+2023-05-16T03:00:00.000Z,5,,"Coriza, Tosse",1,São Paulo,São Paulo,Cura,Descartado
+2023-05-16T03:00:00.000Z,5,2,"Coriza, Tosse",1,São Paulo,São Paulo,Cura,Descartado
+2023-03-04T03:00:31.158Z,19,2,"Distúrbios Gustativos, Dor de Cabeça, Tosse, Febre, Distúrbios Olfativos",2,São Paulo,São Paulo,Ignorado,Síndrome Gripal Não Especificada
+2023-05-16T03:00:00.000Z,8,2,"Coriza, Tosse",1,Santa Catarina,Santa Catarina,,Descartado
+2023-05-16T03:00:12.209Z,47,2,"Coriza, Distúrbios Olfativos, Tosse, Distúrbios Gustativos",1,São Paulo,São Paulo,Cura,Síndrome Gripal Não Especificada
+2023-05-16T03:00:00.000Z,68,1,"Coriza, Tosse, Febre, Dor de Cabeça",,Sergipe,Sergipe,,
+2023-05-16T03:00:00.000Z,19,2,"Coriza, Dor de Cabeça, Tosse",1,Santa Catarina,Santa Catarina,,Descartado
+2021-01-29T03:00:00.000Z,28,1,"Febre, Outros, Dor de Cabeça",,São Paulo,São Paulo,Cura,Confirmado Laboratorial
+2021-01-29T03:00:00.000Z,28,2,"Febre, Outros, Dor de Cabeça",,São Paulo,São Paulo,Cura,Confirmado Laboratorial
+2023-05-10T03:00:00.000Z,62,1,Tosse,1,São Paulo,São Paulo,Cura,Confirmado Laboratorial
+2023-05-16T03:00:47.584Z,48,,Assintomático,,São Paulo,São Paulo,Cancelado,
+2023-05-12T03:00:00.000Z,74,2,Assintomático,1,Rio de Janeiro,Rio de Janeiro,,
+2023-05-17T03:00:07.951Z,55,2,"Coriza, Dor de Cabeça, Dor de Garganta",1,São Paulo,São Paulo,,
+2023-05-17T03:00:59.661Z,32,2,Dor de Cabeça,,São Paulo,São Paulo,Cura,Descartado
+2023-05-06T04:00:00.000Z,16,2,"Coriza, Distúrbios Gustativos, Dor de Cabeça, Dor de Garganta, Tosse",,Amazonas,Amazonas,Cura,Descartado
+2022-07-07T03:00:07.671Z,43,1,"Febre, Dor de Garganta, Dor de Cabeça",2,São Paulo,São Paulo,Cura,Síndrome Gripal Não Especificada
+2022-07-07T03:00:07.671Z,43,1,"Febre, Dor de Garganta, Dor de Cabeça",2,São Paulo,São Paulo,Cura,Síndrome Gripal Não Especificada
+2023-05-17T03:00:27.013Z,47,2,"Dor de Cabeça, Tosse, Febre, Dor de Garganta, Outros, Coriza",1,Rio Grande do Sul,Rio Grande do Sul,,
+2023-05-17T03:00:25.364Z,15,1,"Tosse, Febre, Dor de Garganta",1,Santa Catarina,Santa Catarina,,
+2023-04-12T03:00:00.000Z,2,2,"Tosse, Febre, Coriza",,Goiás,Goiás,Cura,Descartado
+2023-05-17T03:00:02.626Z,43,2,Assintomático,,São Paulo,São Paulo,,
+2023-05-15T03:00:00.000Z,27,2,"Dispneia, Tosse",1,São Paulo,São Paulo,,
+2023-02-16T03:00:00.000Z,15,2,"Coriza, Tosse, Dispneia",,Minas Gerais,Minas Gerais,,
+2023-02-16T03:00:00.000Z,15,2,"Coriza, Tosse, Dispneia",,Minas Gerais,Minas Gerais,,
+2023-04-29T03:00:00.000Z,61,2,"Coriza, Febre, Dor de Garganta",1,Paraíba,Paraíba,,Descartado
+2021-03-22T03:00:35.826Z,47,1,"Distúrbios Gustativos, Distúrbios Olfativos",,Piauí,Piauí,Cura,Confirmado Laboratorial
+2022-07-28T03:00:58.830Z,43,2,"Coriza, Dor de Cabeça",1,São Paulo,São Paulo,Cura,Confirmado Laboratorial
+2023-05-17T03:00:27.049Z,15,2,"Dor de Cabeça, Tosse, Dor de Garganta",1,Rio Grande do Sul,Rio Grande do Sul,,
+2023-03-04T03:00:35.927Z,28,2,"Dor de Cabeça, Tosse, Dor de Garganta",1,São Paulo,São Paulo,Ignorado,Síndrome Gripal Não Especificada
+2023-05-17T03:00:00.000Z,22,2,"Coriza, Dor de Cabeça, Dor de Garganta",1,Rio Grande do Sul,Rio Grande do Sul,,
+2023-04-20T03:00:00.000Z,18,2,"Coriza, Dor de Garganta",,Rio Grande do Sul,Rio Grande do Sul,,
+2021-02-10T03:00:00.000Z,32,2,Assintomático,1,Rio de Janeiro,Rio de Janeiro,,
+2023-05-17T03:00:25.450Z,73,2,Assintomático,,Pará,Pará,,
+2023-03-04T03:00:37.932Z,20,2,"Dor de Garganta, Tosse",1,São Paulo,São Paulo,Ignorado,Síndrome Gripal Não Especificada
+2023-05-17T03:00:24.571Z,32,1,Tosse,1,Distrito Federal,Distrito Federal,,
+2023-05-17T03:00:57.319Z,11,,"Coriza, Tosse, Outros",,São Paulo,São Paulo,,
+2023-05-16T03:00:19.704Z,26,,"Tosse, Febre, Outros",,São Paulo,São Paulo,Cancelado,
+2023-04-05T03:00:00.000Z,72,1,"Dor de Cabeça, Tosse, Dor de Garganta",1,Rio de Janeiro,Rio de Janeiro,Cura,Confirmado Laboratorial
+2023-05-09T03:00:00.000Z,20,2,"Coriza, Dor de Cabeça, Outros",,São Paulo,São Paulo,,
+2023-03-04T03:00:41.678Z,19,2,"Tosse, Coriza",1,São Paulo,São Paulo,Ignorado,Síndrome Gripal Não Especificada
+2023-05-17T03:00:45.649Z,50,,"Tosse, Dor de Cabeça",1,São Paulo,São Paulo,Ignorado,Confirmado Laboratorial
+2023-05-17T03:00:45.649Z,50,2,"Tosse, Dor de Cabeça",1,São Paulo,São Paulo,Ignorado,Confirmado Laboratorial
+2022-03-29T03:00:57.360Z,20,2,Assintomático,2,Pernambuco,Pernambuco,Cura,Descartado
+2023-05-14T03:00:00.000Z,53,1,"Coriza, Dor de Cabeça, Tosse, Dispneia",1,São Paulo,São Paulo,Cura,Confirmado Laboratorial
+2022-12-16T03:00:08.229Z,1,2,"Tosse, Dispneia",,Bahia,Pernambuco,Cura,Descartado
+2023-05-13T03:00:00.000Z,50,2,Assintomático,1,São Paulo,São Paulo,,
+2022-11-21T03:00:00.000Z,30,2,"Tosse, Febre, Coriza",,Bahia,Bahia,Cura,Descartado
+2023-05-17T03:00:19.306Z,36,2,"Coriza, Dor de Cabeça, Tosse, Febre, Outros",,Rio Grande do Sul,Rio Grande do Sul,,
+2023-04-14T03:00:00.000Z,34,2,"Coriza, Dor de Cabeça, Tosse, Febre, Dor de Garganta, Outros",1,Sergipe,Sergipe,,
+2022-06-28T03:00:00.000Z,40,1,Assintomático,1,Bahia,Bahia,Cura,Confirmado Laboratorial
+2022-07-03T04:00:00.000Z,41,1,"Tosse, Coriza",1,Mato Grosso,Mato Grosso,Cura,Confirmado Laboratorial
+2023-02-28T03:00:00.000Z,33,1,"Coriza, Dor de Garganta, Outros",1,Santa Catarina,Santa Catarina,Cura,Confirmado Laboratorial
+2020-07-10T15:59:40.170Z,22,2,"Febre, Dor de Garganta, Outros",,São Paulo,São Paulo,Cura,Descartado
+2023-04-13T04:00:00.000Z,31,2,Assintomático,1,Amazonas,Amazonas,,
+2023-05-17T03:00:54.728Z,66,2,Assintomático,1,Rio de Janeiro,Rio de Janeiro,,
+2023-05-17T03:00:59.361Z,39,2,"Coriza, Tosse, Febre",2,São Paulo,São Paulo,,
+2023-05-05T03:00:00.000Z,70,2,Assintomático,1,Rio Grande do Sul,Rio Grande do Sul,,Síndrome Gripal Não Especificada
+2023-05-13T03:00:00.000Z,57,2,"Tosse, Coriza",1,São Paulo,São Paulo,Cura,Descartado
+2023-05-13T03:00:42.959Z,6,2,Tosse,2,São Paulo,São Paulo,Cura,Descartado
+2022-03-29T03:00:42.901Z,71,2,Assintomático,1,Pernambuco,Pernambuco,Cura,Descartado
+2023-05-17T03:00:30.723Z,65,2,Assintomático,1,Minas Gerais,Minas Gerais,,
+2022-01-28T03:00:00.000Z,30,1,"Coriza, Tosse, Dor de Garganta, Dor de Cabeça",1,Pará,Pará,Cura,Confirmado Laboratorial
+2023-05-03T03:00:04.890Z,78,2,"Coriza, Tosse, Febre, Outros",,São Paulo,São Paulo,Cura,Descartado
+2023-05-03T03:00:04.890Z,78,,"Coriza, Tosse, Febre, Outros",,São Paulo,São Paulo,Cura,Descartado
+2023-05-17T03:00:54.357Z,32,2,"Coriza, Distúrbios Olfativos, Distúrbios Gustativos, Tosse",1,Maranhão,Rio de Janeiro,,
+2023-05-16T03:00:21.753Z,42,,"Tosse, Dor de Garganta",,São Paulo,São Paulo,Cancelado,
+2023-05-16T04:00:00.000Z,47,2,"Dor de Cabeça, Tosse, Febre, Dispneia",,Mato Grosso do Sul,Mato Grosso do Sul,,
+2023-05-14T03:00:00.000Z,47,1,"Dor de Cabeça, Tosse, Febre, Coriza",1,Rio Grande do Sul,Rio Grande do Sul,,
+2023-05-17T03:00:43.689Z,58,2,"Coriza, Tosse, Febre, Dor de Garganta",,Ceará,Ceará,,
+2023-05-17T03:00:43.689Z,58,,"Coriza, Tosse, Febre, Dor de Garganta",,Ceará,Ceará,,
+2023-05-17T03:00:07.478Z,48,2,"Coriza, Tosse, Dor de Cabeça",1,São Paulo,São Paulo,,
+2023-05-08T03:00:46.724Z,54,2,"Coriza, Dor de Cabeça, Dor de Garganta",1,Rio de Janeiro,Rio de Janeiro,Cura,Síndrome Gripal Não Especificada
+2023-05-15T03:00:00.000Z,44,2,"Tosse, Febre, Dor de Cabeça",1,São Paulo,São Paulo,,
+2022-05-27T03:00:47.808Z,35,2,Assintomático,1,São Paulo,São Paulo,Cura,Descartado
+2023-05-15T03:00:00.000Z,30,2,"Coriza, Tosse, Febre",1,São Paulo,São Paulo,Cura,Confirmado Laboratorial
+2022-11-27T03:00:00.000Z,45,1,"Tosse, Febre, Dor de Garganta, Dor de Cabeça",,Bahia,Bahia,,
+2023-05-17T03:00:32.884Z,64,2,"Coriza, Tosse, Dor de Garganta",1,Rio de Janeiro,Rio de Janeiro,,
+2023-05-03T03:00:00.000Z,64,2,"Dor de Cabeça, Dor de Garganta",1,São Paulo,São Paulo,Cura,Descartado
+2022-07-11T03:00:54.755Z,35,1,"Tosse, Febre, Coriza",1,Piauí,Piauí,Cura,Confirmado Laboratorial
+2023-05-17T03:00:17.352Z,6,2,"Coriza, Dor de Cabeça, Tosse, Febre",1,Rio de Janeiro,Rio de Janeiro,,
+2022-06-13T03:00:18.821Z,28,2,"Dor de Cabeça, Tosse, Outros",1,São Paulo,São Paulo,Cura,Síndrome Gripal Não Especificada
+2023-05-10T03:00:00.000Z,14,2,"Coriza, Tosse, Dor de Cabeça",1,Sergipe,Sergipe,Cura,Descartado
+2023-05-17T03:00:55.719Z,65,2,"Coriza, Distúrbios Gustativos, Tosse, Distúrbios Olfativos",,Rio de Janeiro,Rio de Janeiro,,
+2020-11-19T03:59:35.810Z,20,2,Assintomático,,São Paulo,Paraná,Cura,Descartado
+2023-05-17T03:00:20.178Z,45,2,"Tosse, Febre",1,Rio de Janeiro,Rio de Janeiro,,
+2023-05-17T03:00:21.564Z,3,2,"Coriza, Tosse, Febre",2,Santa Catarina,Santa Catarina,,
+2023-05-17T04:00:36.422Z,25,2,"Dor de Cabeça, Tosse, Febre, Dor de Garganta",1,Mato Grosso,Mato Grosso,,
+2023-05-17T03:00:41.583Z,45,2,"Febre, Coriza",1,Rio Grande do Sul,Rio Grande do Sul,,
+2023-05-17T03:00:00.000Z,19,2,Tosse,1,Rio Grande do Sul,Rio Grande do Sul,,
+2023-05-09T03:00:30.348Z,9,2,"Dor de Cabeça, Tosse, Febre",1,Minas Gerais,Minas Gerais,Cura,Síndrome Gripal Não Especificada
+2023-05-17T03:00:17.627Z,57,2,"Tosse, Dor de Garganta, Dor de Cabeça",1,São Paulo,São Paulo,,
+2023-04-27T03:00:00.000Z,31,2,Dispneia,1,Tocantins,Tocantins,Em tratamento domiciliar,Descartado
+2023-05-17T03:00:00.790Z,33,2,Assintomático,1,Rio de Janeiro,Rio de Janeiro,,
+2023-02-25T03:00:00.000Z,26,2,"Coriza, Dor de Cabeça, Tosse, Febre, Dor de Garganta",1,Minas Gerais,Minas Gerais,,
+2023-05-15T03:00:00.000Z,32,2,"Dor de Cabeça, Tosse, Coriza",1,São Paulo,São Paulo,,
+2023-05-16T03:00:50.161Z,37,2,"Dor de Cabeça, Tosse, Febre, Outros",1,Rio Grande do Sul,Rio Grande do Sul,Cura,
+2023-05-17T03:00:20.371Z,51,2,"Tosse, Dispneia, Dor de Cabeça",1,Rio Grande do Sul,Rio Grande do Sul,,
+2021-08-10T03:00:57.088Z,4,2,Coriza,,Rio de Janeiro,Rio de Janeiro,Ignorado,Síndrome Gripal Não Especificada
+2023-05-17T03:00:49.785Z,55,2,Assintomático,,Ceará,Ceará,,
+2023-05-17T03:00:00.665Z,10,2,"Tosse, Febre, Dor de Garganta",1,Rio de Janeiro,Rio de Janeiro,,
+2023-05-08T03:00:01.970Z,41,2,Assintomático,,Pernambuco,Pernambuco,Cura,Descartado
+2023-05-17T03:00:22.760Z,37,2,"Dor de Cabeça, Tosse, Febre, Outros",,São Paulo,São Paulo,,
+2023-03-24T03:00:00.000Z,51,2,"Dor de Cabeça, Dor de Garganta, Tosse",1,Minas Gerais,Minas Gerais,Cura,Descartado
+2023-05-13T03:00:44.153Z,24,2,"Tosse, Dor de Garganta, Dor de Cabeça",1,São Paulo,São Paulo,Cura,Descartado
+2023-05-13T03:00:43.928Z,21,2,Outros,1,São Paulo,São Paulo,Cura,Descartado
+2023-05-17T03:00:21.106Z,17,2,"Dor de Cabeça, Tosse, Dispneia, Febre",1,São Paulo,São Paulo,,
+2022-07-03T04:00:00.000Z,38,1,"Tosse, Febre, Coriza",1,Mato Grosso,Mato Grosso,Cura,Confirmado Laboratorial
+2022-01-20T03:00:00.000Z,57,2,"Coriza, Dor de Cabeça, Tosse",1,Amapá,Amapá,Cura,Confirmado Laboratorial
+2022-01-20T03:00:00.000Z,57,1,"Coriza, Dor de Cabeça, Tosse",1,Amapá,Amapá,Cura,Confirmado Laboratorial
+2023-01-27T03:00:00.000Z,24,1,"Tosse, Outros",1,Santa Catarina,Santa Catarina,Cura,Confirmado Laboratorial
+2023-05-02T03:00:00.000Z,54,2,"Coriza, Distúrbios Olfativos, Distúrbios Gustativos, Dor de Cabeça, Febre, Dor de Garganta",1,São Paulo,São Paulo,Cura,Descartado
+2021-06-16T03:00:00.000Z,49,2,"Tosse, Outros",1,São Paulo,São Paulo,Cura,Descartado
+2022-12-20T03:00:00.000Z,76,2,"Coriza, Tosse",1,Rio de Janeiro,Rio de Janeiro,,
+2023-05-17T03:00:21.897Z,52,2,"Coriza, Tosse, Dor de Garganta",1,Rio Grande do Sul,Rio Grande do Sul,,
+2020-08-31T03:00:00.000Z,29,2,Assintomático,,São Paulo,São Paulo,Cura,Descartado
+2023-05-07T03:00:00.000Z,78,2,Assintomático,1,Rio de Janeiro,Rio de Janeiro,Ignorado,Descartado
+2022-01-11T04:00:00.000Z,11,2,"Dor de Cabeça, Coriza",2,Mato Grosso do Sul,Mato Grosso do Sul,Cura,Síndrome Gripal Não Especificada
+2021-03-23T03:00:13.827Z,58,2,"Tosse, Coriza, Dor de Cabeça",,Minas Gerais,Minas Gerais,Cura,Síndrome Gripal Não Especificada
+2021-03-23T03:00:13.827Z,58,2,"Tosse, Coriza, Dor de Cabeça",,Minas Gerais,Minas Gerais,Cura,Síndrome Gripal Não Especificada
+2023-05-17T03:00:47.515Z,29,2,Febre,2,Rio de Janeiro,Rio de Janeiro,,
+2023-05-17T03:00:30.139Z,32,2,"Coriza, Distúrbios Olfativos, Distúrbios Gustativos, Tosse, Febre, Dor de Garganta, Outros, Dor de Cabeça",,Santa Catarina,Santa Catarina,,
+2023-05-17T03:00:43.770Z,51,2,"Febre, Dor de Garganta, Dor de Cabeça",,Rio de Janeiro,Rio de Janeiro,Ignorado,Síndrome Gripal Não Especificada
+2021-06-04T03:00:07.389Z,43,,"Outros, Coriza",,São Paulo,São Paulo,Cura,Descartado
+2023-05-17T03:00:16.204Z,58,2,Assintomático,1,Rio de Janeiro,Rio de Janeiro,,
+2022-12-18T03:00:00.000Z,85,2,Assintomático,1,Bahia,Pernambuco,Cura,Descartado
+2022-01-11T04:00:00.000Z,39,2,"Dor de Cabeça, Febre, Dor de Garganta, Tosse",1,Mato Grosso do Sul,Mato Grosso do Sul,Cura,Síndrome Gripal Não Especificada
+2023-05-16T03:00:00.000Z,36,2,"Coriza, Tosse, Dor de Garganta",1,São Paulo,São Paulo,Cura,Confirmado Laboratorial
+2023-05-17T03:00:20.742Z,6,2,"Dor de Cabeça, Outros, Tosse",,Minas Gerais,Minas Gerais,,
+2023-05-09T03:00:12.558Z,39,2,"Coriza, Dor de Cabeça",1,Minas Gerais,Minas Gerais,Cura,Síndrome Gripal Não Especificada
+2023-05-17T03:00:25.909Z,14,2,"Coriza, Tosse, Febre",1,Rio de Janeiro,Rio de Janeiro,,
+2022-12-13T03:00:00.000Z,18,2,"Coriza, Dor de Cabeça, Febre, Dor de Garganta, Tosse",1,Rio de Janeiro,Rio de Janeiro,,
+2021-12-26T03:00:29.966Z,54,2,Assintomático,1,Rio Grande do Sul,Rio Grande do Sul,Cura,
+2023-05-16T03:00:00.000Z,42,2,"Coriza, Tosse, Febre, Dor de Cabeça",1,Rio de Janeiro,Rio de Janeiro,Em tratamento domiciliar,Síndrome Gripal Não Especificada
+2022-01-20T03:00:00.000Z,29,2,Assintomático,1,Rio de Janeiro,Rio de Janeiro,,
+2022-12-05T03:00:00.000Z,6,2,"Dor de Cabeça, Febre, Tosse",,Pará,Pará,Cura,Descartado
+2023-05-16T03:00:35.261Z,46,2,"Tosse, Coriza",1,Rio Grande do Sul,Rio Grande do Sul,,Síndrome Gripal Não Especificada
+2022-12-12T03:00:00.000Z,38,2,Assintomático,1,Rio Grande do Sul,Rio Grande do Sul,Ignorado,Descartado
+2023-05-17T03:00:20.196Z,73,2,Tosse,1,São Paulo,São Paulo,,
+2021-12-07T03:00:00.000Z,20,2,Assintomático,1,Roraima,Pernambuco,Cura,Descartado
+2023-05-17T03:00:04.228Z,62,2,Outros,1,Rio Grande do Sul,Rio Grande do Sul,,
+2023-05-17T03:00:44.088Z,8,2,Febre,,São Paulo,São Paulo,Cura,Descartado
+2023-05-16T03:00:00.000Z,28,1,"Coriza, Dor de Cabeça, Tosse, Dor de Garganta",1,Bahia,Bahia,,
+2022-11-24T03:00:00.000Z,7,2,"Coriza, Febre, Dor de Garganta",,Rio Grande do Sul,Rio Grande do Sul,,
+2023-05-17T03:00:08.756Z,56,2,"Coriza, Dor de Cabeça, Tosse",,Rio Grande do Sul,Rio Grande do Sul,,
+2023-05-09T03:00:00.000Z,64,2,"Dor de Cabeça, Tosse, Dor de Garganta",2,São Paulo,São Paulo,,
+2022-03-11T03:00:00.000Z,24,2,Assintomático,1,Pernambuco,Pernambuco,Cura,Descartado
+2023-05-05T03:00:00.000Z,55,2,"Tosse, Febre, Dispneia",1,Rio de Janeiro,Rio de Janeiro,Cura,Síndrome Gripal Não Especificada
+2022-05-13T03:00:00.000Z,75,2,Assintomático,1,Rio Grande do Sul,Rio Grande do Sul,Cura,
+2023-04-26T03:00:48.110Z,0,2,"Dor de Garganta, Outros",,Bahia,Bahia,Cura,Descartado
+2023-05-17T03:00:20.448Z,3,2,Assintomático,2,Rio de Janeiro,Rio de Janeiro,,
+2022-11-25T03:00:00.000Z,7,2,"Tosse, Dor de Garganta",1,Rio de Janeiro,Rio de Janeiro,Ignorado,Síndrome Gripal Não Especificada
+2023-05-17T03:00:54.719Z,54,,"Coriza, Tosse",1,São Paulo,São Paulo,,
+2022-12-13T03:00:00.000Z,27,2,"Coriza, Dor de Cabeça, Febre, Dor de Garganta, Tosse",1,Rio de Janeiro,Rio de Janeiro,,
+2023-05-17T03:00:32.478Z,11,2,Assintomático,,São Paulo,São Paulo,,
+2023-03-13T03:00:00.000Z,9,2,Assintomático,1,Amapá,Amapá,,
+2023-05-17T03:00:13.313Z,25,2,"Tosse, Outros",1,São Paulo,São Paulo,,
+2023-04-28T03:00:00.000Z,53,2,Assintomático,1,Pernambuco,Pernambuco,Cura,Descartado
+2023-05-06T03:00:00.000Z,30,2,"Coriza, Tosse",1,São Paulo,São Paulo,Cura,Descartado
+2022-07-08T03:00:00.000Z,16,1,Assintomático,,Amapá,Amapá,Cura,Confirmado Laboratorial
+2022-07-21T03:00:55.808Z,72,2,"Tosse, Coriza",1,Amapá,São Paulo,Ignorado,Síndrome Gripal Não Especificada
+2023-05-17T03:00:14.620Z,66,2,"Coriza, Tosse, Febre, Dor de Garganta, Dor de Cabeça",1,São Paulo,São Paulo,,
+2023-05-17T03:00:58.887Z,46,1,"Coriza, Dor de Cabeça, Outros, Tosse",,Minas Gerais,Minas Gerais,,
+2023-05-03T03:00:24.373Z,48,2,Assintomático,,Pernambuco,Pernambuco,Cura,Descartado
+2023-05-16T03:00:09.842Z,12,2,"Dor de Cabeça, Febre, Outros",1,Rio Grande do Sul,Rio Grande do Sul,,Síndrome Gripal Não Especificada
+2022-02-04T03:00:00.000Z,28,2,Assintomático,1,Pernambuco,Pernambuco,Cura,Descartado
+2023-05-05T03:00:00.000Z,6,2,"Tosse, Febre, Outros",2,Rio Grande do Sul,Rio Grande do Sul,,
+2023-05-16T03:00:00.000Z,39,2,"Coriza, Outros",1,São Paulo,São Paulo,Cura,Descartado
+2023-04-18T03:00:00.000Z,23,,"Dor de Cabeça, Distúrbios Olfativos",1,Paraíba,São Paulo,Ignorado,Descartado
+2023-05-06T04:00:00.000Z,21,2,"Dor de Cabeça, Dor de Garganta, Tosse",,Amazonas,Amazonas,Cura,Descartado
+2023-05-17T03:00:32.164Z,29,2,"Coriza, Tosse, Dor de Garganta",,São Paulo,São Paulo,,
+2023-05-17T03:00:10.900Z,6,2,"Coriza, Tosse, Febre",,Rio de Janeiro,Rio de Janeiro,,
+2023-02-20T03:00:00.000Z,32,2,Assintomático,2,Pará,Pará,Cura,Descartado
+2023-05-17T03:00:29.789Z,69,2,"Tosse, Febre, Dor de Cabeça",1,Rio de Janeiro,Rio de Janeiro,,
+2023-05-17T03:00:38.122Z,57,2,"Tosse, Dor de Cabeça",1,Pernambuco,Pernambuco,Cura,Descartado
+2023-05-17T03:00:58.238Z,63,2,Assintomático,1,Rio de Janeiro,Rio de Janeiro,,
+2022-01-11T04:00:00.000Z,22,2,"Tosse, Febre, Dor de Garganta, Dor de Cabeça",1,Mato Grosso do Sul,Mato Grosso do Sul,Cura,Síndrome Gripal Não Especificada
+2023-03-06T03:00:00.000Z,22,2,"Coriza, Dor de Cabeça, Febre, Tosse",,Pará,Pará,,
+2023-05-17T03:00:21.385Z,36,2,"Outros, Dor de Cabeça",1,Rio Grande do Sul,Rio Grande do Sul,,
+2023-05-17T03:00:39.435Z,62,,Assintomático,2,Acre,Acre,,
+2023-05-17T03:00:41.868Z,27,2,"Coriza, Tosse, Febre, Dispneia, Dor de Garganta",1,Paraíba,Paraíba,,
+2023-05-17T03:00:35.680Z,40,2,Coriza,1,São Paulo,São Paulo,,
+2022-12-12T03:00:00.000Z,32,2,Assintomático,1,Rio Grande do Sul,Rio Grande do Sul,Ignorado,Descartado
+2023-05-16T03:00:52.282Z,28,2,"Tosse, Febre, Coriza",1,Rio Grande do Sul,Rio Grande do Sul,,Síndrome Gripal Não Especificada
+2022-03-29T03:00:00.000Z,63,2,"Febre, Dor de Garganta",1,Pernambuco,Pernambuco,Cura,Descartado
+2023-03-14T03:00:08.000Z,18,2,"Dor de Cabeça, Febre, Dispneia",1,São Paulo,São Paulo,Cura,Síndrome Gripal Não Especificada
+2023-04-20T03:00:00.000Z,43,1,"Tosse, Febre, Dor de Garganta",1,Rio de Janeiro,Rio de Janeiro,Cura,Confirmado Laboratorial
+2023-05-11T03:00:00.000Z,24,2,"Coriza, Tosse, Febre",1,São Paulo,São Paulo,Cura,Descartado
+2023-05-16T03:00:45.087Z,14,2,"Tosse, Febre, Dor de Garganta",2,Rio Grande do Sul,Rio Grande do Sul,,Síndrome Gripal Não Especificada
+2022-11-24T03:00:00.000Z,29,2,"Coriza, Dispneia, Outros",,Rio Grande do Sul,Rio Grande do Sul,,
+2023-05-17T03:00:43.282Z,21,2,"Coriza, Dor de Cabeça, Tosse, Febre, Outros",1,Sergipe,Sergipe,,
+2023-05-17T03:00:37.491Z,5,2,"Dor de Cabeça, Tosse, Dor de Garganta, Febre",2,Santa Catarina,Santa Catarina,,
+2023-05-15T03:00:00.000Z,48,2,"Dor de Cabeça, Febre, Dor de Garganta, Tosse",1,Goiás,Goiás,Em tratamento domiciliar,Síndrome Gripal Não Especificada
+2023-05-17T03:00:00.000Z,8,,"Tosse, Febre",2,Distrito Federal,Distrito Federal,Ignorado,Síndrome Gripal Não Especificada
+2023-05-17T03:00:02.345Z,25,2,"Coriza, Dor de Cabeça, Febre, Dor de Garganta",1,Rio Grande do Sul,Rio Grande do Sul,,
+2023-05-17T03:00:39.911Z,42,1,"Coriza, Febre, Dor de Garganta, Outros",1,São Paulo,São Paulo,,
+2023-05-17T03:00:21.900Z,11,2,"Coriza, Tosse, Distúrbios Olfativos",1,Rio de Janeiro,Rio de Janeiro,,
+2022-01-11T04:00:00.000Z,33,2,Assintomático,1,Mato Grosso do Sul,Mato Grosso do Sul,Cura,Síndrome Gripal Não Especificada
+2022-04-14T03:00:00.000Z,39,2,Assintomático,1,Pará,Pará,Cura,Descartado
+2023-05-03T03:00:00.000Z,12,2,"Tosse, Febre, Outros, Coriza",1,Rio de Janeiro,Rio de Janeiro,Ignorado,Descartado
+2021-06-24T03:00:04.603Z,21,1,"Febre, Dispneia, Tosse, Coriza",,Goiás,Goiás,Cura,Confirmado Laboratorial
+2023-05-16T03:00:16.372Z,38,2,"Coriza, Distúrbios Olfativos, Tosse, Dor de Garganta, Distúrbios Gustativos",1,Rio Grande do Sul,Rio Grande do Sul,,Síndrome Gripal Não Especificada
+2023-05-17T03:00:29.505Z,68,2,Assintomático,2,Rio Grande do Sul,Rio Grande do Sul,,
+2023-03-25T03:00:57.588Z,7,1,"Coriza, Dispneia, Tosse",,São Paulo,São Paulo,Cura,Descartado
+2023-05-17T03:00:26.123Z,8,2,"Coriza, Dor de Cabeça, Tosse",1,Rio de Janeiro,Rio de Janeiro,,
+2023-04-28T03:00:00.000Z,41,2,Assintomático,1,Pernambuco,Pernambuco,Cura,Descartado
+2022-06-13T03:00:22.990Z,45,2,"Dor de Cabeça, Tosse, Outros",1,São Paulo,São Paulo,Cura,Síndrome Gripal Não Especificada
+2023-05-17T03:00:59.280Z,7,2,"Tosse, Febre, Dor de Cabeça",1,São Paulo,São Paulo,Cura,Síndrome Gripal Não Especificada
+2022-08-17T03:00:00.000Z,14,2,"Tosse, Dor de Garganta, Coriza",,São Paulo,São Paulo,Cura,Descartado
+2023-05-07T03:00:00.000Z,74,2,Assintomático,1,Rio Grande do Sul,Rio Grande do Sul,,Síndrome Gripal Não Especificada
+2023-03-10T03:00:00.000Z,57,2,Assintomático,1,Rio de Janeiro,Rio de Janeiro,Cura,Descartado
+2023-05-17T03:00:23.881Z,34,2,"Dispneia, Outros",1,Rio Grande do Sul,Rio Grande do Sul,,
+2023-05-17T03:00:23.794Z,25,2,Assintomático,1,Rio de Janeiro,Rio de Janeiro,,
+2023-05-03T03:00:00.000Z,33,2,"Dor de Cabeça, Tosse, Dor de Garganta, Outros",1,Rio de Janeiro,Rio de Janeiro,Ignorado,Descartado
+2023-05-17T03:00:38.752Z,21,2,"Coriza, Febre, Dor de Cabeça",,Rio Grande do Sul,Rio Grande do Sul,,
+2022-12-02T03:00:00.000Z,23,2,Assintomático,,Minas Gerais,Minas Gerais,,Descartado
+2023-04-28T03:00:00.000Z,40,2,Assintomático,1,Pernambuco,Pernambuco,Cura,Descartado
+2022-01-21T03:00:00.000Z,30,1,"Coriza, Tosse, Febre, Dor de Garganta, Dor de Cabeça",1,Pernambuco,Pernambuco,Cura,Confirmado Laboratorial
+2023-05-17T03:00:14.150Z,13,2,"Febre, Outros",1,Rio de Janeiro,Rio de Janeiro,,
+2023-05-09T03:00:00.000Z,55,2,Assintomático,,Pernambuco,Pernambuco,Cura,Descartado
+2023-05-17T03:00:05.777Z,78,1,"Coriza, Tosse",1,Minas Gerais,Minas Gerais,,
+2023-05-17T03:00:45.232Z,31,2,"Distúrbios Olfativos, Dor de Cabeça, Tosse",,Santa Catarina,Santa Catarina,,
+2022-02-04T03:00:00.000Z,25,2,"Coriza, Febre, Dor de Cabeça",1,Pará,Pará,Cura,Síndrome Gripal Não Especificada
+2022-11-21T03:00:00.000Z,5,2,"Febre, Coriza",2,Minas Gerais,Minas Gerais,Cura,Síndrome Gripal Não Especificada
+2022-06-13T03:00:23.049Z,31,2,"Coriza, Tosse, Febre, Dor de Garganta",1,São Paulo,São Paulo,Cura,Síndrome Gripal Não Especificada
+2023-04-10T03:00:00.000Z,38,2,Assintomático,1,São Paulo,São Paulo,Cura,Descartado
+2023-05-16T03:00:00.000Z,34,2,Assintomático,1,Paraíba,Paraíba,,
+2023-03-14T03:00:07.995Z,22,2,Assintomático,1,São Paulo,São Paulo,Cura,Síndrome Gripal Não Especificada
+2023-05-17T03:00:04.164Z,57,2,Coriza,1,São Paulo,São Paulo,,
+2022-05-10T03:00:41.289Z,42,1,"Dor de Cabeça, Outros",1,São Paulo,São Paulo,Cura,Confirmado Laboratorial
+2023-05-04T03:00:34.466Z,14,2,"Dor de Cabeça, Febre",1,Minas Gerais,Minas Gerais,Cura,Síndrome Gripal Não Especificada
+2023-04-28T03:00:00.000Z,28,2,Assintomático,1,Pernambuco,Pernambuco,Cura,Descartado
+2023-05-11T03:00:00.000Z,6,2,"Tosse, Dor de Garganta, Coriza",1,São Paulo,São Paulo,Cura,Descartado
+2023-05-11T03:00:00.000Z,59,1,"Dor de Cabeça, Tosse",1,Santa Catarina,Santa Catarina,,
+2023-05-17T03:00:23.310Z,9,2,Outros,1,Rio Grande do Sul,Rio Grande do Sul,Ignorado,
+2023-05-17T03:00:49.409Z,34,2,Coriza,1,São Paulo,São Paulo,,
+2023-05-17T03:00:40.774Z,57,2,"Coriza, Dor de Garganta",1,São Paulo,São Paulo,,
+2023-05-16T03:00:00.000Z,41,2,"Coriza, Dor de Cabeça, Tosse, Febre",1,Rio de Janeiro,Rio de Janeiro,Em tratamento domiciliar,Síndrome Gripal Não Especificada
+2023-05-17T03:00:46.421Z,55,2,"Dor de Cabeça, Febre, Distúrbios Gustativos",1,Rio de Janeiro,Rio de Janeiro,,
+2020-12-21T03:00:00.000Z,26,2,Dor de Cabeça,,São Paulo,São Paulo,Cura,Descartado
+2023-05-17T03:00:21.636Z,51,2,"Dor de Cabeça, Tosse, Dor de Garganta, Outros",1,São Paulo,São Paulo,,
+2023-05-17T03:00:49.191Z,17,2,Outros,1,Rio Grande do Sul,Rio Grande do Sul,Ignorado,
+2023-05-02T03:00:00.000Z,44,1,"Dor de Cabeça, Tosse, Dor de Garganta, Outros",2,Santa Catarina,Santa Catarina,Cura,Confirmado Laboratorial
+2023-05-17T03:00:17.708Z,61,,"Coriza, Dor de Cabeça, Tosse, Dor de Garganta",,São Paulo,São Paulo,,
+2023-05-17T03:00:20.059Z,36,2,"Dor de Cabeça, Dor de Garganta, Outros",1,Rio Grande do Sul,Rio Grande do Sul,,
+2023-05-17T04:00:12.654Z,63,1,"Coriza, Dor de Cabeça, Tosse, Dor de Garganta",1,Mato Grosso do Sul,Mato Grosso do Sul,,
+2023-05-15T03:00:00.000Z,49,,"Tosse, Dispneia",1,São Paulo,São Paulo,,
+2022-11-11T03:00:00.000Z,31,2,Assintomático,1,Minas Gerais,Minas Gerais,Cura,Confirmado Laboratorial
+2023-05-17T03:00:56.848Z,66,1,"Coriza, Dor de Cabeça, Dor de Garganta",1,Mato Grosso do Sul,Mato Grosso do Sul,,
+2022-07-22T03:00:00.000Z,40,2,"Febre, Dor de Garganta, Tosse",1,Santa Catarina,Santa Catarina,Cura,Síndrome Gripal Não Especificada
+2021-07-27T23:00:00.000Z,33,1,"Dor de Garganta, Tosse, Distúrbios Olfativos",,Alagoas,Alagoas,Ignorado,
+2023-03-25T03:00:58.239Z,87,,Assintomático,1,São Paulo,São Paulo,Cura,Descartado
+2023-05-17T03:00:21.768Z,53,2,"Coriza, Dor de Cabeça, Tosse",1,Rio de Janeiro,Rio de Janeiro,,
+2023-04-19T03:00:33.911Z,52,1,"Coriza, Febre",1,Pernambuco,Pernambuco,Cura,Confirmado Laboratorial
+2023-04-19T03:00:33.911Z,52,1,"Coriza, Febre",1,Pernambuco,Pernambuco,Cura,Confirmado Laboratorial
+2023-05-17T03:00:29.493Z,50,2,"Febre, Dispneia",,São Paulo,São Paulo,Cura,Descartado
+2023-03-30T03:00:00.000Z,40,2,Assintomático,1,São Paulo,São Paulo,Cura,Descartado
+2023-05-17T03:00:52.220Z,9,,"Dor de Cabeça, Febre, Outros",2,Bahia,Bahia,,
+2021-03-05T03:00:00.000Z,42,2,Outros,,Piauí,Piauí,Cura,Confirmado Laboratorial
+2023-05-04T03:00:00.000Z,42,1,Coriza,1,São Paulo,São Paulo,Cura,Confirmado Laboratorial
+2023-05-17T03:00:03.294Z,5,,"Tosse, Febre, Dispneia",2,Paraíba,Paraíba,,
+2023-04-13T03:00:04.928Z,67,2,"Coriza, Tosse, Dor de Garganta",1,Minas Gerais,Minas Gerais,Cura,Síndrome Gripal Não Especificada
+2022-02-15T03:00:00.000Z,69,2,Assintomático,1,Pernambuco,Pernambuco,Cura,Descartado
+2023-03-03T03:00:00.000Z,40,2,"Coriza, Distúrbios Olfativos, Dor de Cabeça",,Pernambuco,Pernambuco,,
+2022-01-19T03:00:00.000Z,57,2,"Coriza, Dor de Cabeça, Tosse",1,São Paulo,São Paulo,Cura,Descartado
+2022-07-06T03:00:42.127Z,62,1,Tosse,1,Bahia,Bahia,Cura,Descartado
+2022-07-06T03:00:42.127Z,62,2,Tosse,1,Bahia,Bahia,Cura,Descartado
+2022-12-03T03:00:53.577Z,70,2,"Coriza, Tosse",1,São Paulo,São Paulo,Cura,Síndrome Gripal Não Especificada
+2023-05-17T03:00:40.113Z,99,2,Assintomático,1,Minas Gerais,Minas Gerais,,
+2022-11-25T03:00:00.000Z,36,1,"Dor de Garganta, Coriza",1,Rio de Janeiro,Rio de Janeiro,Cura,Confirmado Laboratorial
+2022-01-21T03:00:00.000Z,22,2,"Tosse, Dispneia, Dor de Garganta",1,Minas Gerais,Minas Gerais,Cura,Síndrome Gripal Não Especificada
+2023-05-17T03:00:32.662Z,50,2,Outros,,Minas Gerais,Minas Gerais,,
+2023-04-26T03:00:00.000Z,47,2,"Coriza, Dor de Cabeça, Tosse, Dispneia, Febre",1,Amapá,Amapá,Ignorado,Síndrome Gripal Não Especificada
+2023-05-17T03:00:04.826Z,38,2,"Coriza, Dor de Cabeça, Tosse, Febre, Dor de Garganta, Outros",1,Rio de Janeiro,Rio de Janeiro,,
+2022-02-09T03:00:00.000Z,47,2,Assintomático,2,Pernambuco,Pernambuco,Cura,Descartado
+2023-05-17T03:00:43.210Z,66,2,Assintomático,1,Goiás,Goiás,,
+2023-05-17T03:00:38.538Z,40,2,"Coriza, Tosse, Dor de Garganta, Dor de Cabeça",1,Piauí,Piauí,,
+2023-05-04T03:00:41.549Z,33,2,"Coriza, Dor de Cabeça",1,Minas Gerais,Minas Gerais,Cura,Síndrome Gripal Não Especificada
+2023-05-17T03:00:22.437Z,61,1,"Tosse, Febre, Dor de Garganta, Outros, Coriza",1,Rio Grande do Norte,Rio Grande do Norte,,
+2023-05-17T03:00:22.437Z,61,1,"Tosse, Febre, Dor de Garganta, Outros, Coriza",1,Rio Grande do Norte,Rio Grande do Norte,,
+2022-11-23T03:00:00.000Z,16,2,"Dor de Cabeça, Outros",,Minas Gerais,Minas Gerais,Cura,Síndrome Gripal Não Especificada
+2023-04-28T03:00:00.000Z,75,2,"Dor de Cabeça, Tosse, Outros",,São Paulo,São Paulo,Cura,Síndrome Gripal Não Especificada
+2022-12-19T03:00:00.000Z,44,2,"Coriza, Dor de Cabeça, Tosse, Dor de Garganta, Febre",1,Bahia,Bahia,Cura,Descartado
+2023-05-17T03:00:27.361Z,70,1,"Tosse, Dor de Garganta, Coriza",1,Rio Grande do Sul,Rio Grande do Sul,Cura,Confirmado Laboratorial
+2023-05-17T03:00:10.201Z,35,2,Assintomático,1,Pernambuco,Pernambuco,,
+2023-05-17T03:00:56.178Z,26,2,"Coriza, Tosse",,São Paulo,Rio de Janeiro,,
+2023-05-17T03:00:50.407Z,48,1,"Coriza, Dor de Cabeça, Tosse, Febre, Dor de Garganta",,Pernambuco,Pernambuco,Em tratamento domiciliar,Confirmado Laboratorial
+2022-06-13T03:00:24.103Z,47,2,Dor de Garganta,1,São Paulo,São Paulo,Cura,Síndrome Gripal Não Especificada
+2023-05-17T03:00:05.333Z,28,2,"Dor de Cabeça, Febre, Outros",1,Santa Catarina,Santa Catarina,,
+2023-05-17T03:00:07.832Z,69,2,"Coriza, Dor de Cabeça, Tosse, Outros",,Rio Grande do Sul,Rio Grande do Sul,,
+2022-03-29T03:00:34.492Z,63,2,Assintomático,1,Pernambuco,Pernambuco,Cura,Descartado
+2023-05-17T03:00:36.733Z,3,,Tosse,1,São Paulo,São Paulo,,
+2023-05-17T03:00:57.058Z,30,2,Assintomático,1,Rio de Janeiro,Rio de Janeiro,Ignorado,Síndrome Gripal Não Especificada
+2023-05-17T03:00:09.931Z,40,2,"Dor de Cabeça, Tosse",1,São Paulo,São Paulo,Em tratamento domiciliar,Descartado
+2023-04-18T03:00:00.000Z,12,2,"Dor de Cabeça, Febre, Outros",1,Rio de Janeiro,Rio de Janeiro,Cura,Confirmado Laboratorial
+2023-05-17T03:00:27.845Z,18,2,"Febre, Dor de Cabeça",1,Rio de Janeiro,Rio de Janeiro,,
+2023-05-16T04:00:00.000Z,6,2,"Dor de Cabeça, Febre, Dispneia, Dor de Garganta, Outros, Tosse",,Mato Grosso,Mato Grosso,,
+2022-02-01T03:00:58.443Z,40,2,"Coriza, Tosse, Dor de Garganta, Outros",1,Amapá,Bahia,Ignorado,Síndrome Gripal Não Especificada
+2023-05-17T03:00:17.135Z,11,2,"Coriza, Tosse, Febre, Dor de Garganta, Dor de Cabeça",1,São Paulo,São Paulo,,
+2023-05-17T03:00:20.456Z,71,2,"Coriza, Dor de Cabeça, Distúrbios Olfativos",1,Rio Grande do Sul,Rio Grande do Sul,,
+2021-07-27T23:00:00.000Z,65,1,"Tosse, Coriza, Dor de Cabeça",,Alagoas,Alagoas,Ignorado,
+2023-05-17T03:00:37.726Z,63,2,Assintomático,1,São Paulo,São Paulo,,
+2022-01-27T03:00:46.973Z,29,1,"Coriza, Tosse, Dor de Garganta, Dor de Cabeça",1,Amapá,Amapá,Cura,Confirmado Laboratorial
+2023-04-24T03:00:00.000Z,61,1,"Coriza, Febre, Dor de Garganta, Tosse",1,Rio de Janeiro,Rio de Janeiro,Cura,Confirmado Laboratorial
+2023-04-25T03:00:02.572Z,10,2,"Tosse, Febre",2,Rio de Janeiro,Rio de Janeiro,Cura,Síndrome Gripal Não Especificada
+2023-04-18T03:00:00.000Z,67,2,"Tosse, Febre, Dor de Cabeça",1,Pernambuco,Pernambuco,,
+2023-02-13T03:00:00.000Z,35,2,"Dor de Cabeça, Tosse, Febre, Dor de Garganta, Coriza",,Amapá,Amapá,Ignorado,Descartado
+2023-05-17T03:00:04.944Z,42,2,"Dor de Cabeça, Febre, Outros, Tosse",1,Rio Grande do Sul,Rio Grande do Sul,,
+2023-04-19T03:00:15.343Z,38,1,"Coriza, Dor de Cabeça, Tosse, Febre, Dispneia, Dor de Garganta",1,Pernambuco,Pernambuco,Cura,Confirmado Laboratorial
+2023-04-19T03:00:15.343Z,38,1,"Coriza, Dor de Cabeça, Tosse, Febre, Dispneia, Dor de Garganta",1,Pernambuco,Pernambuco,Cura,Confirmado Laboratorial
+2023-05-10T03:00:00.000Z,38,2,Coriza,1,São Paulo,São Paulo,Cura,Descartado
+2023-03-20T03:00:35.463Z,23,2,"Dor de Cabeça, Tosse, Febre, Dor de Garganta, Coriza",1,São Paulo,São Paulo,Cura,Descartado
+2023-05-15T03:00:37.512Z,21,2,Outros,,Rio Grande do Sul,Rio Grande do Sul,Ignorado,Síndrome Gripal Não Especificada
+2022-03-11T03:00:00.000Z,19,2,Assintomático,1,Pernambuco,Pernambuco,Cura,Descartado
+2022-06-13T03:00:25.408Z,8,2,"Tosse, Coriza",1,São Paulo,São Paulo,Cura,Síndrome Gripal Não Especificada
+2023-05-17T05:00:14.494Z,30,2,"Distúrbios Gustativos, Febre, Dor de Garganta",1,Acre,Acre,,
+2023-05-17T03:00:32.500Z,4,,Assintomático,1,Bahia,Bahia,,
+2023-05-17T03:00:50.887Z,83,2,Assintomático,1,Rio de Janeiro,Rio de Janeiro,,
+2022-12-06T03:00:54.716Z,19,2,"Dor de Cabeça, Tosse, Febre, Outros",1,São Paulo,São Paulo,Cura,Síndrome Gripal Não Especificada
+2023-05-03T03:00:00.000Z,42,2,"Dor de Cabeça, Tosse, Outros",1,Rio de Janeiro,Rio de Janeiro,Ignorado,Descartado
+2023-04-04T03:00:00.000Z,48,2,"Coriza, Distúrbios Olfativos, Febre, Dor de Garganta, Dor de Cabeça",1,Rio de Janeiro,Rio de Janeiro,Ignorado,Síndrome Gripal Não Especificada
+2023-05-08T03:00:00.000Z,32,,Assintomático,1,São Paulo,São Paulo,,
+2023-05-17T03:00:47.625Z,25,1,"Coriza, Febre, Dor de Garganta, Outros",,Rio Grande do Sul,Rio Grande do Sul,,
+2023-05-17T03:00:12.073Z,19,2,"Coriza, Tosse",,Pará,Rio de Janeiro,,
+2023-02-23T03:00:33.269Z,48,2,"Coriza, Dor de Cabeça, Tosse, Febre",1,Santa Catarina,Santa Catarina,Cura,Síndrome Gripal Não Especificada
+2021-07-07T03:00:24.854Z,68,2,"Dor de Garganta, Febre, Tosse",,Minas Gerais,Minas Gerais,Cancelado,
+2023-05-17T03:00:05.382Z,75,1,"Tosse, Dor de Garganta, Coriza",1,São Paulo,São Paulo,,
+2023-05-17T03:00:08.564Z,74,2,"Coriza, Dispneia",1,São Paulo,São Paulo,,
+2022-03-29T03:00:24.302Z,26,2,Assintomático,1,Pernambuco,Pernambuco,Cura,Descartado
+2023-05-17T03:00:34.585Z,35,2,"Tosse, Dor de Cabeça",1,Rio de Janeiro,Rio de Janeiro,,
+2023-04-19T03:00:41.828Z,62,1,"Coriza, Tosse, Febre, Dor de Garganta",1,Pernambuco,Pernambuco,Cura,Confirmado Laboratorial
+2023-04-19T03:00:41.828Z,62,1,"Coriza, Tosse, Febre, Dor de Garganta",1,Pernambuco,Pernambuco,Cura,Confirmado Laboratorial
+2021-06-01T03:00:00.000Z,29,,"Tosse, Febre, Dor de Garganta",1,São Paulo,São Paulo,Cura,Confirmado Laboratorial
+2021-06-01T03:00:00.000Z,29,2,"Tosse, Febre, Dor de Garganta",1,São Paulo,São Paulo,Cura,Confirmado Laboratorial
+2023-05-17T03:00:23.751Z,46,2,"Febre, Dor de Cabeça",,Santa Catarina,Santa Catarina,,
+2023-03-22T03:00:00.000Z,66,1,"Coriza, Tosse",1,Minas Gerais,Minas Gerais,Cura,Confirmado Laboratorial
+2023-05-05T03:00:06.929Z,71,2,"Tosse, Dor de Cabeça",1,São Paulo,São Paulo,Cura,Descartado
+2023-05-17T04:00:05.067Z,31,2,Assintomático,2,Rondônia,Rondônia,,
+2023-05-17T03:00:04.223Z,49,2,"Coriza, Dor de Cabeça, Tosse, Febre, Dor de Garganta",1,Rio de Janeiro,Rio de Janeiro,Em tratamento domiciliar,Síndrome Gripal Não Especificada
+2023-05-02T03:00:42.543Z,51,2,Assintomático,1,Rio de Janeiro,Rio de Janeiro,Cura,Descartado
+2023-05-17T03:00:43.971Z,23,2,"Dor de Cabeça, Tosse, Febre",,Rio Grande do Sul,Rio Grande do Sul,,
+2023-05-17T03:00:29.886Z,58,2,Assintomático,1,Rio de Janeiro,Rio de Janeiro,,
+2022-11-18T03:00:00.000Z,16,2,"Coriza, Dor de Cabeça, Tosse, Febre, Dor de Garganta, Dispneia",2,Minas Gerais,Minas Gerais,Cura,Síndrome Gripal Não Especificada
+2023-03-28T03:00:00.000Z,62,2,Assintomático,1,São Paulo,São Paulo,Cura,Descartado
+2022-12-13T03:00:00.000Z,53,2,Assintomático,1,Rio de Janeiro,Rio de Janeiro,,
+2023-05-17T03:00:26.364Z,43,2,"Coriza, Dor de Cabeça, Tosse, Febre, Outros",1,Minas Gerais,Minas Gerais,,
+2023-05-17T03:00:32.653Z,50,2,"Febre, Dispneia",1,Rio de Janeiro,Rio de Janeiro,,
+2023-05-02T03:00:00.000Z,37,2,"Dor de Garganta, Outros",1,São Paulo,São Paulo,,
+2023-04-20T03:00:49.567Z,30,,"Dor de Cabeça, Febre",1,Bahia,Bahia,Cura,Síndrome Gripal Não Especificada
+2023-05-17T03:00:52.323Z,2,2,"Coriza, Tosse",2,São Paulo,São Paulo,Cura,Síndrome Gripal Não Especificada
+2021-06-16T03:00:00.000Z,28,2,"Febre, Tosse",1,São Paulo,São Paulo,Cura,Descartado
+2020-08-31T03:00:08.638Z,40,2,Assintomático,,São Paulo,São Paulo,Cura,Descartado
+2023-05-17T03:00:38.195Z,5,,"Coriza, Tosse",1,São Paulo,São Paulo,,
+2022-11-11T03:00:00.000Z,42,2,Assintomático,1,Minas Gerais,Minas Gerais,Cura,Confirmado Laboratorial
+2020-12-14T03:00:04.134Z,34,2,"Dor de Garganta, Tosse",,Pernambuco,Pernambuco,Cura,Descartado
+2023-05-17T03:00:13.494Z,30,2,"Dor de Cabeça, Outros",2,Rio Grande do Sul,Rio Grande do Sul,Ignorado,
+2023-05-17T03:00:14.001Z,17,2,"Coriza, Tosse, Dor de Garganta",1,Rio Grande do Sul,Rio Grande do Sul,,
+2023-05-17T03:00:40.144Z,52,2,"Dor de Cabeça, Febre, Coriza",,Santa Catarina,Santa Catarina,,
+2022-01-17T03:00:57.293Z,27,1,"Tosse, Febre",2,São Paulo,São Paulo,Cura,Confirmado Laboratorial
+2023-05-10T03:00:00.000Z,12,2,Coriza,1,São Paulo,São Paulo,Cura,Descartado
+2023-05-17T03:00:34.155Z,68,2,"Coriza, Tosse, Dor de Cabeça",1,Rio de Janeiro,Rio de Janeiro,Ignorado,Síndrome Gripal Não Especificada
+2023-03-14T03:00:06.687Z,28,2,"Distúrbios Gustativos, Tosse, Febre, Outros, Coriza",1,São Paulo,São Paulo,Cura,Síndrome Gripal Não Especificada
+2023-05-17T03:00:47.961Z,83,2,Assintomático,,São Paulo,São Paulo,Cura,Descartado
+2023-05-17T04:00:51.033Z,20,2,Assintomático,1,Amazonas,Amazonas,,
+2022-06-29T03:00:00.000Z,46,1,"Coriza, Dor de Cabeça, Dor de Garganta",1,Pernambuco,Pernambuco,,
+2020-10-10T07:37:51.937Z,34,2,Assintomático,,São Paulo,Paraná,Cura,Descartado
+2023-05-17T03:00:51.554Z,8,2,"Coriza, Tosse, Febre, Dor de Garganta",2,Rio Grande do Sul,Rio Grande do Sul,Ignorado,
+2021-01-25T03:00:00.000Z,21,2,Outros,,Minas Gerais,Minas Gerais,,
+2021-01-25T03:00:00.000Z,21,2,Outros,,Minas Gerais,Minas Gerais,,
+2023-04-10T03:00:00.000Z,38,2,"Coriza, Dor de Cabeça",1,Pernambuco,Pernambuco,,
+2022-08-20T03:00:00.000Z,42,2,Dor de Cabeça,,São Paulo,São Paulo,Cura,Descartado
+2023-01-09T03:00:00.000Z,29,1,"Coriza, Tosse, Febre, Dor de Garganta, Outros",1,São Paulo,São Paulo,,
+2023-05-17T03:00:41.752Z,47,2,"Dor de Cabeça, Tosse, Dor de Garganta, Outros",1,São Paulo,São Paulo,,
+2023-05-10T03:00:00.000Z,80,2,Assintomático,1,Rio Grande do Sul,Rio Grande do Sul,,Síndrome Gripal Não Especificada
+2022-07-20T03:00:00.000Z,48,2,"Coriza, Dor de Cabeça, Febre, Dor de Garganta, Tosse",1,Santa Catarina,Santa Catarina,Cura,Síndrome Gripal Não Especificada
+2023-02-28T03:00:00.000Z,68,1,"Coriza, Dor de Cabeça, Tosse, Febre, Dor de Garganta",1,São Paulo,Minas Gerais,,
+2023-02-28T03:00:00.000Z,68,2,"Coriza, Dor de Cabeça, Tosse, Febre, Dor de Garganta",1,São Paulo,Minas Gerais,,
+2023-05-16T03:00:00.000Z,32,1,"Coriza, Dor de Cabeça, Tosse, Outros",2,Alagoas,Alagoas,,
+2022-01-11T04:00:00.000Z,44,2,Assintomático,1,Mato Grosso do Sul,Mato Grosso do Sul,Cura,Síndrome Gripal Não Especificada
+2023-05-17T03:00:32.512Z,62,2,Tosse,1,Rio de Janeiro,Rio de Janeiro,,
+2023-03-07T03:00:00.000Z,25,2,"Febre, Dor de Garganta, Dor de Cabeça",,São Paulo,São Paulo,Cura,Síndrome Gripal Não Especificada
+2023-05-17T03:00:51.802Z,0,1,"Coriza, Tosse, Febre",1,Minas Gerais,Minas Gerais,,
+2022-06-13T03:00:54.171Z,10,1,"Coriza, Tosse, Febre",1,São Paulo,São Paulo,Cura,Confirmado Laboratorial
+2023-04-25T03:00:54.812Z,47,2,Assintomático,1,Rio de Janeiro,Rio de Janeiro,Cura,Descartado
+2023-05-17T03:00:19.911Z,26,2,"Coriza, Tosse, Dor de Cabeça",1,Rio de Janeiro,Rio de Janeiro,Cancelado,
+2022-05-22T03:00:00.000Z,76,1,"Coriza, Tosse, Febre",,Rio de Janeiro,Rio de Janeiro,Ignorado,Confirmado Laboratorial
+2022-07-07T03:00:00.000Z,34,1,"Tosse, Febre",1,Minas Gerais,Minas Gerais,Cura,Confirmado Laboratorial
+2020-12-14T03:00:05.900Z,48,2,"Dispneia, Distúrbios Gustativos",,Pernambuco,Pernambuco,Cura,Descartado
+2022-04-12T03:00:00.000Z,32,2,Assintomático,1,Pará,Pará,Cura,Descartado
+2023-01-27T03:00:08.460Z,18,2,"Febre, Dor de Cabeça",1,Rio de Janeiro,Rio de Janeiro,Ignorado,Síndrome Gripal Não Especificada
+2023-04-03T03:00:00.000Z,39,1,"Coriza, Dor de Cabeça, Febre, Outros",1,Rio de Janeiro,Rio de Janeiro,Ignorado,Confirmado Laboratorial
+2021-08-12T03:00:00.000Z,17,2,"Tosse, Outros",,Goiás,Goiás,Cura,Síndrome Gripal Não Especificada
+2022-12-09T03:00:40.419Z,61,2,Assintomático,1,São Paulo,São Paulo,Ignorado,Descartado
+2023-05-17T03:00:38.079Z,49,2,"Coriza, Dor de Garganta, Outros",,São Paulo,São Paulo,,
+2023-05-17T03:00:04.964Z,78,2,Assintomático,1,Minas Gerais,Minas Gerais,,
